@@ -1,21 +1,80 @@
-# DESCRIPCION DEL PROYECTO:
+# GAME STATION
 
-- La pagina estara centrada en mostrar informacion acerca de juegos en actualidad y proximos a salir.
+## Tabla de contenido
 
-# NOMBRE DE LIBRERIA:
+- [Descripción general](#Descripción-general)
+  - [Indicaciones](#Indicaciones)
+  - [Descripción del proyecto](#Descripción-del-proyecto)
+  - [Nombre de la librería](#Nombre-de-librería)
+  - [Versión del proyecto](#Versión-del-proyecto)
+  - [Enlaces](#Enlaces)
+  - [Capturas](#Capturas)
+  - [Documentación](#Documentación)
+  - [Implementación](#Implementación)
+- [Procesos](#Procesos)
+  - [Construido con](#Construido-con)
+  - [Herramientas utilizadas](#Herramientas-utilizadas)
+- [Desarrolladores](#Desarrolladores)
+
+## Descripción general
+
+### Indicaciones
+
+- Desarrollar una librería tipo Bootstrap.
+
+### Descripción del proyecto
+
+- La página estará centrada en mostrar información acerca de juegos en actualidad y próximos a salir.
+
+### Nombre de la librería
 
 - Game Station
 
-# INTEGRANTES:
+### Versión del proyecto
 
-- Denis Alexander Martel Portillo----MP20002
-- Jesse Antonio Miranda Perez--------MP20049
-- Gerardo Alexander Lopez Medrano----LM20003
+- versión 0.1
 
-# VERSION DEL PROYECTO:
+### Enlaces
 
-- version 0.1
+- Repositorio URL: [GitHub](https://github.com/AlexanderPortillo/GameStation.git)
+- Sitio en vivo URL: [GitHub Page]()
 
-# EXPLICACION DE LA LIBRERIA:
+### Capturas
 
-# EJEMPLOS DE IMPLEMENTACION:
+![](./screenshot.jpg)
+
+### Documentación
+
+### Implementación
+
+## Procesos
+
+### Construido con
+
+- Sass
+- Git
+- Marcado semántico HTML5
+- Propiedades personalizadas de CSS
+- Flex box
+- Css Grid
+- Diseño responsivo
+
+### Herramientas utilizadas
+
+- [VSCode](https://code.visualstudio.com/)
+- [Sass](https://sass-lang.com/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [TinyPNG](https://tinypng.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Icons](https://iconos8.es/icons/set/ico)
+- [Xtrafondos](https://www.xtrafondos.com/)
+- [Color Hunt](https://colorhunt.co/)
+- [Google Fonts](https://fonts.google.com/)
+- [Víctor Mono](https://rubjo.github.io/victor-mono/)
+
+## Desarrolladores
+
+- Denis Alexander Martel Portillo MP20002 - [AlexanderPortillo](https://github.com/AlexanderPortillo)
+- Jesse Antonio Miranda Pérez MP20049 - [MedranoGerardo](https://github.com/MedranoGerardo)
+- Gerardo Alexander López Medrano LM20003 - [JesseMiranda]()
