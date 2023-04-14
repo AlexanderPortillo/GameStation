@@ -1,0 +1,11 @@
+@for $i from 1 through 100 {
+	.font-size-px-#{$i} {
+		font-size: $i * 1px;
+	}
+}
+
+@for $i from 1 through 20 {
+	.font-size-r-#{$i} {
+		font-size: $i * 1rem;
+	}
+}

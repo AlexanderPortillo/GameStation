@@ -1,0 +1,35 @@
+@for $i from 1 through 100 {
+	.margin-#{$i} {
+		margin: $i * 1px;
+	}
+}
+
+@for $i from 1 through 100 {
+	.margin-#{$i} {
+		margin: $i * 1rem;
+	}
+}
+
+@for $i from 1 through 100 {
+	.padding-#{$i} {
+		padding: $i * 1px;
+	}
+}
+
+@for $i from 1 through 100 {
+	.padding-#{$i} {
+		padding: $i * 1rem;
+	}
+}
+
+@for $i from 1 through 100 {
+	.border-#{$i} {
+		border: $i * 1px;
+	}
+}
+
+@for $i from 1 through 100 {
+	.border-#{$i} {
+		border: $i * 1rem;
+	}
+}

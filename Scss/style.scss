@@ -1,3 +1,5 @@
+@use 'estilos';
+
 @use 'alertas';
 
 @use 'badges';
@@ -12,4 +14,8 @@
 
 @use 'tarjetas';
 
-@use 'estilos';
+@use 'border-radius';
+
+@use 'font-size';
+
+@use 'margen-padding-border';
