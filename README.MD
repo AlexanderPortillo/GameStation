@@ -8,7 +8,6 @@
   - [Nombre de la librería](#Nombre-de-librería)
   - [Versión del proyecto](#Versión-del-proyecto)
   - [Enlaces](#Enlaces)
-  - [Capturas](#Capturas)
   - [Documentación](#Documentación)
   - [Implementación](#Implementación)
 - [Procesos](#Procesos)
@@ -39,25 +38,32 @@
 - Repositorio URL: [GitHub](https://github.com/AlexanderPortillo/GameStation.git)
 - Sitio en vivo URL: [GitHub Page]()
 
-### Capturas
-
-![](./screenshot.jpg)
-
 ### Documentación
 
-### Implementación
+| Clases | Descripción |
+| ------ | ----------- |
+| ``     |             |
+| ``     |             |
+
+### Ejemplos Implementación
+
+```Html
+
+```
+
+![](./)
 
 ## Procesos
 
 ### Construido con
 
-- Sass
-- Git
 - Marcado semántico HTML5
 - Propiedades personalizadas de CSS
 - Flex box
 - Css Grid
 - Diseño responsivo
+- Sass
+- Git
 
 ### Herramientas utilizadas
 
@@ -76,5 +82,5 @@
 ## Desarrolladores
 
 - Denis Alexander Martel Portillo MP20002 - [AlexanderPortillo](https://github.com/AlexanderPortillo)
-- Jesse Antonio Miranda Pérez MP20049 - [MedranoGerardo](https://github.com/MedranoGerardo)
-- Gerardo Alexander López Medrano LM20003 - [JesseMiranda]()
+- Gerardo Alexander López Medrano LM20003 - [MedranoGerardo](https://github.com/MedranoGerardo)
+- Jesse Antonio Miranda Pérez MP20049 - [JesseMiranda]()
