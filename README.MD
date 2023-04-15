@@ -78,6 +78,7 @@
 - [Color Hunt](https://colorhunt.co/)
 - [Google Fonts](https://fonts.google.com/)
 - [Víctor Mono](https://rubjo.github.io/victor-mono/)
+- [Coolors](https://coolors.co/image-picker)
 
 ## Desarrolladores
 
