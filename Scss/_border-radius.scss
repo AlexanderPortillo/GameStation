@@ -1,11 +1,17 @@
-@for $i from 1 through 100 {
-	.circle-#{$i} {
+@for $i from 1 through 600 {
+	.circle-px-#{$i} {
 		border-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.circle-#{$i} {
+	.circle-porc-#{$i} {
 		border-radius: $i * 1%;
+	}
+}
+
+@for $i from 1 through 200 {
+	.circle-rem-#{$i} {
+		border-radius: $i * 1rem;
 	}
 }
