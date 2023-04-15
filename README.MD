@@ -48,7 +48,10 @@
 ### Ejemplos Implementación
 
 ```Html
-
+<button class="btn btn-red btn-lg">
+    <i class="fas fa-ad"></i>
+    Prueba
+</button>
 ```
 
 ![](./)
