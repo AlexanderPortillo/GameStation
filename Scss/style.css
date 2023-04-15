@@ -5063,6 +5063,50 @@
   font-size: 50rem;
 }
 
+.font-weight-100 {
+  font-weight: 100;
+}
+
+.font-weight-200 {
+  font-weight: 200;
+}
+
+.font-weight-300 {
+  font-weight: 300;
+}
+
+.font-weight-400 {
+  font-weight: 400;
+}
+
+.font-weight-500 {
+  font-weight: 500;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.font-weight-700 {
+  font-weight: 700;
+}
+
+.font-weight-800 {
+  font-weight: 800;
+}
+
+.font-weight-900 {
+  font-weight: 900;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.box-shadow {
+  box-shadow: 0 0 5px;
+}
+
 .margin-px-1 {
   margin: 1px;
 }
