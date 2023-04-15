@@ -40,10 +40,10 @@
 
 ### Documentación
 
-| Clases | Descripción |
-| ------ | ----------- |
-| ``     |             |
-| ``     |             |
+| Clases    | Etiqueta      | Descripción                       |
+| --------- | ------------- | --------------------------------- |
+| `.circle` | border-radius | Nos permide redondear un elemento |
+| ``        |               |                                   |
 
 ### Ejemplos Implementación
 
