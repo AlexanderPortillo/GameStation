@@ -1,5 +1,110 @@
 * {
   padding: 0;
+  margin: 0;
+}
+
+.color-red {
+  color: #ff0908;
+}
+
+.color-selective-yellow {
+  color: #fdb100;
+}
+
+.color-olive {
+  color: #856f09;
+}
+
+.color-forrest-green {
+  color: #009800;
+}
+
+.color-dark-pastel-green {
+  color: #4eb74e;
+}
+
+.color-old-gold {
+  color: #c1ab00;
+}
+
+.color-coquelicot {
+  color: #f64a1b;
+}
+
+.color-peach {
+  color: #fec190;
+}
+
+.color-sandy-brown {
+  color: #ffb56b;
+}
+
+.color-black {
+  color: #020102;
+}
+
+.color-bistre {
+  color: #3d2e1e;
+}
+
+.color-bistre {
+  color: #3d2e1e;
+}
+
+.color-kelly-green {
+  color: #01a700;
+}
+
+.bg-red {
+  background-color: #ff0908;
+}
+
+.bg-selective-yellow {
+  background-color: #fdb100;
+}
+
+.bg-olive {
+  background-color: #856f09;
+}
+
+.bg-forrest-green {
+  background-color: #009800;
+}
+
+.bg-dark-pastel-green {
+  background-color: #4eb74e;
+}
+
+.bg-old-gold {
+  background-color: #c1ab00;
+}
+
+.bg-coquelicot {
+  background-color: #f64a1b;
+}
+
+.bg-peach {
+  background-color: #fec190;
+}
+
+.bg-sandy-brown {
+  background-color: #ffb56b;
+}
+
+.bg-black {
+  background-color: #020102;
+}
+
+.bg-bistre {
+  background-color: #3d2e1e;
+}
+
+.bg-bistre {
+  background-color: #3d2e1e;
+}
+
+.bg-kelly-green {
+  background-color: #01a700;
 }
 
 .btn, .btn-red, .btn-black, .btn-white, .btn-blue {
@@ -5103,8 +5208,12 @@
   font-weight: bold;
 }
 
-.box-shadow {
-  box-shadow: 0 0 5px;
+.font-style-italic {
+  font-style: italic;
+}
+
+.font-style-oblique {
+  font-style: oblique;
 }
 
 .margin-px-1 {
@@ -13507,4804 +13616,4404 @@
   padding-right: 100rem;
 }
 
-.border-1 {
-  border: 1px;
-}
-
-.border-2 {
-  border: 2px;
-}
-
-.border-3 {
-  border: 3px;
-}
-
-.border-4 {
-  border: 4px;
-}
-
-.border-5 {
-  border: 5px;
-}
-
-.border-6 {
-  border: 6px;
-}
-
-.border-7 {
-  border: 7px;
-}
-
-.border-8 {
-  border: 8px;
-}
-
-.border-9 {
-  border: 9px;
-}
-
-.border-10 {
-  border: 10px;
-}
-
-.border-11 {
-  border: 11px;
-}
-
-.border-12 {
-  border: 12px;
-}
-
-.border-13 {
-  border: 13px;
-}
-
-.border-14 {
-  border: 14px;
-}
-
-.border-15 {
-  border: 15px;
-}
-
-.border-16 {
-  border: 16px;
-}
-
-.border-17 {
-  border: 17px;
-}
-
-.border-18 {
-  border: 18px;
-}
-
-.border-19 {
-  border: 19px;
-}
-
-.border-20 {
-  border: 20px;
-}
-
-.border-21 {
-  border: 21px;
-}
-
-.border-22 {
-  border: 22px;
-}
-
-.border-23 {
-  border: 23px;
-}
-
-.border-24 {
-  border: 24px;
-}
-
-.border-25 {
-  border: 25px;
-}
-
-.border-26 {
-  border: 26px;
-}
-
-.border-27 {
-  border: 27px;
-}
-
-.border-28 {
-  border: 28px;
-}
-
-.border-29 {
-  border: 29px;
-}
-
-.border-30 {
-  border: 30px;
-}
-
-.border-31 {
-  border: 31px;
-}
-
-.border-32 {
-  border: 32px;
-}
-
-.border-33 {
-  border: 33px;
-}
-
-.border-34 {
-  border: 34px;
-}
-
-.border-35 {
-  border: 35px;
-}
-
-.border-36 {
-  border: 36px;
-}
-
-.border-37 {
-  border: 37px;
-}
-
-.border-38 {
-  border: 38px;
-}
-
-.border-39 {
-  border: 39px;
-}
-
-.border-40 {
-  border: 40px;
-}
-
-.border-41 {
-  border: 41px;
-}
-
-.border-42 {
-  border: 42px;
-}
-
-.border-43 {
-  border: 43px;
-}
-
-.border-44 {
-  border: 44px;
-}
-
-.border-45 {
-  border: 45px;
-}
-
-.border-46 {
-  border: 46px;
-}
-
-.border-47 {
-  border: 47px;
-}
-
-.border-48 {
-  border: 48px;
-}
-
-.border-49 {
-  border: 49px;
-}
-
-.border-50 {
-  border: 50px;
-}
-
-.border-51 {
-  border: 51px;
-}
-
-.border-52 {
-  border: 52px;
-}
-
-.border-53 {
-  border: 53px;
-}
-
-.border-54 {
-  border: 54px;
-}
-
-.border-55 {
-  border: 55px;
-}
-
-.border-56 {
-  border: 56px;
-}
-
-.border-57 {
-  border: 57px;
-}
-
-.border-58 {
-  border: 58px;
-}
-
-.border-59 {
-  border: 59px;
-}
-
-.border-60 {
-  border: 60px;
-}
-
-.border-61 {
-  border: 61px;
-}
-
-.border-62 {
-  border: 62px;
-}
-
-.border-63 {
-  border: 63px;
-}
-
-.border-64 {
-  border: 64px;
-}
-
-.border-65 {
-  border: 65px;
-}
-
-.border-66 {
-  border: 66px;
-}
-
-.border-67 {
-  border: 67px;
-}
-
-.border-68 {
-  border: 68px;
-}
-
-.border-69 {
-  border: 69px;
-}
-
-.border-70 {
-  border: 70px;
-}
-
-.border-71 {
-  border: 71px;
-}
-
-.border-72 {
-  border: 72px;
-}
-
-.border-73 {
-  border: 73px;
-}
-
-.border-74 {
-  border: 74px;
-}
-
-.border-75 {
-  border: 75px;
-}
-
-.border-76 {
-  border: 76px;
-}
-
-.border-77 {
-  border: 77px;
-}
-
-.border-78 {
-  border: 78px;
-}
-
-.border-79 {
-  border: 79px;
-}
-
-.border-80 {
-  border: 80px;
-}
-
-.border-81 {
-  border: 81px;
-}
-
-.border-82 {
-  border: 82px;
-}
-
-.border-83 {
-  border: 83px;
-}
-
-.border-84 {
-  border: 84px;
-}
-
-.border-85 {
-  border: 85px;
-}
-
-.border-86 {
-  border: 86px;
-}
-
-.border-87 {
-  border: 87px;
-}
-
-.border-88 {
-  border: 88px;
-}
-
-.border-89 {
-  border: 89px;
-}
-
-.border-90 {
-  border: 90px;
-}
-
-.border-91 {
-  border: 91px;
-}
-
-.border-92 {
-  border: 92px;
-}
-
-.border-93 {
-  border: 93px;
-}
-
-.border-94 {
-  border: 94px;
-}
-
-.border-95 {
-  border: 95px;
-}
-
-.border-96 {
-  border: 96px;
-}
-
-.border-97 {
-  border: 97px;
-}
-
-.border-98 {
-  border: 98px;
-}
-
-.border-99 {
-  border: 99px;
-}
-
-.border-100 {
-  border: 100px;
-}
-
 .border-px-1 {
-  border: 1px;
+  border: 1px solid;
 }
 
 .border-px-2 {
-  border: 2px;
+  border: 2px solid;
 }
 
 .border-px-3 {
-  border: 3px;
+  border: 3px solid;
 }
 
 .border-px-4 {
-  border: 4px;
+  border: 4px solid;
 }
 
 .border-px-5 {
-  border: 5px;
+  border: 5px solid;
 }
 
 .border-px-6 {
-  border: 6px;
+  border: 6px solid;
 }
 
 .border-px-7 {
-  border: 7px;
+  border: 7px solid;
 }
 
 .border-px-8 {
-  border: 8px;
+  border: 8px solid;
 }
 
 .border-px-9 {
-  border: 9px;
+  border: 9px solid;
 }
 
 .border-px-10 {
-  border: 10px;
+  border: 10px solid;
 }
 
 .border-px-11 {
-  border: 11px;
+  border: 11px solid;
 }
 
 .border-px-12 {
-  border: 12px;
+  border: 12px solid;
 }
 
 .border-px-13 {
-  border: 13px;
+  border: 13px solid;
 }
 
 .border-px-14 {
-  border: 14px;
+  border: 14px solid;
 }
 
 .border-px-15 {
-  border: 15px;
+  border: 15px solid;
 }
 
 .border-px-16 {
-  border: 16px;
+  border: 16px solid;
 }
 
 .border-px-17 {
-  border: 17px;
+  border: 17px solid;
 }
 
 .border-px-18 {
-  border: 18px;
+  border: 18px solid;
 }
 
 .border-px-19 {
-  border: 19px;
+  border: 19px solid;
 }
 
 .border-px-20 {
-  border: 20px;
+  border: 20px solid;
 }
 
 .border-px-21 {
-  border: 21px;
+  border: 21px solid;
 }
 
 .border-px-22 {
-  border: 22px;
+  border: 22px solid;
 }
 
 .border-px-23 {
-  border: 23px;
+  border: 23px solid;
 }
 
 .border-px-24 {
-  border: 24px;
+  border: 24px solid;
 }
 
 .border-px-25 {
-  border: 25px;
+  border: 25px solid;
 }
 
 .border-px-26 {
-  border: 26px;
+  border: 26px solid;
 }
 
 .border-px-27 {
-  border: 27px;
+  border: 27px solid;
 }
 
 .border-px-28 {
-  border: 28px;
+  border: 28px solid;
 }
 
 .border-px-29 {
-  border: 29px;
+  border: 29px solid;
 }
 
 .border-px-30 {
-  border: 30px;
+  border: 30px solid;
 }
 
 .border-px-31 {
-  border: 31px;
+  border: 31px solid;
 }
 
 .border-px-32 {
-  border: 32px;
+  border: 32px solid;
 }
 
 .border-px-33 {
-  border: 33px;
+  border: 33px solid;
 }
 
 .border-px-34 {
-  border: 34px;
+  border: 34px solid;
 }
 
 .border-px-35 {
-  border: 35px;
+  border: 35px solid;
 }
 
 .border-px-36 {
-  border: 36px;
+  border: 36px solid;
 }
 
 .border-px-37 {
-  border: 37px;
+  border: 37px solid;
 }
 
 .border-px-38 {
-  border: 38px;
+  border: 38px solid;
 }
 
 .border-px-39 {
-  border: 39px;
+  border: 39px solid;
 }
 
 .border-px-40 {
-  border: 40px;
+  border: 40px solid;
 }
 
 .border-px-41 {
-  border: 41px;
+  border: 41px solid;
 }
 
 .border-px-42 {
-  border: 42px;
+  border: 42px solid;
 }
 
 .border-px-43 {
-  border: 43px;
+  border: 43px solid;
 }
 
 .border-px-44 {
-  border: 44px;
+  border: 44px solid;
 }
 
 .border-px-45 {
-  border: 45px;
+  border: 45px solid;
 }
 
 .border-px-46 {
-  border: 46px;
+  border: 46px solid;
 }
 
 .border-px-47 {
-  border: 47px;
+  border: 47px solid;
 }
 
 .border-px-48 {
-  border: 48px;
+  border: 48px solid;
 }
 
 .border-px-49 {
-  border: 49px;
+  border: 49px solid;
 }
 
 .border-px-50 {
-  border: 50px;
+  border: 50px solid;
 }
 
 .border-px-51 {
-  border: 51px;
+  border: 51px solid;
 }
 
 .border-px-52 {
-  border: 52px;
+  border: 52px solid;
 }
 
 .border-px-53 {
-  border: 53px;
+  border: 53px solid;
 }
 
 .border-px-54 {
-  border: 54px;
+  border: 54px solid;
 }
 
 .border-px-55 {
-  border: 55px;
+  border: 55px solid;
 }
 
 .border-px-56 {
-  border: 56px;
+  border: 56px solid;
 }
 
 .border-px-57 {
-  border: 57px;
+  border: 57px solid;
 }
 
 .border-px-58 {
-  border: 58px;
+  border: 58px solid;
 }
 
 .border-px-59 {
-  border: 59px;
+  border: 59px solid;
 }
 
 .border-px-60 {
-  border: 60px;
+  border: 60px solid;
 }
 
 .border-px-61 {
-  border: 61px;
+  border: 61px solid;
 }
 
 .border-px-62 {
-  border: 62px;
+  border: 62px solid;
 }
 
 .border-px-63 {
-  border: 63px;
+  border: 63px solid;
 }
 
 .border-px-64 {
-  border: 64px;
+  border: 64px solid;
 }
 
 .border-px-65 {
-  border: 65px;
+  border: 65px solid;
 }
 
 .border-px-66 {
-  border: 66px;
+  border: 66px solid;
 }
 
 .border-px-67 {
-  border: 67px;
+  border: 67px solid;
 }
 
 .border-px-68 {
-  border: 68px;
+  border: 68px solid;
 }
 
 .border-px-69 {
-  border: 69px;
+  border: 69px solid;
 }
 
 .border-px-70 {
-  border: 70px;
+  border: 70px solid;
 }
 
 .border-px-71 {
-  border: 71px;
+  border: 71px solid;
 }
 
 .border-px-72 {
-  border: 72px;
+  border: 72px solid;
 }
 
 .border-px-73 {
-  border: 73px;
+  border: 73px solid;
 }
 
 .border-px-74 {
-  border: 74px;
+  border: 74px solid;
 }
 
 .border-px-75 {
-  border: 75px;
+  border: 75px solid;
 }
 
 .border-px-76 {
-  border: 76px;
+  border: 76px solid;
 }
 
 .border-px-77 {
-  border: 77px;
+  border: 77px solid;
 }
 
 .border-px-78 {
-  border: 78px;
+  border: 78px solid;
 }
 
 .border-px-79 {
-  border: 79px;
+  border: 79px solid;
 }
 
 .border-px-80 {
-  border: 80px;
+  border: 80px solid;
 }
 
 .border-px-81 {
-  border: 81px;
+  border: 81px solid;
 }
 
 .border-px-82 {
-  border: 82px;
+  border: 82px solid;
 }
 
 .border-px-83 {
-  border: 83px;
+  border: 83px solid;
 }
 
 .border-px-84 {
-  border: 84px;
+  border: 84px solid;
 }
 
 .border-px-85 {
-  border: 85px;
+  border: 85px solid;
 }
 
 .border-px-86 {
-  border: 86px;
+  border: 86px solid;
 }
 
 .border-px-87 {
-  border: 87px;
+  border: 87px solid;
 }
 
 .border-px-88 {
-  border: 88px;
+  border: 88px solid;
 }
 
 .border-px-89 {
-  border: 89px;
+  border: 89px solid;
 }
 
 .border-px-90 {
-  border: 90px;
+  border: 90px solid;
 }
 
 .border-px-91 {
-  border: 91px;
+  border: 91px solid;
 }
 
 .border-px-92 {
-  border: 92px;
+  border: 92px solid;
 }
 
 .border-px-93 {
-  border: 93px;
+  border: 93px solid;
 }
 
 .border-px-94 {
-  border: 94px;
+  border: 94px solid;
 }
 
 .border-px-95 {
-  border: 95px;
+  border: 95px solid;
 }
 
 .border-px-96 {
-  border: 96px;
+  border: 96px solid;
 }
 
 .border-px-97 {
-  border: 97px;
+  border: 97px solid;
 }
 
 .border-px-98 {
-  border: 98px;
+  border: 98px solid;
 }
 
 .border-px-99 {
-  border: 99px;
+  border: 99px solid;
 }
 
 .border-px-100 {
-  border: 100px;
+  border: 100px solid;
 }
 
 .border-px-101 {
-  border: 101px;
+  border: 101px solid;
 }
 
 .border-px-102 {
-  border: 102px;
+  border: 102px solid;
 }
 
 .border-px-103 {
-  border: 103px;
+  border: 103px solid;
 }
 
 .border-px-104 {
-  border: 104px;
+  border: 104px solid;
 }
 
 .border-px-105 {
-  border: 105px;
+  border: 105px solid;
 }
 
 .border-px-106 {
-  border: 106px;
+  border: 106px solid;
 }
 
 .border-px-107 {
-  border: 107px;
+  border: 107px solid;
 }
 
 .border-px-108 {
-  border: 108px;
+  border: 108px solid;
 }
 
 .border-px-109 {
-  border: 109px;
+  border: 109px solid;
 }
 
 .border-px-110 {
-  border: 110px;
+  border: 110px solid;
 }
 
 .border-px-111 {
-  border: 111px;
+  border: 111px solid;
 }
 
 .border-px-112 {
-  border: 112px;
+  border: 112px solid;
 }
 
 .border-px-113 {
-  border: 113px;
+  border: 113px solid;
 }
 
 .border-px-114 {
-  border: 114px;
+  border: 114px solid;
 }
 
 .border-px-115 {
-  border: 115px;
+  border: 115px solid;
 }
 
 .border-px-116 {
-  border: 116px;
+  border: 116px solid;
 }
 
 .border-px-117 {
-  border: 117px;
+  border: 117px solid;
 }
 
 .border-px-118 {
-  border: 118px;
+  border: 118px solid;
 }
 
 .border-px-119 {
-  border: 119px;
+  border: 119px solid;
 }
 
 .border-px-120 {
-  border: 120px;
+  border: 120px solid;
 }
 
 .border-px-121 {
-  border: 121px;
+  border: 121px solid;
 }
 
 .border-px-122 {
-  border: 122px;
+  border: 122px solid;
 }
 
 .border-px-123 {
-  border: 123px;
+  border: 123px solid;
 }
 
 .border-px-124 {
-  border: 124px;
+  border: 124px solid;
 }
 
 .border-px-125 {
-  border: 125px;
+  border: 125px solid;
 }
 
 .border-px-126 {
-  border: 126px;
+  border: 126px solid;
 }
 
 .border-px-127 {
-  border: 127px;
+  border: 127px solid;
 }
 
 .border-px-128 {
-  border: 128px;
+  border: 128px solid;
 }
 
 .border-px-129 {
-  border: 129px;
+  border: 129px solid;
 }
 
 .border-px-130 {
-  border: 130px;
+  border: 130px solid;
 }
 
 .border-px-131 {
-  border: 131px;
+  border: 131px solid;
 }
 
 .border-px-132 {
-  border: 132px;
+  border: 132px solid;
 }
 
 .border-px-133 {
-  border: 133px;
+  border: 133px solid;
 }
 
 .border-px-134 {
-  border: 134px;
+  border: 134px solid;
 }
 
 .border-px-135 {
-  border: 135px;
+  border: 135px solid;
 }
 
 .border-px-136 {
-  border: 136px;
+  border: 136px solid;
 }
 
 .border-px-137 {
-  border: 137px;
+  border: 137px solid;
 }
 
 .border-px-138 {
-  border: 138px;
+  border: 138px solid;
 }
 
 .border-px-139 {
-  border: 139px;
+  border: 139px solid;
 }
 
 .border-px-140 {
-  border: 140px;
+  border: 140px solid;
 }
 
 .border-px-141 {
-  border: 141px;
+  border: 141px solid;
 }
 
 .border-px-142 {
-  border: 142px;
+  border: 142px solid;
 }
 
 .border-px-143 {
-  border: 143px;
+  border: 143px solid;
 }
 
 .border-px-144 {
-  border: 144px;
+  border: 144px solid;
 }
 
 .border-px-145 {
-  border: 145px;
+  border: 145px solid;
 }
 
 .border-px-146 {
-  border: 146px;
+  border: 146px solid;
 }
 
 .border-px-147 {
-  border: 147px;
+  border: 147px solid;
 }
 
 .border-px-148 {
-  border: 148px;
+  border: 148px solid;
 }
 
 .border-px-149 {
-  border: 149px;
+  border: 149px solid;
 }
 
 .border-px-150 {
-  border: 150px;
+  border: 150px solid;
 }
 
 .border-px-151 {
-  border: 151px;
+  border: 151px solid;
 }
 
 .border-px-152 {
-  border: 152px;
+  border: 152px solid;
 }
 
 .border-px-153 {
-  border: 153px;
+  border: 153px solid;
 }
 
 .border-px-154 {
-  border: 154px;
+  border: 154px solid;
 }
 
 .border-px-155 {
-  border: 155px;
+  border: 155px solid;
 }
 
 .border-px-156 {
-  border: 156px;
+  border: 156px solid;
 }
 
 .border-px-157 {
-  border: 157px;
+  border: 157px solid;
 }
 
 .border-px-158 {
-  border: 158px;
+  border: 158px solid;
 }
 
 .border-px-159 {
-  border: 159px;
+  border: 159px solid;
 }
 
 .border-px-160 {
-  border: 160px;
+  border: 160px solid;
 }
 
 .border-px-161 {
-  border: 161px;
+  border: 161px solid;
 }
 
 .border-px-162 {
-  border: 162px;
+  border: 162px solid;
 }
 
 .border-px-163 {
-  border: 163px;
+  border: 163px solid;
 }
 
 .border-px-164 {
-  border: 164px;
+  border: 164px solid;
 }
 
 .border-px-165 {
-  border: 165px;
+  border: 165px solid;
 }
 
 .border-px-166 {
-  border: 166px;
+  border: 166px solid;
 }
 
 .border-px-167 {
-  border: 167px;
+  border: 167px solid;
 }
 
 .border-px-168 {
-  border: 168px;
+  border: 168px solid;
 }
 
 .border-px-169 {
-  border: 169px;
+  border: 169px solid;
 }
 
 .border-px-170 {
-  border: 170px;
+  border: 170px solid;
 }
 
 .border-px-171 {
-  border: 171px;
+  border: 171px solid;
 }
 
 .border-px-172 {
-  border: 172px;
+  border: 172px solid;
 }
 
 .border-px-173 {
-  border: 173px;
+  border: 173px solid;
 }
 
 .border-px-174 {
-  border: 174px;
+  border: 174px solid;
 }
 
 .border-px-175 {
-  border: 175px;
+  border: 175px solid;
 }
 
 .border-px-176 {
-  border: 176px;
+  border: 176px solid;
 }
 
 .border-px-177 {
-  border: 177px;
+  border: 177px solid;
 }
 
 .border-px-178 {
-  border: 178px;
+  border: 178px solid;
 }
 
 .border-px-179 {
-  border: 179px;
+  border: 179px solid;
 }
 
 .border-px-180 {
-  border: 180px;
+  border: 180px solid;
 }
 
 .border-px-181 {
-  border: 181px;
+  border: 181px solid;
 }
 
 .border-px-182 {
-  border: 182px;
+  border: 182px solid;
 }
 
 .border-px-183 {
-  border: 183px;
+  border: 183px solid;
 }
 
 .border-px-184 {
-  border: 184px;
+  border: 184px solid;
 }
 
 .border-px-185 {
-  border: 185px;
+  border: 185px solid;
 }
 
 .border-px-186 {
-  border: 186px;
+  border: 186px solid;
 }
 
 .border-px-187 {
-  border: 187px;
+  border: 187px solid;
 }
 
 .border-px-188 {
-  border: 188px;
+  border: 188px solid;
 }
 
 .border-px-189 {
-  border: 189px;
+  border: 189px solid;
 }
 
 .border-px-190 {
-  border: 190px;
+  border: 190px solid;
 }
 
 .border-px-191 {
-  border: 191px;
+  border: 191px solid;
 }
 
 .border-px-192 {
-  border: 192px;
+  border: 192px solid;
 }
 
 .border-px-193 {
-  border: 193px;
+  border: 193px solid;
 }
 
 .border-px-194 {
-  border: 194px;
+  border: 194px solid;
 }
 
 .border-px-195 {
-  border: 195px;
+  border: 195px solid;
 }
 
 .border-px-196 {
-  border: 196px;
+  border: 196px solid;
 }
 
 .border-px-197 {
-  border: 197px;
+  border: 197px solid;
 }
 
 .border-px-198 {
-  border: 198px;
+  border: 198px solid;
 }
 
 .border-px-199 {
-  border: 199px;
+  border: 199px solid;
 }
 
 .border-px-200 {
-  border: 200px;
+  border: 200px solid;
 }
 
 .border-top-px-1 {
-  border-top: 1px;
+  border-top: 1px solid;
 }
 
 .border-top-px-2 {
-  border-top: 2px;
+  border-top: 2px solid;
 }
 
 .border-top-px-3 {
-  border-top: 3px;
+  border-top: 3px solid;
 }
 
 .border-top-px-4 {
-  border-top: 4px;
+  border-top: 4px solid;
 }
 
 .border-top-px-5 {
-  border-top: 5px;
+  border-top: 5px solid;
 }
 
 .border-top-px-6 {
-  border-top: 6px;
+  border-top: 6px solid;
 }
 
 .border-top-px-7 {
-  border-top: 7px;
+  border-top: 7px solid;
 }
 
 .border-top-px-8 {
-  border-top: 8px;
+  border-top: 8px solid;
 }
 
 .border-top-px-9 {
-  border-top: 9px;
+  border-top: 9px solid;
 }
 
 .border-top-px-10 {
-  border-top: 10px;
+  border-top: 10px solid;
 }
 
 .border-top-px-11 {
-  border-top: 11px;
+  border-top: 11px solid;
 }
 
 .border-top-px-12 {
-  border-top: 12px;
+  border-top: 12px solid;
 }
 
 .border-top-px-13 {
-  border-top: 13px;
+  border-top: 13px solid;
 }
 
 .border-top-px-14 {
-  border-top: 14px;
+  border-top: 14px solid;
 }
 
 .border-top-px-15 {
-  border-top: 15px;
+  border-top: 15px solid;
 }
 
 .border-top-px-16 {
-  border-top: 16px;
+  border-top: 16px solid;
 }
 
 .border-top-px-17 {
-  border-top: 17px;
+  border-top: 17px solid;
 }
 
 .border-top-px-18 {
-  border-top: 18px;
+  border-top: 18px solid;
 }
 
 .border-top-px-19 {
-  border-top: 19px;
+  border-top: 19px solid;
 }
 
 .border-top-px-20 {
-  border-top: 20px;
+  border-top: 20px solid;
 }
 
 .border-top-px-21 {
-  border-top: 21px;
+  border-top: 21px solid;
 }
 
 .border-top-px-22 {
-  border-top: 22px;
+  border-top: 22px solid;
 }
 
 .border-top-px-23 {
-  border-top: 23px;
+  border-top: 23px solid;
 }
 
 .border-top-px-24 {
-  border-top: 24px;
+  border-top: 24px solid;
 }
 
 .border-top-px-25 {
-  border-top: 25px;
+  border-top: 25px solid;
 }
 
 .border-top-px-26 {
-  border-top: 26px;
+  border-top: 26px solid;
 }
 
 .border-top-px-27 {
-  border-top: 27px;
+  border-top: 27px solid;
 }
 
 .border-top-px-28 {
-  border-top: 28px;
+  border-top: 28px solid;
 }
 
 .border-top-px-29 {
-  border-top: 29px;
+  border-top: 29px solid;
 }
 
 .border-top-px-30 {
-  border-top: 30px;
+  border-top: 30px solid;
 }
 
 .border-top-px-31 {
-  border-top: 31px;
+  border-top: 31px solid;
 }
 
 .border-top-px-32 {
-  border-top: 32px;
+  border-top: 32px solid;
 }
 
 .border-top-px-33 {
-  border-top: 33px;
+  border-top: 33px solid;
 }
 
 .border-top-px-34 {
-  border-top: 34px;
+  border-top: 34px solid;
 }
 
 .border-top-px-35 {
-  border-top: 35px;
+  border-top: 35px solid;
 }
 
 .border-top-px-36 {
-  border-top: 36px;
+  border-top: 36px solid;
 }
 
 .border-top-px-37 {
-  border-top: 37px;
+  border-top: 37px solid;
 }
 
 .border-top-px-38 {
-  border-top: 38px;
+  border-top: 38px solid;
 }
 
 .border-top-px-39 {
-  border-top: 39px;
+  border-top: 39px solid;
 }
 
 .border-top-px-40 {
-  border-top: 40px;
+  border-top: 40px solid;
 }
 
 .border-top-px-41 {
-  border-top: 41px;
+  border-top: 41px solid;
 }
 
 .border-top-px-42 {
-  border-top: 42px;
+  border-top: 42px solid;
 }
 
 .border-top-px-43 {
-  border-top: 43px;
+  border-top: 43px solid;
 }
 
 .border-top-px-44 {
-  border-top: 44px;
+  border-top: 44px solid;
 }
 
 .border-top-px-45 {
-  border-top: 45px;
+  border-top: 45px solid;
 }
 
 .border-top-px-46 {
-  border-top: 46px;
+  border-top: 46px solid;
 }
 
 .border-top-px-47 {
-  border-top: 47px;
+  border-top: 47px solid;
 }
 
 .border-top-px-48 {
-  border-top: 48px;
+  border-top: 48px solid;
 }
 
 .border-top-px-49 {
-  border-top: 49px;
+  border-top: 49px solid;
 }
 
 .border-top-px-50 {
-  border-top: 50px;
+  border-top: 50px solid;
 }
 
 .border-top-px-51 {
-  border-top: 51px;
+  border-top: 51px solid;
 }
 
 .border-top-px-52 {
-  border-top: 52px;
+  border-top: 52px solid;
 }
 
 .border-top-px-53 {
-  border-top: 53px;
+  border-top: 53px solid;
 }
 
 .border-top-px-54 {
-  border-top: 54px;
+  border-top: 54px solid;
 }
 
 .border-top-px-55 {
-  border-top: 55px;
+  border-top: 55px solid;
 }
 
 .border-top-px-56 {
-  border-top: 56px;
+  border-top: 56px solid;
 }
 
 .border-top-px-57 {
-  border-top: 57px;
+  border-top: 57px solid;
 }
 
 .border-top-px-58 {
-  border-top: 58px;
+  border-top: 58px solid;
 }
 
 .border-top-px-59 {
-  border-top: 59px;
+  border-top: 59px solid;
 }
 
 .border-top-px-60 {
-  border-top: 60px;
+  border-top: 60px solid;
 }
 
 .border-top-px-61 {
-  border-top: 61px;
+  border-top: 61px solid;
 }
 
 .border-top-px-62 {
-  border-top: 62px;
+  border-top: 62px solid;
 }
 
 .border-top-px-63 {
-  border-top: 63px;
+  border-top: 63px solid;
 }
 
 .border-top-px-64 {
-  border-top: 64px;
+  border-top: 64px solid;
 }
 
 .border-top-px-65 {
-  border-top: 65px;
+  border-top: 65px solid;
 }
 
 .border-top-px-66 {
-  border-top: 66px;
+  border-top: 66px solid;
 }
 
 .border-top-px-67 {
-  border-top: 67px;
+  border-top: 67px solid;
 }
 
 .border-top-px-68 {
-  border-top: 68px;
+  border-top: 68px solid;
 }
 
 .border-top-px-69 {
-  border-top: 69px;
+  border-top: 69px solid;
 }
 
 .border-top-px-70 {
-  border-top: 70px;
+  border-top: 70px solid;
 }
 
 .border-top-px-71 {
-  border-top: 71px;
+  border-top: 71px solid;
 }
 
 .border-top-px-72 {
-  border-top: 72px;
+  border-top: 72px solid;
 }
 
 .border-top-px-73 {
-  border-top: 73px;
+  border-top: 73px solid;
 }
 
 .border-top-px-74 {
-  border-top: 74px;
+  border-top: 74px solid;
 }
 
 .border-top-px-75 {
-  border-top: 75px;
+  border-top: 75px solid;
 }
 
 .border-top-px-76 {
-  border-top: 76px;
+  border-top: 76px solid;
 }
 
 .border-top-px-77 {
-  border-top: 77px;
+  border-top: 77px solid;
 }
 
 .border-top-px-78 {
-  border-top: 78px;
+  border-top: 78px solid;
 }
 
 .border-top-px-79 {
-  border-top: 79px;
+  border-top: 79px solid;
 }
 
 .border-top-px-80 {
-  border-top: 80px;
+  border-top: 80px solid;
 }
 
 .border-top-px-81 {
-  border-top: 81px;
+  border-top: 81px solid;
 }
 
 .border-top-px-82 {
-  border-top: 82px;
+  border-top: 82px solid;
 }
 
 .border-top-px-83 {
-  border-top: 83px;
+  border-top: 83px solid;
 }
 
 .border-top-px-84 {
-  border-top: 84px;
+  border-top: 84px solid;
 }
 
 .border-top-px-85 {
-  border-top: 85px;
+  border-top: 85px solid;
 }
 
 .border-top-px-86 {
-  border-top: 86px;
+  border-top: 86px solid;
 }
 
 .border-top-px-87 {
-  border-top: 87px;
+  border-top: 87px solid;
 }
 
 .border-top-px-88 {
-  border-top: 88px;
+  border-top: 88px solid;
 }
 
 .border-top-px-89 {
-  border-top: 89px;
+  border-top: 89px solid;
 }
 
 .border-top-px-90 {
-  border-top: 90px;
+  border-top: 90px solid;
 }
 
 .border-top-px-91 {
-  border-top: 91px;
+  border-top: 91px solid;
 }
 
 .border-top-px-92 {
-  border-top: 92px;
+  border-top: 92px solid;
 }
 
 .border-top-px-93 {
-  border-top: 93px;
+  border-top: 93px solid;
 }
 
 .border-top-px-94 {
-  border-top: 94px;
+  border-top: 94px solid;
 }
 
 .border-top-px-95 {
-  border-top: 95px;
+  border-top: 95px solid;
 }
 
 .border-top-px-96 {
-  border-top: 96px;
+  border-top: 96px solid;
 }
 
 .border-top-px-97 {
-  border-top: 97px;
+  border-top: 97px solid;
 }
 
 .border-top-px-98 {
-  border-top: 98px;
+  border-top: 98px solid;
 }
 
 .border-top-px-99 {
-  border-top: 99px;
+  border-top: 99px solid;
 }
 
 .border-top-px-100 {
-  border-top: 100px;
+  border-top: 100px solid;
 }
 
 .border-bottom-px-1 {
-  border-bottom: 1px;
+  border-bottom: 1px solid;
 }
 
 .border-bottom-px-2 {
-  border-bottom: 2px;
+  border-bottom: 2px solid;
 }
 
 .border-bottom-px-3 {
-  border-bottom: 3px;
+  border-bottom: 3px solid;
 }
 
 .border-bottom-px-4 {
-  border-bottom: 4px;
+  border-bottom: 4px solid;
 }
 
 .border-bottom-px-5 {
-  border-bottom: 5px;
+  border-bottom: 5px solid;
 }
 
 .border-bottom-px-6 {
-  border-bottom: 6px;
+  border-bottom: 6px solid;
 }
 
 .border-bottom-px-7 {
-  border-bottom: 7px;
+  border-bottom: 7px solid;
 }
 
 .border-bottom-px-8 {
-  border-bottom: 8px;
+  border-bottom: 8px solid;
 }
 
 .border-bottom-px-9 {
-  border-bottom: 9px;
+  border-bottom: 9px solid;
 }
 
 .border-bottom-px-10 {
-  border-bottom: 10px;
+  border-bottom: 10px solid;
 }
 
 .border-bottom-px-11 {
-  border-bottom: 11px;
+  border-bottom: 11px solid;
 }
 
 .border-bottom-px-12 {
-  border-bottom: 12px;
+  border-bottom: 12px solid;
 }
 
 .border-bottom-px-13 {
-  border-bottom: 13px;
+  border-bottom: 13px solid;
 }
 
 .border-bottom-px-14 {
-  border-bottom: 14px;
+  border-bottom: 14px solid;
 }
 
 .border-bottom-px-15 {
-  border-bottom: 15px;
+  border-bottom: 15px solid;
 }
 
 .border-bottom-px-16 {
-  border-bottom: 16px;
+  border-bottom: 16px solid;
 }
 
 .border-bottom-px-17 {
-  border-bottom: 17px;
+  border-bottom: 17px solid;
 }
 
 .border-bottom-px-18 {
-  border-bottom: 18px;
+  border-bottom: 18px solid;
 }
 
 .border-bottom-px-19 {
-  border-bottom: 19px;
+  border-bottom: 19px solid;
 }
 
 .border-bottom-px-20 {
-  border-bottom: 20px;
+  border-bottom: 20px solid;
 }
 
 .border-bottom-px-21 {
-  border-bottom: 21px;
+  border-bottom: 21px solid;
 }
 
 .border-bottom-px-22 {
-  border-bottom: 22px;
+  border-bottom: 22px solid;
 }
 
 .border-bottom-px-23 {
-  border-bottom: 23px;
+  border-bottom: 23px solid;
 }
 
 .border-bottom-px-24 {
-  border-bottom: 24px;
+  border-bottom: 24px solid;
 }
 
 .border-bottom-px-25 {
-  border-bottom: 25px;
+  border-bottom: 25px solid;
 }
 
 .border-bottom-px-26 {
-  border-bottom: 26px;
+  border-bottom: 26px solid;
 }
 
 .border-bottom-px-27 {
-  border-bottom: 27px;
+  border-bottom: 27px solid;
 }
 
 .border-bottom-px-28 {
-  border-bottom: 28px;
+  border-bottom: 28px solid;
 }
 
 .border-bottom-px-29 {
-  border-bottom: 29px;
+  border-bottom: 29px solid;
 }
 
 .border-bottom-px-30 {
-  border-bottom: 30px;
+  border-bottom: 30px solid;
 }
 
 .border-bottom-px-31 {
-  border-bottom: 31px;
+  border-bottom: 31px solid;
 }
 
 .border-bottom-px-32 {
-  border-bottom: 32px;
+  border-bottom: 32px solid;
 }
 
 .border-bottom-px-33 {
-  border-bottom: 33px;
+  border-bottom: 33px solid;
 }
 
 .border-bottom-px-34 {
-  border-bottom: 34px;
+  border-bottom: 34px solid;
 }
 
 .border-bottom-px-35 {
-  border-bottom: 35px;
+  border-bottom: 35px solid;
 }
 
 .border-bottom-px-36 {
-  border-bottom: 36px;
+  border-bottom: 36px solid;
 }
 
 .border-bottom-px-37 {
-  border-bottom: 37px;
+  border-bottom: 37px solid;
 }
 
 .border-bottom-px-38 {
-  border-bottom: 38px;
+  border-bottom: 38px solid;
 }
 
 .border-bottom-px-39 {
-  border-bottom: 39px;
+  border-bottom: 39px solid;
 }
 
 .border-bottom-px-40 {
-  border-bottom: 40px;
+  border-bottom: 40px solid;
 }
 
 .border-bottom-px-41 {
-  border-bottom: 41px;
+  border-bottom: 41px solid;
 }
 
 .border-bottom-px-42 {
-  border-bottom: 42px;
+  border-bottom: 42px solid;
 }
 
 .border-bottom-px-43 {
-  border-bottom: 43px;
+  border-bottom: 43px solid;
 }
 
 .border-bottom-px-44 {
-  border-bottom: 44px;
+  border-bottom: 44px solid;
 }
 
 .border-bottom-px-45 {
-  border-bottom: 45px;
+  border-bottom: 45px solid;
 }
 
 .border-bottom-px-46 {
-  border-bottom: 46px;
+  border-bottom: 46px solid;
 }
 
 .border-bottom-px-47 {
-  border-bottom: 47px;
+  border-bottom: 47px solid;
 }
 
 .border-bottom-px-48 {
-  border-bottom: 48px;
+  border-bottom: 48px solid;
 }
 
 .border-bottom-px-49 {
-  border-bottom: 49px;
+  border-bottom: 49px solid;
 }
 
 .border-bottom-px-50 {
-  border-bottom: 50px;
+  border-bottom: 50px solid;
 }
 
 .border-bottom-px-51 {
-  border-bottom: 51px;
+  border-bottom: 51px solid;
 }
 
 .border-bottom-px-52 {
-  border-bottom: 52px;
+  border-bottom: 52px solid;
 }
 
 .border-bottom-px-53 {
-  border-bottom: 53px;
+  border-bottom: 53px solid;
 }
 
 .border-bottom-px-54 {
-  border-bottom: 54px;
+  border-bottom: 54px solid;
 }
 
 .border-bottom-px-55 {
-  border-bottom: 55px;
+  border-bottom: 55px solid;
 }
 
 .border-bottom-px-56 {
-  border-bottom: 56px;
+  border-bottom: 56px solid;
 }
 
 .border-bottom-px-57 {
-  border-bottom: 57px;
+  border-bottom: 57px solid;
 }
 
 .border-bottom-px-58 {
-  border-bottom: 58px;
+  border-bottom: 58px solid;
 }
 
 .border-bottom-px-59 {
-  border-bottom: 59px;
+  border-bottom: 59px solid;
 }
 
 .border-bottom-px-60 {
-  border-bottom: 60px;
+  border-bottom: 60px solid;
 }
 
 .border-bottom-px-61 {
-  border-bottom: 61px;
+  border-bottom: 61px solid;
 }
 
 .border-bottom-px-62 {
-  border-bottom: 62px;
+  border-bottom: 62px solid;
 }
 
 .border-bottom-px-63 {
-  border-bottom: 63px;
+  border-bottom: 63px solid;
 }
 
 .border-bottom-px-64 {
-  border-bottom: 64px;
+  border-bottom: 64px solid;
 }
 
 .border-bottom-px-65 {
-  border-bottom: 65px;
+  border-bottom: 65px solid;
 }
 
 .border-bottom-px-66 {
-  border-bottom: 66px;
+  border-bottom: 66px solid;
 }
 
 .border-bottom-px-67 {
-  border-bottom: 67px;
+  border-bottom: 67px solid;
 }
 
 .border-bottom-px-68 {
-  border-bottom: 68px;
+  border-bottom: 68px solid;
 }
 
 .border-bottom-px-69 {
-  border-bottom: 69px;
+  border-bottom: 69px solid;
 }
 
 .border-bottom-px-70 {
-  border-bottom: 70px;
+  border-bottom: 70px solid;
 }
 
 .border-bottom-px-71 {
-  border-bottom: 71px;
+  border-bottom: 71px solid;
 }
 
 .border-bottom-px-72 {
-  border-bottom: 72px;
+  border-bottom: 72px solid;
 }
 
 .border-bottom-px-73 {
-  border-bottom: 73px;
+  border-bottom: 73px solid;
 }
 
 .border-bottom-px-74 {
-  border-bottom: 74px;
+  border-bottom: 74px solid;
 }
 
 .border-bottom-px-75 {
-  border-bottom: 75px;
+  border-bottom: 75px solid;
 }
 
 .border-bottom-px-76 {
-  border-bottom: 76px;
+  border-bottom: 76px solid;
 }
 
 .border-bottom-px-77 {
-  border-bottom: 77px;
+  border-bottom: 77px solid;
 }
 
 .border-bottom-px-78 {
-  border-bottom: 78px;
+  border-bottom: 78px solid;
 }
 
 .border-bottom-px-79 {
-  border-bottom: 79px;
+  border-bottom: 79px solid;
 }
 
 .border-bottom-px-80 {
-  border-bottom: 80px;
+  border-bottom: 80px solid;
 }
 
 .border-bottom-px-81 {
-  border-bottom: 81px;
+  border-bottom: 81px solid;
 }
 
 .border-bottom-px-82 {
-  border-bottom: 82px;
+  border-bottom: 82px solid;
 }
 
 .border-bottom-px-83 {
-  border-bottom: 83px;
+  border-bottom: 83px solid;
 }
 
 .border-bottom-px-84 {
-  border-bottom: 84px;
+  border-bottom: 84px solid;
 }
 
 .border-bottom-px-85 {
-  border-bottom: 85px;
+  border-bottom: 85px solid;
 }
 
 .border-bottom-px-86 {
-  border-bottom: 86px;
+  border-bottom: 86px solid;
 }
 
 .border-bottom-px-87 {
-  border-bottom: 87px;
+  border-bottom: 87px solid;
 }
 
 .border-bottom-px-88 {
-  border-bottom: 88px;
+  border-bottom: 88px solid;
 }
 
 .border-bottom-px-89 {
-  border-bottom: 89px;
+  border-bottom: 89px solid;
 }
 
 .border-bottom-px-90 {
-  border-bottom: 90px;
+  border-bottom: 90px solid;
 }
 
 .border-bottom-px-91 {
-  border-bottom: 91px;
+  border-bottom: 91px solid;
 }
 
 .border-bottom-px-92 {
-  border-bottom: 92px;
+  border-bottom: 92px solid;
 }
 
 .border-bottom-px-93 {
-  border-bottom: 93px;
+  border-bottom: 93px solid;
 }
 
 .border-bottom-px-94 {
-  border-bottom: 94px;
+  border-bottom: 94px solid;
 }
 
 .border-bottom-px-95 {
-  border-bottom: 95px;
+  border-bottom: 95px solid;
 }
 
 .border-bottom-px-96 {
-  border-bottom: 96px;
+  border-bottom: 96px solid;
 }
 
 .border-bottom-px-97 {
-  border-bottom: 97px;
+  border-bottom: 97px solid;
 }
 
 .border-bottom-px-98 {
-  border-bottom: 98px;
+  border-bottom: 98px solid;
 }
 
 .border-bottom-px-99 {
-  border-bottom: 99px;
+  border-bottom: 99px solid;
 }
 
 .border-bottom-px-100 {
-  border-bottom: 100px;
+  border-bottom: 100px solid;
 }
 
 .border-left-px-1 {
-  border-left: 1px;
+  border-left: 1px solid;
 }
 
 .border-left-px-2 {
-  border-left: 2px;
+  border-left: 2px solid;
 }
 
 .border-left-px-3 {
-  border-left: 3px;
+  border-left: 3px solid;
 }
 
 .border-left-px-4 {
-  border-left: 4px;
+  border-left: 4px solid;
 }
 
 .border-left-px-5 {
-  border-left: 5px;
+  border-left: 5px solid;
 }
 
 .border-left-px-6 {
-  border-left: 6px;
+  border-left: 6px solid;
 }
 
 .border-left-px-7 {
-  border-left: 7px;
+  border-left: 7px solid;
 }
 
 .border-left-px-8 {
-  border-left: 8px;
+  border-left: 8px solid;
 }
 
 .border-left-px-9 {
-  border-left: 9px;
+  border-left: 9px solid;
 }
 
 .border-left-px-10 {
-  border-left: 10px;
+  border-left: 10px solid;
 }
 
 .border-left-px-11 {
-  border-left: 11px;
+  border-left: 11px solid;
 }
 
 .border-left-px-12 {
-  border-left: 12px;
+  border-left: 12px solid;
 }
 
 .border-left-px-13 {
-  border-left: 13px;
+  border-left: 13px solid;
 }
 
 .border-left-px-14 {
-  border-left: 14px;
+  border-left: 14px solid;
 }
 
 .border-left-px-15 {
-  border-left: 15px;
+  border-left: 15px solid;
 }
 
 .border-left-px-16 {
-  border-left: 16px;
+  border-left: 16px solid;
 }
 
 .border-left-px-17 {
-  border-left: 17px;
+  border-left: 17px solid;
 }
 
 .border-left-px-18 {
-  border-left: 18px;
+  border-left: 18px solid;
 }
 
 .border-left-px-19 {
-  border-left: 19px;
+  border-left: 19px solid;
 }
 
 .border-left-px-20 {
-  border-left: 20px;
+  border-left: 20px solid;
 }
 
 .border-left-px-21 {
-  border-left: 21px;
+  border-left: 21px solid;
 }
 
 .border-left-px-22 {
-  border-left: 22px;
+  border-left: 22px solid;
 }
 
 .border-left-px-23 {
-  border-left: 23px;
+  border-left: 23px solid;
 }
 
 .border-left-px-24 {
-  border-left: 24px;
+  border-left: 24px solid;
 }
 
 .border-left-px-25 {
-  border-left: 25px;
+  border-left: 25px solid;
 }
 
 .border-left-px-26 {
-  border-left: 26px;
+  border-left: 26px solid;
 }
 
 .border-left-px-27 {
-  border-left: 27px;
+  border-left: 27px solid;
 }
 
 .border-left-px-28 {
-  border-left: 28px;
+  border-left: 28px solid;
 }
 
 .border-left-px-29 {
-  border-left: 29px;
+  border-left: 29px solid;
 }
 
 .border-left-px-30 {
-  border-left: 30px;
+  border-left: 30px solid;
 }
 
 .border-left-px-31 {
-  border-left: 31px;
+  border-left: 31px solid;
 }
 
 .border-left-px-32 {
-  border-left: 32px;
+  border-left: 32px solid;
 }
 
 .border-left-px-33 {
-  border-left: 33px;
+  border-left: 33px solid;
 }
 
 .border-left-px-34 {
-  border-left: 34px;
+  border-left: 34px solid;
 }
 
 .border-left-px-35 {
-  border-left: 35px;
+  border-left: 35px solid;
 }
 
 .border-left-px-36 {
-  border-left: 36px;
+  border-left: 36px solid;
 }
 
 .border-left-px-37 {
-  border-left: 37px;
+  border-left: 37px solid;
 }
 
 .border-left-px-38 {
-  border-left: 38px;
+  border-left: 38px solid;
 }
 
 .border-left-px-39 {
-  border-left: 39px;
+  border-left: 39px solid;
 }
 
 .border-left-px-40 {
-  border-left: 40px;
+  border-left: 40px solid;
 }
 
 .border-left-px-41 {
-  border-left: 41px;
+  border-left: 41px solid;
 }
 
 .border-left-px-42 {
-  border-left: 42px;
+  border-left: 42px solid;
 }
 
 .border-left-px-43 {
-  border-left: 43px;
+  border-left: 43px solid;
 }
 
 .border-left-px-44 {
-  border-left: 44px;
+  border-left: 44px solid;
 }
 
 .border-left-px-45 {
-  border-left: 45px;
+  border-left: 45px solid;
 }
 
 .border-left-px-46 {
-  border-left: 46px;
+  border-left: 46px solid;
 }
 
 .border-left-px-47 {
-  border-left: 47px;
+  border-left: 47px solid;
 }
 
 .border-left-px-48 {
-  border-left: 48px;
+  border-left: 48px solid;
 }
 
 .border-left-px-49 {
-  border-left: 49px;
+  border-left: 49px solid;
 }
 
 .border-left-px-50 {
-  border-left: 50px;
+  border-left: 50px solid;
 }
 
 .border-left-px-51 {
-  border-left: 51px;
+  border-left: 51px solid;
 }
 
 .border-left-px-52 {
-  border-left: 52px;
+  border-left: 52px solid;
 }
 
 .border-left-px-53 {
-  border-left: 53px;
+  border-left: 53px solid;
 }
 
 .border-left-px-54 {
-  border-left: 54px;
+  border-left: 54px solid;
 }
 
 .border-left-px-55 {
-  border-left: 55px;
+  border-left: 55px solid;
 }
 
 .border-left-px-56 {
-  border-left: 56px;
+  border-left: 56px solid;
 }
 
 .border-left-px-57 {
-  border-left: 57px;
+  border-left: 57px solid;
 }
 
 .border-left-px-58 {
-  border-left: 58px;
+  border-left: 58px solid;
 }
 
 .border-left-px-59 {
-  border-left: 59px;
+  border-left: 59px solid;
 }
 
 .border-left-px-60 {
-  border-left: 60px;
+  border-left: 60px solid;
 }
 
 .border-left-px-61 {
-  border-left: 61px;
+  border-left: 61px solid;
 }
 
 .border-left-px-62 {
-  border-left: 62px;
+  border-left: 62px solid;
 }
 
 .border-left-px-63 {
-  border-left: 63px;
+  border-left: 63px solid;
 }
 
 .border-left-px-64 {
-  border-left: 64px;
+  border-left: 64px solid;
 }
 
 .border-left-px-65 {
-  border-left: 65px;
+  border-left: 65px solid;
 }
 
 .border-left-px-66 {
-  border-left: 66px;
+  border-left: 66px solid;
 }
 
 .border-left-px-67 {
-  border-left: 67px;
+  border-left: 67px solid;
 }
 
 .border-left-px-68 {
-  border-left: 68px;
+  border-left: 68px solid;
 }
 
 .border-left-px-69 {
-  border-left: 69px;
+  border-left: 69px solid;
 }
 
 .border-left-px-70 {
-  border-left: 70px;
+  border-left: 70px solid;
 }
 
 .border-left-px-71 {
-  border-left: 71px;
+  border-left: 71px solid;
 }
 
 .border-left-px-72 {
-  border-left: 72px;
+  border-left: 72px solid;
 }
 
 .border-left-px-73 {
-  border-left: 73px;
+  border-left: 73px solid;
 }
 
 .border-left-px-74 {
-  border-left: 74px;
+  border-left: 74px solid;
 }
 
 .border-left-px-75 {
-  border-left: 75px;
+  border-left: 75px solid;
 }
 
 .border-left-px-76 {
-  border-left: 76px;
+  border-left: 76px solid;
 }
 
 .border-left-px-77 {
-  border-left: 77px;
+  border-left: 77px solid;
 }
 
 .border-left-px-78 {
-  border-left: 78px;
+  border-left: 78px solid;
 }
 
 .border-left-px-79 {
-  border-left: 79px;
+  border-left: 79px solid;
 }
 
 .border-left-px-80 {
-  border-left: 80px;
+  border-left: 80px solid;
 }
 
 .border-left-px-81 {
-  border-left: 81px;
+  border-left: 81px solid;
 }
 
 .border-left-px-82 {
-  border-left: 82px;
+  border-left: 82px solid;
 }
 
 .border-left-px-83 {
-  border-left: 83px;
+  border-left: 83px solid;
 }
 
 .border-left-px-84 {
-  border-left: 84px;
+  border-left: 84px solid;
 }
 
 .border-left-px-85 {
-  border-left: 85px;
+  border-left: 85px solid;
 }
 
 .border-left-px-86 {
-  border-left: 86px;
+  border-left: 86px solid;
 }
 
 .border-left-px-87 {
-  border-left: 87px;
+  border-left: 87px solid;
 }
 
 .border-left-px-88 {
-  border-left: 88px;
+  border-left: 88px solid;
 }
 
 .border-left-px-89 {
-  border-left: 89px;
+  border-left: 89px solid;
 }
 
 .border-left-px-90 {
-  border-left: 90px;
+  border-left: 90px solid;
 }
 
 .border-left-px-91 {
-  border-left: 91px;
+  border-left: 91px solid;
 }
 
 .border-left-px-92 {
-  border-left: 92px;
+  border-left: 92px solid;
 }
 
 .border-left-px-93 {
-  border-left: 93px;
+  border-left: 93px solid;
 }
 
 .border-left-px-94 {
-  border-left: 94px;
+  border-left: 94px solid;
 }
 
 .border-left-px-95 {
-  border-left: 95px;
+  border-left: 95px solid;
 }
 
 .border-left-px-96 {
-  border-left: 96px;
+  border-left: 96px solid;
 }
 
 .border-left-px-97 {
-  border-left: 97px;
+  border-left: 97px solid;
 }
 
 .border-left-px-98 {
-  border-left: 98px;
+  border-left: 98px solid;
 }
 
 .border-left-px-99 {
-  border-left: 99px;
+  border-left: 99px solid;
 }
 
 .border-left-px-100 {
-  border-left: 100px;
+  border-left: 100px solid;
 }
 
 .border-right-px-1 {
-  border-right: 1px;
+  border-right: 1px solid;
 }
 
 .border-right-px-2 {
-  border-right: 2px;
+  border-right: 2px solid;
 }
 
 .border-right-px-3 {
-  border-right: 3px;
+  border-right: 3px solid;
 }
 
 .border-right-px-4 {
-  border-right: 4px;
+  border-right: 4px solid;
 }
 
 .border-right-px-5 {
-  border-right: 5px;
+  border-right: 5px solid;
 }
 
 .border-right-px-6 {
-  border-right: 6px;
+  border-right: 6px solid;
 }
 
 .border-right-px-7 {
-  border-right: 7px;
+  border-right: 7px solid;
 }
 
 .border-right-px-8 {
-  border-right: 8px;
+  border-right: 8px solid;
 }
 
 .border-right-px-9 {
-  border-right: 9px;
+  border-right: 9px solid;
 }
 
 .border-right-px-10 {
-  border-right: 10px;
+  border-right: 10px solid;
 }
 
 .border-right-px-11 {
-  border-right: 11px;
+  border-right: 11px solid;
 }
 
 .border-right-px-12 {
-  border-right: 12px;
+  border-right: 12px solid;
 }
 
 .border-right-px-13 {
-  border-right: 13px;
+  border-right: 13px solid;
 }
 
 .border-right-px-14 {
-  border-right: 14px;
+  border-right: 14px solid;
 }
 
 .border-right-px-15 {
-  border-right: 15px;
+  border-right: 15px solid;
 }
 
 .border-right-px-16 {
-  border-right: 16px;
+  border-right: 16px solid;
 }
 
 .border-right-px-17 {
-  border-right: 17px;
+  border-right: 17px solid;
 }
 
 .border-right-px-18 {
-  border-right: 18px;
+  border-right: 18px solid;
 }
 
 .border-right-px-19 {
-  border-right: 19px;
+  border-right: 19px solid;
 }
 
 .border-right-px-20 {
-  border-right: 20px;
+  border-right: 20px solid;
 }
 
 .border-right-px-21 {
-  border-right: 21px;
+  border-right: 21px solid;
 }
 
 .border-right-px-22 {
-  border-right: 22px;
+  border-right: 22px solid;
 }
 
 .border-right-px-23 {
-  border-right: 23px;
+  border-right: 23px solid;
 }
 
 .border-right-px-24 {
-  border-right: 24px;
+  border-right: 24px solid;
 }
 
 .border-right-px-25 {
-  border-right: 25px;
+  border-right: 25px solid;
 }
 
 .border-right-px-26 {
-  border-right: 26px;
+  border-right: 26px solid;
 }
 
 .border-right-px-27 {
-  border-right: 27px;
+  border-right: 27px solid;
 }
 
 .border-right-px-28 {
-  border-right: 28px;
+  border-right: 28px solid;
 }
 
 .border-right-px-29 {
-  border-right: 29px;
+  border-right: 29px solid;
 }
 
 .border-right-px-30 {
-  border-right: 30px;
+  border-right: 30px solid;
 }
 
 .border-right-px-31 {
-  border-right: 31px;
+  border-right: 31px solid;
 }
 
 .border-right-px-32 {
-  border-right: 32px;
+  border-right: 32px solid;
 }
 
 .border-right-px-33 {
-  border-right: 33px;
+  border-right: 33px solid;
 }
 
 .border-right-px-34 {
-  border-right: 34px;
+  border-right: 34px solid;
 }
 
 .border-right-px-35 {
-  border-right: 35px;
+  border-right: 35px solid;
 }
 
 .border-right-px-36 {
-  border-right: 36px;
+  border-right: 36px solid;
 }
 
 .border-right-px-37 {
-  border-right: 37px;
+  border-right: 37px solid;
 }
 
 .border-right-px-38 {
-  border-right: 38px;
+  border-right: 38px solid;
 }
 
 .border-right-px-39 {
-  border-right: 39px;
+  border-right: 39px solid;
 }
 
 .border-right-px-40 {
-  border-right: 40px;
+  border-right: 40px solid;
 }
 
 .border-right-px-41 {
-  border-right: 41px;
+  border-right: 41px solid;
 }
 
 .border-right-px-42 {
-  border-right: 42px;
+  border-right: 42px solid;
 }
 
 .border-right-px-43 {
-  border-right: 43px;
+  border-right: 43px solid;
 }
 
 .border-right-px-44 {
-  border-right: 44px;
+  border-right: 44px solid;
 }
 
 .border-right-px-45 {
-  border-right: 45px;
+  border-right: 45px solid;
 }
 
 .border-right-px-46 {
-  border-right: 46px;
+  border-right: 46px solid;
 }
 
 .border-right-px-47 {
-  border-right: 47px;
+  border-right: 47px solid;
 }
 
 .border-right-px-48 {
-  border-right: 48px;
+  border-right: 48px solid;
 }
 
 .border-right-px-49 {
-  border-right: 49px;
+  border-right: 49px solid;
 }
 
 .border-right-px-50 {
-  border-right: 50px;
+  border-right: 50px solid;
 }
 
 .border-right-px-51 {
-  border-right: 51px;
+  border-right: 51px solid;
 }
 
 .border-right-px-52 {
-  border-right: 52px;
+  border-right: 52px solid;
 }
 
 .border-right-px-53 {
-  border-right: 53px;
+  border-right: 53px solid;
 }
 
 .border-right-px-54 {
-  border-right: 54px;
+  border-right: 54px solid;
 }
 
 .border-right-px-55 {
-  border-right: 55px;
+  border-right: 55px solid;
 }
 
 .border-right-px-56 {
-  border-right: 56px;
+  border-right: 56px solid;
 }
 
 .border-right-px-57 {
-  border-right: 57px;
+  border-right: 57px solid;
 }
 
 .border-right-px-58 {
-  border-right: 58px;
+  border-right: 58px solid;
 }
 
 .border-right-px-59 {
-  border-right: 59px;
+  border-right: 59px solid;
 }
 
 .border-right-px-60 {
-  border-right: 60px;
+  border-right: 60px solid;
 }
 
 .border-right-px-61 {
-  border-right: 61px;
+  border-right: 61px solid;
 }
 
 .border-right-px-62 {
-  border-right: 62px;
+  border-right: 62px solid;
 }
 
 .border-right-px-63 {
-  border-right: 63px;
+  border-right: 63px solid;
 }
 
 .border-right-px-64 {
-  border-right: 64px;
+  border-right: 64px solid;
 }
 
 .border-right-px-65 {
-  border-right: 65px;
+  border-right: 65px solid;
 }
 
 .border-right-px-66 {
-  border-right: 66px;
+  border-right: 66px solid;
 }
 
 .border-right-px-67 {
-  border-right: 67px;
+  border-right: 67px solid;
 }
 
 .border-right-px-68 {
-  border-right: 68px;
+  border-right: 68px solid;
 }
 
 .border-right-px-69 {
-  border-right: 69px;
+  border-right: 69px solid;
 }
 
 .border-right-px-70 {
-  border-right: 70px;
+  border-right: 70px solid;
 }
 
 .border-right-px-71 {
-  border-right: 71px;
+  border-right: 71px solid;
 }
 
 .border-right-px-72 {
-  border-right: 72px;
+  border-right: 72px solid;
 }
 
 .border-right-px-73 {
-  border-right: 73px;
+  border-right: 73px solid;
 }
 
 .border-right-px-74 {
-  border-right: 74px;
+  border-right: 74px solid;
 }
 
 .border-right-px-75 {
-  border-right: 75px;
+  border-right: 75px solid;
 }
 
 .border-right-px-76 {
-  border-right: 76px;
+  border-right: 76px solid;
 }
 
 .border-right-px-77 {
-  border-right: 77px;
+  border-right: 77px solid;
 }
 
 .border-right-px-78 {
-  border-right: 78px;
+  border-right: 78px solid;
 }
 
 .border-right-px-79 {
-  border-right: 79px;
+  border-right: 79px solid;
 }
 
 .border-right-px-80 {
-  border-right: 80px;
+  border-right: 80px solid;
 }
 
 .border-right-px-81 {
-  border-right: 81px;
+  border-right: 81px solid;
 }
 
 .border-right-px-82 {
-  border-right: 82px;
+  border-right: 82px solid;
 }
 
 .border-right-px-83 {
-  border-right: 83px;
+  border-right: 83px solid;
 }
 
 .border-right-px-84 {
-  border-right: 84px;
+  border-right: 84px solid;
 }
 
 .border-right-px-85 {
-  border-right: 85px;
+  border-right: 85px solid;
 }
 
 .border-right-px-86 {
-  border-right: 86px;
+  border-right: 86px solid;
 }
 
 .border-right-px-87 {
-  border-right: 87px;
+  border-right: 87px solid;
 }
 
 .border-right-px-88 {
-  border-right: 88px;
+  border-right: 88px solid;
 }
 
 .border-right-px-89 {
-  border-right: 89px;
+  border-right: 89px solid;
 }
 
 .border-right-px-90 {
-  border-right: 90px;
+  border-right: 90px solid;
 }
 
 .border-right-px-91 {
-  border-right: 91px;
+  border-right: 91px solid;
 }
 
 .border-right-px-92 {
-  border-right: 92px;
+  border-right: 92px solid;
 }
 
 .border-right-px-93 {
-  border-right: 93px;
+  border-right: 93px solid;
 }
 
 .border-right-px-94 {
-  border-right: 94px;
+  border-right: 94px solid;
 }
 
 .border-right-px-95 {
-  border-right: 95px;
+  border-right: 95px solid;
 }
 
 .border-right-px-96 {
-  border-right: 96px;
+  border-right: 96px solid;
 }
 
 .border-right-px-97 {
-  border-right: 97px;
+  border-right: 97px solid;
 }
 
 .border-right-px-98 {
-  border-right: 98px;
+  border-right: 98px solid;
 }
 
 .border-right-px-99 {
-  border-right: 99px;
+  border-right: 99px solid;
 }
 
 .border-right-px-100 {
-  border-right: 100px;
+  border-right: 100px solid;
 }
 
 .border-rem-1 {
-  border: 1rem;
+  border: 1rem solid;
 }
 
 .border-rem-2 {
-  border: 2rem;
+  border: 2rem solid;
 }
 
 .border-rem-3 {
-  border: 3rem;
+  border: 3rem solid;
 }
 
 .border-rem-4 {
-  border: 4rem;
+  border: 4rem solid;
 }
 
 .border-rem-5 {
-  border: 5rem;
+  border: 5rem solid;
 }
 
 .border-rem-6 {
-  border: 6rem;
+  border: 6rem solid;
 }
 
 .border-rem-7 {
-  border: 7rem;
+  border: 7rem solid;
 }
 
 .border-rem-8 {
-  border: 8rem;
+  border: 8rem solid;
 }
 
 .border-rem-9 {
-  border: 9rem;
+  border: 9rem solid;
 }
 
 .border-rem-10 {
-  border: 10rem;
+  border: 10rem solid;
 }
 
 .border-rem-11 {
-  border: 11rem;
+  border: 11rem solid;
 }
 
 .border-rem-12 {
-  border: 12rem;
+  border: 12rem solid;
 }
 
 .border-rem-13 {
-  border: 13rem;
+  border: 13rem solid;
 }
 
 .border-rem-14 {
-  border: 14rem;
+  border: 14rem solid;
 }
 
 .border-rem-15 {
-  border: 15rem;
+  border: 15rem solid;
 }
 
 .border-rem-16 {
-  border: 16rem;
+  border: 16rem solid;
 }
 
 .border-rem-17 {
-  border: 17rem;
+  border: 17rem solid;
 }
 
 .border-rem-18 {
-  border: 18rem;
+  border: 18rem solid;
 }
 
 .border-rem-19 {
-  border: 19rem;
+  border: 19rem solid;
 }
 
 .border-rem-20 {
-  border: 20rem;
+  border: 20rem solid;
 }
 
 .border-rem-21 {
-  border: 21rem;
+  border: 21rem solid;
 }
 
 .border-rem-22 {
-  border: 22rem;
+  border: 22rem solid;
 }
 
 .border-rem-23 {
-  border: 23rem;
+  border: 23rem solid;
 }
 
 .border-rem-24 {
-  border: 24rem;
+  border: 24rem solid;
 }
 
 .border-rem-25 {
-  border: 25rem;
+  border: 25rem solid;
 }
 
 .border-rem-26 {
-  border: 26rem;
+  border: 26rem solid;
 }
 
 .border-rem-27 {
-  border: 27rem;
+  border: 27rem solid;
 }
 
 .border-rem-28 {
-  border: 28rem;
+  border: 28rem solid;
 }
 
 .border-rem-29 {
-  border: 29rem;
+  border: 29rem solid;
 }
 
 .border-rem-30 {
-  border: 30rem;
+  border: 30rem solid;
 }
 
 .border-rem-31 {
-  border: 31rem;
+  border: 31rem solid;
 }
 
 .border-rem-32 {
-  border: 32rem;
+  border: 32rem solid;
 }
 
 .border-rem-33 {
-  border: 33rem;
+  border: 33rem solid;
 }
 
 .border-rem-34 {
-  border: 34rem;
+  border: 34rem solid;
 }
 
 .border-rem-35 {
-  border: 35rem;
+  border: 35rem solid;
 }
 
 .border-rem-36 {
-  border: 36rem;
+  border: 36rem solid;
 }
 
 .border-rem-37 {
-  border: 37rem;
+  border: 37rem solid;
 }
 
 .border-rem-38 {
-  border: 38rem;
+  border: 38rem solid;
 }
 
 .border-rem-39 {
-  border: 39rem;
+  border: 39rem solid;
 }
 
 .border-rem-40 {
-  border: 40rem;
+  border: 40rem solid;
 }
 
 .border-rem-41 {
-  border: 41rem;
+  border: 41rem solid;
 }
 
 .border-rem-42 {
-  border: 42rem;
+  border: 42rem solid;
 }
 
 .border-rem-43 {
-  border: 43rem;
+  border: 43rem solid;
 }
 
 .border-rem-44 {
-  border: 44rem;
+  border: 44rem solid;
 }
 
 .border-rem-45 {
-  border: 45rem;
+  border: 45rem solid;
 }
 
 .border-rem-46 {
-  border: 46rem;
+  border: 46rem solid;
 }
 
 .border-rem-47 {
-  border: 47rem;
+  border: 47rem solid;
 }
 
 .border-rem-48 {
-  border: 48rem;
+  border: 48rem solid;
 }
 
 .border-rem-49 {
-  border: 49rem;
+  border: 49rem solid;
 }
 
 .border-rem-50 {
-  border: 50rem;
+  border: 50rem solid;
 }
 
 .border-rem-51 {
-  border: 51rem;
+  border: 51rem solid;
 }
 
 .border-rem-52 {
-  border: 52rem;
+  border: 52rem solid;
 }
 
 .border-rem-53 {
-  border: 53rem;
+  border: 53rem solid;
 }
 
 .border-rem-54 {
-  border: 54rem;
+  border: 54rem solid;
 }
 
 .border-rem-55 {
-  border: 55rem;
+  border: 55rem solid;
 }
 
 .border-rem-56 {
-  border: 56rem;
+  border: 56rem solid;
 }
 
 .border-rem-57 {
-  border: 57rem;
+  border: 57rem solid;
 }
 
 .border-rem-58 {
-  border: 58rem;
+  border: 58rem solid;
 }
 
 .border-rem-59 {
-  border: 59rem;
+  border: 59rem solid;
 }
 
 .border-rem-60 {
-  border: 60rem;
+  border: 60rem solid;
 }
 
 .border-rem-61 {
-  border: 61rem;
+  border: 61rem solid;
 }
 
 .border-rem-62 {
-  border: 62rem;
+  border: 62rem solid;
 }
 
 .border-rem-63 {
-  border: 63rem;
+  border: 63rem solid;
 }
 
 .border-rem-64 {
-  border: 64rem;
+  border: 64rem solid;
 }
 
 .border-rem-65 {
-  border: 65rem;
+  border: 65rem solid;
 }
 
 .border-rem-66 {
-  border: 66rem;
+  border: 66rem solid;
 }
 
 .border-rem-67 {
-  border: 67rem;
+  border: 67rem solid;
 }
 
 .border-rem-68 {
-  border: 68rem;
+  border: 68rem solid;
 }
 
 .border-rem-69 {
-  border: 69rem;
+  border: 69rem solid;
 }
 
 .border-rem-70 {
-  border: 70rem;
+  border: 70rem solid;
 }
 
 .border-rem-71 {
-  border: 71rem;
+  border: 71rem solid;
 }
 
 .border-rem-72 {
-  border: 72rem;
+  border: 72rem solid;
 }
 
 .border-rem-73 {
-  border: 73rem;
+  border: 73rem solid;
 }
 
 .border-rem-74 {
-  border: 74rem;
+  border: 74rem solid;
 }
 
 .border-rem-75 {
-  border: 75rem;
+  border: 75rem solid;
 }
 
 .border-rem-76 {
-  border: 76rem;
+  border: 76rem solid;
 }
 
 .border-rem-77 {
-  border: 77rem;
+  border: 77rem solid;
 }
 
 .border-rem-78 {
-  border: 78rem;
+  border: 78rem solid;
 }
 
 .border-rem-79 {
-  border: 79rem;
+  border: 79rem solid;
 }
 
 .border-rem-80 {
-  border: 80rem;
+  border: 80rem solid;
 }
 
 .border-rem-81 {
-  border: 81rem;
+  border: 81rem solid;
 }
 
 .border-rem-82 {
-  border: 82rem;
+  border: 82rem solid;
 }
 
 .border-rem-83 {
-  border: 83rem;
+  border: 83rem solid;
 }
 
 .border-rem-84 {
-  border: 84rem;
+  border: 84rem solid;
 }
 
 .border-rem-85 {
-  border: 85rem;
+  border: 85rem solid;
 }
 
 .border-rem-86 {
-  border: 86rem;
+  border: 86rem solid;
 }
 
 .border-rem-87 {
-  border: 87rem;
+  border: 87rem solid;
 }
 
 .border-rem-88 {
-  border: 88rem;
+  border: 88rem solid;
 }
 
 .border-rem-89 {
-  border: 89rem;
+  border: 89rem solid;
 }
 
 .border-rem-90 {
-  border: 90rem;
+  border: 90rem solid;
 }
 
 .border-rem-91 {
-  border: 91rem;
+  border: 91rem solid;
 }
 
 .border-rem-92 {
-  border: 92rem;
+  border: 92rem solid;
 }
 
 .border-rem-93 {
-  border: 93rem;
+  border: 93rem solid;
 }
 
 .border-rem-94 {
-  border: 94rem;
+  border: 94rem solid;
 }
 
 .border-rem-95 {
-  border: 95rem;
+  border: 95rem solid;
 }
 
 .border-rem-96 {
-  border: 96rem;
+  border: 96rem solid;
 }
 
 .border-rem-97 {
-  border: 97rem;
+  border: 97rem solid;
 }
 
 .border-rem-98 {
-  border: 98rem;
+  border: 98rem solid;
 }
 
 .border-rem-99 {
-  border: 99rem;
+  border: 99rem solid;
 }
 
 .border-rem-100 {
-  border: 100rem;
+  border: 100rem solid;
 }
 
 .border-top-rem-1 {
-  border-top: 1rem;
+  border-top: 1rem solid;
 }
 
 .border-top-rem-2 {
-  border-top: 2rem;
+  border-top: 2rem solid;
 }
 
 .border-top-rem-3 {
-  border-top: 3rem;
+  border-top: 3rem solid;
 }
 
 .border-top-rem-4 {
-  border-top: 4rem;
+  border-top: 4rem solid;
 }
 
 .border-top-rem-5 {
-  border-top: 5rem;
+  border-top: 5rem solid;
 }
 
 .border-top-rem-6 {
-  border-top: 6rem;
+  border-top: 6rem solid;
 }
 
 .border-top-rem-7 {
-  border-top: 7rem;
+  border-top: 7rem solid;
 }
 
 .border-top-rem-8 {
-  border-top: 8rem;
+  border-top: 8rem solid;
 }
 
 .border-top-rem-9 {
-  border-top: 9rem;
+  border-top: 9rem solid;
 }
 
 .border-top-rem-10 {
-  border-top: 10rem;
+  border-top: 10rem solid;
 }
 
 .border-top-rem-11 {
-  border-top: 11rem;
+  border-top: 11rem solid;
 }
 
 .border-top-rem-12 {
-  border-top: 12rem;
+  border-top: 12rem solid;
 }
 
 .border-top-rem-13 {
-  border-top: 13rem;
+  border-top: 13rem solid;
 }
 
 .border-top-rem-14 {
-  border-top: 14rem;
+  border-top: 14rem solid;
 }
 
 .border-top-rem-15 {
-  border-top: 15rem;
+  border-top: 15rem solid;
 }
 
 .border-top-rem-16 {
-  border-top: 16rem;
+  border-top: 16rem solid;
 }
 
 .border-top-rem-17 {
-  border-top: 17rem;
+  border-top: 17rem solid;
 }
 
 .border-top-rem-18 {
-  border-top: 18rem;
+  border-top: 18rem solid;
 }
 
 .border-top-rem-19 {
-  border-top: 19rem;
+  border-top: 19rem solid;
 }
 
 .border-top-rem-20 {
-  border-top: 20rem;
+  border-top: 20rem solid;
 }
 
 .border-top-rem-21 {
-  border-top: 21rem;
+  border-top: 21rem solid;
 }
 
 .border-top-rem-22 {
-  border-top: 22rem;
+  border-top: 22rem solid;
 }
 
 .border-top-rem-23 {
-  border-top: 23rem;
+  border-top: 23rem solid;
 }
 
 .border-top-rem-24 {
-  border-top: 24rem;
+  border-top: 24rem solid;
 }
 
 .border-top-rem-25 {
-  border-top: 25rem;
+  border-top: 25rem solid;
 }
 
 .border-top-rem-26 {
-  border-top: 26rem;
+  border-top: 26rem solid;
 }
 
 .border-top-rem-27 {
-  border-top: 27rem;
+  border-top: 27rem solid;
 }
 
 .border-top-rem-28 {
-  border-top: 28rem;
+  border-top: 28rem solid;
 }
 
 .border-top-rem-29 {
-  border-top: 29rem;
+  border-top: 29rem solid;
 }
 
 .border-top-rem-30 {
-  border-top: 30rem;
+  border-top: 30rem solid;
 }
 
 .border-top-rem-31 {
-  border-top: 31rem;
+  border-top: 31rem solid;
 }
 
 .border-top-rem-32 {
-  border-top: 32rem;
+  border-top: 32rem solid;
 }
 
 .border-top-rem-33 {
-  border-top: 33rem;
+  border-top: 33rem solid;
 }
 
 .border-top-rem-34 {
-  border-top: 34rem;
+  border-top: 34rem solid;
 }
 
 .border-top-rem-35 {
-  border-top: 35rem;
+  border-top: 35rem solid;
 }
 
 .border-top-rem-36 {
-  border-top: 36rem;
+  border-top: 36rem solid;
 }
 
 .border-top-rem-37 {
-  border-top: 37rem;
+  border-top: 37rem solid;
 }
 
 .border-top-rem-38 {
-  border-top: 38rem;
+  border-top: 38rem solid;
 }
 
 .border-top-rem-39 {
-  border-top: 39rem;
+  border-top: 39rem solid;
 }
 
 .border-top-rem-40 {
-  border-top: 40rem;
+  border-top: 40rem solid;
 }
 
 .border-top-rem-41 {
-  border-top: 41rem;
+  border-top: 41rem solid;
 }
 
 .border-top-rem-42 {
-  border-top: 42rem;
+  border-top: 42rem solid;
 }
 
 .border-top-rem-43 {
-  border-top: 43rem;
+  border-top: 43rem solid;
 }
 
 .border-top-rem-44 {
-  border-top: 44rem;
+  border-top: 44rem solid;
 }
 
 .border-top-rem-45 {
-  border-top: 45rem;
+  border-top: 45rem solid;
 }
 
 .border-top-rem-46 {
-  border-top: 46rem;
+  border-top: 46rem solid;
 }
 
 .border-top-rem-47 {
-  border-top: 47rem;
+  border-top: 47rem solid;
 }
 
 .border-top-rem-48 {
-  border-top: 48rem;
+  border-top: 48rem solid;
 }
 
 .border-top-rem-49 {
-  border-top: 49rem;
+  border-top: 49rem solid;
 }
 
 .border-top-rem-50 {
-  border-top: 50rem;
+  border-top: 50rem solid;
 }
 
 .border-top-rem-51 {
-  border-top: 51rem;
+  border-top: 51rem solid;
 }
 
 .border-top-rem-52 {
-  border-top: 52rem;
+  border-top: 52rem solid;
 }
 
 .border-top-rem-53 {
-  border-top: 53rem;
+  border-top: 53rem solid;
 }
 
 .border-top-rem-54 {
-  border-top: 54rem;
+  border-top: 54rem solid;
 }
 
 .border-top-rem-55 {
-  border-top: 55rem;
+  border-top: 55rem solid;
 }
 
 .border-top-rem-56 {
-  border-top: 56rem;
+  border-top: 56rem solid;
 }
 
 .border-top-rem-57 {
-  border-top: 57rem;
+  border-top: 57rem solid;
 }
 
 .border-top-rem-58 {
-  border-top: 58rem;
+  border-top: 58rem solid;
 }
 
 .border-top-rem-59 {
-  border-top: 59rem;
+  border-top: 59rem solid;
 }
 
 .border-top-rem-60 {
-  border-top: 60rem;
+  border-top: 60rem solid;
 }
 
 .border-top-rem-61 {
-  border-top: 61rem;
+  border-top: 61rem solid;
 }
 
 .border-top-rem-62 {
-  border-top: 62rem;
+  border-top: 62rem solid;
 }
 
 .border-top-rem-63 {
-  border-top: 63rem;
+  border-top: 63rem solid;
 }
 
 .border-top-rem-64 {
-  border-top: 64rem;
+  border-top: 64rem solid;
 }
 
 .border-top-rem-65 {
-  border-top: 65rem;
+  border-top: 65rem solid;
 }
 
 .border-top-rem-66 {
-  border-top: 66rem;
+  border-top: 66rem solid;
 }
 
 .border-top-rem-67 {
-  border-top: 67rem;
+  border-top: 67rem solid;
 }
 
 .border-top-rem-68 {
-  border-top: 68rem;
+  border-top: 68rem solid;
 }
 
 .border-top-rem-69 {
-  border-top: 69rem;
+  border-top: 69rem solid;
 }
 
 .border-top-rem-70 {
-  border-top: 70rem;
+  border-top: 70rem solid;
 }
 
 .border-top-rem-71 {
-  border-top: 71rem;
+  border-top: 71rem solid;
 }
 
 .border-top-rem-72 {
-  border-top: 72rem;
+  border-top: 72rem solid;
 }
 
 .border-top-rem-73 {
-  border-top: 73rem;
+  border-top: 73rem solid;
 }
 
 .border-top-rem-74 {
-  border-top: 74rem;
+  border-top: 74rem solid;
 }
 
 .border-top-rem-75 {
-  border-top: 75rem;
+  border-top: 75rem solid;
 }
 
 .border-top-rem-76 {
-  border-top: 76rem;
+  border-top: 76rem solid;
 }
 
 .border-top-rem-77 {
-  border-top: 77rem;
+  border-top: 77rem solid;
 }
 
 .border-top-rem-78 {
-  border-top: 78rem;
+  border-top: 78rem solid;
 }
 
 .border-top-rem-79 {
-  border-top: 79rem;
+  border-top: 79rem solid;
 }
 
 .border-top-rem-80 {
-  border-top: 80rem;
+  border-top: 80rem solid;
 }
 
 .border-top-rem-81 {
-  border-top: 81rem;
+  border-top: 81rem solid;
 }
 
 .border-top-rem-82 {
-  border-top: 82rem;
+  border-top: 82rem solid;
 }
 
 .border-top-rem-83 {
-  border-top: 83rem;
+  border-top: 83rem solid;
 }
 
 .border-top-rem-84 {
-  border-top: 84rem;
+  border-top: 84rem solid;
 }
 
 .border-top-rem-85 {
-  border-top: 85rem;
+  border-top: 85rem solid;
 }
 
 .border-top-rem-86 {
-  border-top: 86rem;
+  border-top: 86rem solid;
 }
 
 .border-top-rem-87 {
-  border-top: 87rem;
+  border-top: 87rem solid;
 }
 
 .border-top-rem-88 {
-  border-top: 88rem;
+  border-top: 88rem solid;
 }
 
 .border-top-rem-89 {
-  border-top: 89rem;
+  border-top: 89rem solid;
 }
 
 .border-top-rem-90 {
-  border-top: 90rem;
+  border-top: 90rem solid;
 }
 
 .border-top-rem-91 {
-  border-top: 91rem;
+  border-top: 91rem solid;
 }
 
 .border-top-rem-92 {
-  border-top: 92rem;
+  border-top: 92rem solid;
 }
 
 .border-top-rem-93 {
-  border-top: 93rem;
+  border-top: 93rem solid;
 }
 
 .border-top-rem-94 {
-  border-top: 94rem;
+  border-top: 94rem solid;
 }
 
 .border-top-rem-95 {
-  border-top: 95rem;
+  border-top: 95rem solid;
 }
 
 .border-top-rem-96 {
-  border-top: 96rem;
+  border-top: 96rem solid;
 }
 
 .border-top-rem-97 {
-  border-top: 97rem;
+  border-top: 97rem solid;
 }
 
 .border-top-rem-98 {
-  border-top: 98rem;
+  border-top: 98rem solid;
 }
 
 .border-top-rem-99 {
-  border-top: 99rem;
+  border-top: 99rem solid;
 }
 
 .border-top-rem-100 {
-  border-top: 100rem;
+  border-top: 100rem solid;
 }
 
 .border-bottom-rem-1 {
-  border-bottom: 1rem;
+  border-bottom: 1rem solid;
 }
 
 .border-bottom-rem-2 {
-  border-bottom: 2rem;
+  border-bottom: 2rem solid;
 }
 
 .border-bottom-rem-3 {
-  border-bottom: 3rem;
+  border-bottom: 3rem solid;
 }
 
 .border-bottom-rem-4 {
-  border-bottom: 4rem;
+  border-bottom: 4rem solid;
 }
 
 .border-bottom-rem-5 {
-  border-bottom: 5rem;
+  border-bottom: 5rem solid;
 }
 
 .border-bottom-rem-6 {
-  border-bottom: 6rem;
+  border-bottom: 6rem solid;
 }
 
 .border-bottom-rem-7 {
-  border-bottom: 7rem;
+  border-bottom: 7rem solid;
 }
 
 .border-bottom-rem-8 {
-  border-bottom: 8rem;
+  border-bottom: 8rem solid;
 }
 
 .border-bottom-rem-9 {
-  border-bottom: 9rem;
+  border-bottom: 9rem solid;
 }
 
 .border-bottom-rem-10 {
-  border-bottom: 10rem;
+  border-bottom: 10rem solid;
 }
 
 .border-bottom-rem-11 {
-  border-bottom: 11rem;
+  border-bottom: 11rem solid;
 }
 
 .border-bottom-rem-12 {
-  border-bottom: 12rem;
+  border-bottom: 12rem solid;
 }
 
 .border-bottom-rem-13 {
-  border-bottom: 13rem;
+  border-bottom: 13rem solid;
 }
 
 .border-bottom-rem-14 {
-  border-bottom: 14rem;
+  border-bottom: 14rem solid;
 }
 
 .border-bottom-rem-15 {
-  border-bottom: 15rem;
+  border-bottom: 15rem solid;
 }
 
 .border-bottom-rem-16 {
-  border-bottom: 16rem;
+  border-bottom: 16rem solid;
 }
 
 .border-bottom-rem-17 {
-  border-bottom: 17rem;
+  border-bottom: 17rem solid;
 }
 
 .border-bottom-rem-18 {
-  border-bottom: 18rem;
+  border-bottom: 18rem solid;
 }
 
 .border-bottom-rem-19 {
-  border-bottom: 19rem;
+  border-bottom: 19rem solid;
 }
 
 .border-bottom-rem-20 {
-  border-bottom: 20rem;
+  border-bottom: 20rem solid;
 }
 
 .border-bottom-rem-21 {
-  border-bottom: 21rem;
+  border-bottom: 21rem solid;
 }
 
 .border-bottom-rem-22 {
-  border-bottom: 22rem;
+  border-bottom: 22rem solid;
 }
 
 .border-bottom-rem-23 {
-  border-bottom: 23rem;
+  border-bottom: 23rem solid;
 }
 
 .border-bottom-rem-24 {
-  border-bottom: 24rem;
+  border-bottom: 24rem solid;
 }
 
 .border-bottom-rem-25 {
-  border-bottom: 25rem;
+  border-bottom: 25rem solid;
 }
 
 .border-bottom-rem-26 {
-  border-bottom: 26rem;
+  border-bottom: 26rem solid;
 }
 
 .border-bottom-rem-27 {
-  border-bottom: 27rem;
+  border-bottom: 27rem solid;
 }
 
 .border-bottom-rem-28 {
-  border-bottom: 28rem;
+  border-bottom: 28rem solid;
 }
 
 .border-bottom-rem-29 {
-  border-bottom: 29rem;
+  border-bottom: 29rem solid;
 }
 
 .border-bottom-rem-30 {
-  border-bottom: 30rem;
+  border-bottom: 30rem solid;
 }
 
 .border-bottom-rem-31 {
-  border-bottom: 31rem;
+  border-bottom: 31rem solid;
 }
 
 .border-bottom-rem-32 {
-  border-bottom: 32rem;
+  border-bottom: 32rem solid;
 }
 
 .border-bottom-rem-33 {
-  border-bottom: 33rem;
+  border-bottom: 33rem solid;
 }
 
 .border-bottom-rem-34 {
-  border-bottom: 34rem;
+  border-bottom: 34rem solid;
 }
 
 .border-bottom-rem-35 {
-  border-bottom: 35rem;
+  border-bottom: 35rem solid;
 }
 
 .border-bottom-rem-36 {
-  border-bottom: 36rem;
+  border-bottom: 36rem solid;
 }
 
 .border-bottom-rem-37 {
-  border-bottom: 37rem;
+  border-bottom: 37rem solid;
 }
 
 .border-bottom-rem-38 {
-  border-bottom: 38rem;
+  border-bottom: 38rem solid;
 }
 
 .border-bottom-rem-39 {
-  border-bottom: 39rem;
+  border-bottom: 39rem solid;
 }
 
 .border-bottom-rem-40 {
-  border-bottom: 40rem;
+  border-bottom: 40rem solid;
 }
 
 .border-bottom-rem-41 {
-  border-bottom: 41rem;
+  border-bottom: 41rem solid;
 }
 
 .border-bottom-rem-42 {
-  border-bottom: 42rem;
+  border-bottom: 42rem solid;
 }
 
 .border-bottom-rem-43 {
-  border-bottom: 43rem;
+  border-bottom: 43rem solid;
 }
 
 .border-bottom-rem-44 {
-  border-bottom: 44rem;
+  border-bottom: 44rem solid;
 }
 
 .border-bottom-rem-45 {
-  border-bottom: 45rem;
+  border-bottom: 45rem solid;
 }
 
 .border-bottom-rem-46 {
-  border-bottom: 46rem;
+  border-bottom: 46rem solid;
 }
 
 .border-bottom-rem-47 {
-  border-bottom: 47rem;
+  border-bottom: 47rem solid;
 }
 
 .border-bottom-rem-48 {
-  border-bottom: 48rem;
+  border-bottom: 48rem solid;
 }
 
 .border-bottom-rem-49 {
-  border-bottom: 49rem;
+  border-bottom: 49rem solid;
 }
 
 .border-bottom-rem-50 {
-  border-bottom: 50rem;
+  border-bottom: 50rem solid;
 }
 
 .border-bottom-rem-51 {
-  border-bottom: 51rem;
+  border-bottom: 51rem solid;
 }
 
 .border-bottom-rem-52 {
-  border-bottom: 52rem;
+  border-bottom: 52rem solid;
 }
 
 .border-bottom-rem-53 {
-  border-bottom: 53rem;
+  border-bottom: 53rem solid;
 }
 
 .border-bottom-rem-54 {
-  border-bottom: 54rem;
+  border-bottom: 54rem solid;
 }
 
 .border-bottom-rem-55 {
-  border-bottom: 55rem;
+  border-bottom: 55rem solid;
 }
 
 .border-bottom-rem-56 {
-  border-bottom: 56rem;
+  border-bottom: 56rem solid;
 }
 
 .border-bottom-rem-57 {
-  border-bottom: 57rem;
+  border-bottom: 57rem solid;
 }
 
 .border-bottom-rem-58 {
-  border-bottom: 58rem;
+  border-bottom: 58rem solid;
 }
 
 .border-bottom-rem-59 {
-  border-bottom: 59rem;
+  border-bottom: 59rem solid;
 }
 
 .border-bottom-rem-60 {
-  border-bottom: 60rem;
+  border-bottom: 60rem solid;
 }
 
 .border-bottom-rem-61 {
-  border-bottom: 61rem;
+  border-bottom: 61rem solid;
 }
 
 .border-bottom-rem-62 {
-  border-bottom: 62rem;
+  border-bottom: 62rem solid;
 }
 
 .border-bottom-rem-63 {
-  border-bottom: 63rem;
+  border-bottom: 63rem solid;
 }
 
 .border-bottom-rem-64 {
-  border-bottom: 64rem;
+  border-bottom: 64rem solid;
 }
 
 .border-bottom-rem-65 {
-  border-bottom: 65rem;
+  border-bottom: 65rem solid;
 }
 
 .border-bottom-rem-66 {
-  border-bottom: 66rem;
+  border-bottom: 66rem solid;
 }
 
 .border-bottom-rem-67 {
-  border-bottom: 67rem;
+  border-bottom: 67rem solid;
 }
 
 .border-bottom-rem-68 {
-  border-bottom: 68rem;
+  border-bottom: 68rem solid;
 }
 
 .border-bottom-rem-69 {
-  border-bottom: 69rem;
+  border-bottom: 69rem solid;
 }
 
 .border-bottom-rem-70 {
-  border-bottom: 70rem;
+  border-bottom: 70rem solid;
 }
 
 .border-bottom-rem-71 {
-  border-bottom: 71rem;
+  border-bottom: 71rem solid;
 }
 
 .border-bottom-rem-72 {
-  border-bottom: 72rem;
+  border-bottom: 72rem solid;
 }
 
 .border-bottom-rem-73 {
-  border-bottom: 73rem;
+  border-bottom: 73rem solid;
 }
 
 .border-bottom-rem-74 {
-  border-bottom: 74rem;
+  border-bottom: 74rem solid;
 }
 
 .border-bottom-rem-75 {
-  border-bottom: 75rem;
+  border-bottom: 75rem solid;
 }
 
 .border-bottom-rem-76 {
-  border-bottom: 76rem;
+  border-bottom: 76rem solid;
 }
 
 .border-bottom-rem-77 {
-  border-bottom: 77rem;
+  border-bottom: 77rem solid;
 }
 
 .border-bottom-rem-78 {
-  border-bottom: 78rem;
+  border-bottom: 78rem solid;
 }
 
 .border-bottom-rem-79 {
-  border-bottom: 79rem;
+  border-bottom: 79rem solid;
 }
 
 .border-bottom-rem-80 {
-  border-bottom: 80rem;
+  border-bottom: 80rem solid;
 }
 
 .border-bottom-rem-81 {
-  border-bottom: 81rem;
+  border-bottom: 81rem solid;
 }
 
 .border-bottom-rem-82 {
-  border-bottom: 82rem;
+  border-bottom: 82rem solid;
 }
 
 .border-bottom-rem-83 {
-  border-bottom: 83rem;
+  border-bottom: 83rem solid;
 }
 
 .border-bottom-rem-84 {
-  border-bottom: 84rem;
+  border-bottom: 84rem solid;
 }
 
 .border-bottom-rem-85 {
-  border-bottom: 85rem;
+  border-bottom: 85rem solid;
 }
 
 .border-bottom-rem-86 {
-  border-bottom: 86rem;
+  border-bottom: 86rem solid;
 }
 
 .border-bottom-rem-87 {
-  border-bottom: 87rem;
+  border-bottom: 87rem solid;
 }
 
 .border-bottom-rem-88 {
-  border-bottom: 88rem;
+  border-bottom: 88rem solid;
 }
 
 .border-bottom-rem-89 {
-  border-bottom: 89rem;
+  border-bottom: 89rem solid;
 }
 
 .border-bottom-rem-90 {
-  border-bottom: 90rem;
+  border-bottom: 90rem solid;
 }
 
 .border-bottom-rem-91 {
-  border-bottom: 91rem;
+  border-bottom: 91rem solid;
 }
 
 .border-bottom-rem-92 {
-  border-bottom: 92rem;
+  border-bottom: 92rem solid;
 }
 
 .border-bottom-rem-93 {
-  border-bottom: 93rem;
+  border-bottom: 93rem solid;
 }
 
 .border-bottom-rem-94 {
-  border-bottom: 94rem;
+  border-bottom: 94rem solid;
 }
 
 .border-bottom-rem-95 {
-  border-bottom: 95rem;
+  border-bottom: 95rem solid;
 }
 
 .border-bottom-rem-96 {
-  border-bottom: 96rem;
+  border-bottom: 96rem solid;
 }
 
 .border-bottom-rem-97 {
-  border-bottom: 97rem;
+  border-bottom: 97rem solid;
 }
 
 .border-bottom-rem-98 {
-  border-bottom: 98rem;
+  border-bottom: 98rem solid;
 }
 
 .border-bottom-rem-99 {
-  border-bottom: 99rem;
+  border-bottom: 99rem solid;
 }
 
 .border-bottom-rem-100 {
-  border-bottom: 100rem;
+  border-bottom: 100rem solid;
 }
 
 .border-left-rem-1 {
-  border-left: 1rem;
+  border-left: 1rem solid;
 }
 
 .border-left-rem-2 {
-  border-left: 2rem;
+  border-left: 2rem solid;
 }
 
 .border-left-rem-3 {
-  border-left: 3rem;
+  border-left: 3rem solid;
 }
 
 .border-left-rem-4 {
-  border-left: 4rem;
+  border-left: 4rem solid;
 }
 
 .border-left-rem-5 {
-  border-left: 5rem;
+  border-left: 5rem solid;
 }
 
 .border-left-rem-6 {
-  border-left: 6rem;
+  border-left: 6rem solid;
 }
 
 .border-left-rem-7 {
-  border-left: 7rem;
+  border-left: 7rem solid;
 }
 
 .border-left-rem-8 {
-  border-left: 8rem;
+  border-left: 8rem solid;
 }
 
 .border-left-rem-9 {
-  border-left: 9rem;
+  border-left: 9rem solid;
 }
 
 .border-left-rem-10 {
-  border-left: 10rem;
+  border-left: 10rem solid;
 }
 
 .border-left-rem-11 {
-  border-left: 11rem;
+  border-left: 11rem solid;
 }
 
 .border-left-rem-12 {
-  border-left: 12rem;
+  border-left: 12rem solid;
 }
 
 .border-left-rem-13 {
-  border-left: 13rem;
+  border-left: 13rem solid;
 }
 
 .border-left-rem-14 {
-  border-left: 14rem;
+  border-left: 14rem solid;
 }
 
 .border-left-rem-15 {
-  border-left: 15rem;
+  border-left: 15rem solid;
 }
 
 .border-left-rem-16 {
-  border-left: 16rem;
+  border-left: 16rem solid;
 }
 
 .border-left-rem-17 {
-  border-left: 17rem;
+  border-left: 17rem solid;
 }
 
 .border-left-rem-18 {
-  border-left: 18rem;
+  border-left: 18rem solid;
 }
 
 .border-left-rem-19 {
-  border-left: 19rem;
+  border-left: 19rem solid;
 }
 
 .border-left-rem-20 {
-  border-left: 20rem;
+  border-left: 20rem solid;
 }
 
 .border-left-rem-21 {
-  border-left: 21rem;
+  border-left: 21rem solid;
 }
 
 .border-left-rem-22 {
-  border-left: 22rem;
+  border-left: 22rem solid;
 }
 
 .border-left-rem-23 {
-  border-left: 23rem;
+  border-left: 23rem solid;
 }
 
 .border-left-rem-24 {
-  border-left: 24rem;
+  border-left: 24rem solid;
 }
 
 .border-left-rem-25 {
-  border-left: 25rem;
+  border-left: 25rem solid;
 }
 
 .border-left-rem-26 {
-  border-left: 26rem;
+  border-left: 26rem solid;
 }
 
 .border-left-rem-27 {
-  border-left: 27rem;
+  border-left: 27rem solid;
 }
 
 .border-left-rem-28 {
-  border-left: 28rem;
+  border-left: 28rem solid;
 }
 
 .border-left-rem-29 {
-  border-left: 29rem;
+  border-left: 29rem solid;
 }
 
 .border-left-rem-30 {
-  border-left: 30rem;
+  border-left: 30rem solid;
 }
 
 .border-left-rem-31 {
-  border-left: 31rem;
+  border-left: 31rem solid;
 }
 
 .border-left-rem-32 {
-  border-left: 32rem;
+  border-left: 32rem solid;
 }
 
 .border-left-rem-33 {
-  border-left: 33rem;
+  border-left: 33rem solid;
 }
 
 .border-left-rem-34 {
-  border-left: 34rem;
+  border-left: 34rem solid;
 }
 
 .border-left-rem-35 {
-  border-left: 35rem;
+  border-left: 35rem solid;
 }
 
 .border-left-rem-36 {
-  border-left: 36rem;
+  border-left: 36rem solid;
 }
 
 .border-left-rem-37 {
-  border-left: 37rem;
+  border-left: 37rem solid;
 }
 
 .border-left-rem-38 {
-  border-left: 38rem;
+  border-left: 38rem solid;
 }
 
 .border-left-rem-39 {
-  border-left: 39rem;
+  border-left: 39rem solid;
 }
 
 .border-left-rem-40 {
-  border-left: 40rem;
+  border-left: 40rem solid;
 }
 
 .border-left-rem-41 {
-  border-left: 41rem;
+  border-left: 41rem solid;
 }
 
 .border-left-rem-42 {
-  border-left: 42rem;
+  border-left: 42rem solid;
 }
 
 .border-left-rem-43 {
-  border-left: 43rem;
+  border-left: 43rem solid;
 }
 
 .border-left-rem-44 {
-  border-left: 44rem;
+  border-left: 44rem solid;
 }
 
 .border-left-rem-45 {
-  border-left: 45rem;
+  border-left: 45rem solid;
 }
 
 .border-left-rem-46 {
-  border-left: 46rem;
+  border-left: 46rem solid;
 }
 
 .border-left-rem-47 {
-  border-left: 47rem;
+  border-left: 47rem solid;
 }
 
 .border-left-rem-48 {
-  border-left: 48rem;
+  border-left: 48rem solid;
 }
 
 .border-left-rem-49 {
-  border-left: 49rem;
+  border-left: 49rem solid;
 }
 
 .border-left-rem-50 {
-  border-left: 50rem;
+  border-left: 50rem solid;
 }
 
 .border-left-rem-51 {
-  border-left: 51rem;
+  border-left: 51rem solid;
 }
 
 .border-left-rem-52 {
-  border-left: 52rem;
+  border-left: 52rem solid;
 }
 
 .border-left-rem-53 {
-  border-left: 53rem;
+  border-left: 53rem solid;
 }
 
 .border-left-rem-54 {
-  border-left: 54rem;
+  border-left: 54rem solid;
 }
 
 .border-left-rem-55 {
-  border-left: 55rem;
+  border-left: 55rem solid;
 }
 
 .border-left-rem-56 {
-  border-left: 56rem;
+  border-left: 56rem solid;
 }
 
 .border-left-rem-57 {
-  border-left: 57rem;
+  border-left: 57rem solid;
 }
 
 .border-left-rem-58 {
-  border-left: 58rem;
+  border-left: 58rem solid;
 }
 
 .border-left-rem-59 {
-  border-left: 59rem;
+  border-left: 59rem solid;
 }
 
 .border-left-rem-60 {
-  border-left: 60rem;
+  border-left: 60rem solid;
 }
 
 .border-left-rem-61 {
-  border-left: 61rem;
+  border-left: 61rem solid;
 }
 
 .border-left-rem-62 {
-  border-left: 62rem;
+  border-left: 62rem solid;
 }
 
 .border-left-rem-63 {
-  border-left: 63rem;
+  border-left: 63rem solid;
 }
 
 .border-left-rem-64 {
-  border-left: 64rem;
+  border-left: 64rem solid;
 }
 
 .border-left-rem-65 {
-  border-left: 65rem;
+  border-left: 65rem solid;
 }
 
 .border-left-rem-66 {
-  border-left: 66rem;
+  border-left: 66rem solid;
 }
 
 .border-left-rem-67 {
-  border-left: 67rem;
+  border-left: 67rem solid;
 }
 
 .border-left-rem-68 {
-  border-left: 68rem;
+  border-left: 68rem solid;
 }
 
 .border-left-rem-69 {
-  border-left: 69rem;
+  border-left: 69rem solid;
 }
 
 .border-left-rem-70 {
-  border-left: 70rem;
+  border-left: 70rem solid;
 }
 
 .border-left-rem-71 {
-  border-left: 71rem;
+  border-left: 71rem solid;
 }
 
 .border-left-rem-72 {
-  border-left: 72rem;
+  border-left: 72rem solid;
 }
 
 .border-left-rem-73 {
-  border-left: 73rem;
+  border-left: 73rem solid;
 }
 
 .border-left-rem-74 {
-  border-left: 74rem;
+  border-left: 74rem solid;
 }
 
 .border-left-rem-75 {
-  border-left: 75rem;
+  border-left: 75rem solid;
 }
 
 .border-left-rem-76 {
-  border-left: 76rem;
+  border-left: 76rem solid;
 }
 
 .border-left-rem-77 {
-  border-left: 77rem;
+  border-left: 77rem solid;
 }
 
 .border-left-rem-78 {
-  border-left: 78rem;
+  border-left: 78rem solid;
 }
 
 .border-left-rem-79 {
-  border-left: 79rem;
+  border-left: 79rem solid;
 }
 
 .border-left-rem-80 {
-  border-left: 80rem;
+  border-left: 80rem solid;
 }
 
 .border-left-rem-81 {
-  border-left: 81rem;
+  border-left: 81rem solid;
 }
 
 .border-left-rem-82 {
-  border-left: 82rem;
+  border-left: 82rem solid;
 }
 
 .border-left-rem-83 {
-  border-left: 83rem;
+  border-left: 83rem solid;
 }
 
 .border-left-rem-84 {
-  border-left: 84rem;
+  border-left: 84rem solid;
 }
 
 .border-left-rem-85 {
-  border-left: 85rem;
+  border-left: 85rem solid;
 }
 
 .border-left-rem-86 {
-  border-left: 86rem;
+  border-left: 86rem solid;
 }
 
 .border-left-rem-87 {
-  border-left: 87rem;
+  border-left: 87rem solid;
 }
 
 .border-left-rem-88 {
-  border-left: 88rem;
+  border-left: 88rem solid;
 }
 
 .border-left-rem-89 {
-  border-left: 89rem;
+  border-left: 89rem solid;
 }
 
 .border-left-rem-90 {
-  border-left: 90rem;
+  border-left: 90rem solid;
 }
 
 .border-left-rem-91 {
-  border-left: 91rem;
+  border-left: 91rem solid;
 }
 
 .border-left-rem-92 {
-  border-left: 92rem;
+  border-left: 92rem solid;
 }
 
 .border-left-rem-93 {
-  border-left: 93rem;
+  border-left: 93rem solid;
 }
 
 .border-left-rem-94 {
-  border-left: 94rem;
+  border-left: 94rem solid;
 }
 
 .border-left-rem-95 {
-  border-left: 95rem;
+  border-left: 95rem solid;
 }
 
 .border-left-rem-96 {
-  border-left: 96rem;
+  border-left: 96rem solid;
 }
 
 .border-left-rem-97 {
-  border-left: 97rem;
+  border-left: 97rem solid;
 }
 
 .border-left-rem-98 {
-  border-left: 98rem;
+  border-left: 98rem solid;
 }
 
 .border-left-rem-99 {
-  border-left: 99rem;
+  border-left: 99rem solid;
 }
 
 .border-left-rem-100 {
-  border-left: 100rem;
+  border-left: 100rem solid;
 }
 
 .border-right-rem-1 {
-  border-right: 1rem;
+  border-right: 1rem solid;
 }
 
 .border-right-rem-2 {
-  border-right: 2rem;
+  border-right: 2rem solid;
 }
 
 .border-right-rem-3 {
-  border-right: 3rem;
+  border-right: 3rem solid;
 }
 
 .border-right-rem-4 {
-  border-right: 4rem;
+  border-right: 4rem solid;
 }
 
 .border-right-rem-5 {
-  border-right: 5rem;
+  border-right: 5rem solid;
 }
 
 .border-right-rem-6 {
-  border-right: 6rem;
+  border-right: 6rem solid;
 }
 
 .border-right-rem-7 {
-  border-right: 7rem;
+  border-right: 7rem solid;
 }
 
 .border-right-rem-8 {
-  border-right: 8rem;
+  border-right: 8rem solid;
 }
 
 .border-right-rem-9 {
-  border-right: 9rem;
+  border-right: 9rem solid;
 }
 
 .border-right-rem-10 {
-  border-right: 10rem;
+  border-right: 10rem solid;
 }
 
 .border-right-rem-11 {
-  border-right: 11rem;
+  border-right: 11rem solid;
 }
 
 .border-right-rem-12 {
-  border-right: 12rem;
+  border-right: 12rem solid;
 }
 
 .border-right-rem-13 {
-  border-right: 13rem;
+  border-right: 13rem solid;
 }
 
 .border-right-rem-14 {
-  border-right: 14rem;
+  border-right: 14rem solid;
 }
 
 .border-right-rem-15 {
-  border-right: 15rem;
+  border-right: 15rem solid;
 }
 
 .border-right-rem-16 {
-  border-right: 16rem;
+  border-right: 16rem solid;
 }
 
 .border-right-rem-17 {
-  border-right: 17rem;
+  border-right: 17rem solid;
 }
 
 .border-right-rem-18 {
-  border-right: 18rem;
+  border-right: 18rem solid;
 }
 
 .border-right-rem-19 {
-  border-right: 19rem;
+  border-right: 19rem solid;
 }
 
 .border-right-rem-20 {
-  border-right: 20rem;
+  border-right: 20rem solid;
 }
 
 .border-right-rem-21 {
-  border-right: 21rem;
+  border-right: 21rem solid;
 }
 
 .border-right-rem-22 {
-  border-right: 22rem;
+  border-right: 22rem solid;
 }
 
 .border-right-rem-23 {
-  border-right: 23rem;
+  border-right: 23rem solid;
 }
 
 .border-right-rem-24 {
-  border-right: 24rem;
+  border-right: 24rem solid;
 }
 
 .border-right-rem-25 {
-  border-right: 25rem;
+  border-right: 25rem solid;
 }
 
 .border-right-rem-26 {
-  border-right: 26rem;
+  border-right: 26rem solid;
 }
 
 .border-right-rem-27 {
-  border-right: 27rem;
+  border-right: 27rem solid;
 }
 
 .border-right-rem-28 {
-  border-right: 28rem;
+  border-right: 28rem solid;
 }
 
 .border-right-rem-29 {
-  border-right: 29rem;
+  border-right: 29rem solid;
 }
 
 .border-right-rem-30 {
-  border-right: 30rem;
+  border-right: 30rem solid;
 }
 
 .border-right-rem-31 {
-  border-right: 31rem;
+  border-right: 31rem solid;
 }
 
 .border-right-rem-32 {
-  border-right: 32rem;
+  border-right: 32rem solid;
 }
 
 .border-right-rem-33 {
-  border-right: 33rem;
+  border-right: 33rem solid;
 }
 
 .border-right-rem-34 {
-  border-right: 34rem;
+  border-right: 34rem solid;
 }
 
 .border-right-rem-35 {
-  border-right: 35rem;
+  border-right: 35rem solid;
 }
 
 .border-right-rem-36 {
-  border-right: 36rem;
+  border-right: 36rem solid;
 }
 
 .border-right-rem-37 {
-  border-right: 37rem;
+  border-right: 37rem solid;
 }
 
 .border-right-rem-38 {
-  border-right: 38rem;
+  border-right: 38rem solid;
 }
 
 .border-right-rem-39 {
-  border-right: 39rem;
+  border-right: 39rem solid;
 }
 
 .border-right-rem-40 {
-  border-right: 40rem;
+  border-right: 40rem solid;
 }
 
 .border-right-rem-41 {
-  border-right: 41rem;
+  border-right: 41rem solid;
 }
 
 .border-right-rem-42 {
-  border-right: 42rem;
+  border-right: 42rem solid;
 }
 
 .border-right-rem-43 {
-  border-right: 43rem;
+  border-right: 43rem solid;
 }
 
 .border-right-rem-44 {
-  border-right: 44rem;
+  border-right: 44rem solid;
 }
 
 .border-right-rem-45 {
-  border-right: 45rem;
+  border-right: 45rem solid;
 }
 
 .border-right-rem-46 {
-  border-right: 46rem;
+  border-right: 46rem solid;
 }
 
 .border-right-rem-47 {
-  border-right: 47rem;
+  border-right: 47rem solid;
 }
 
 .border-right-rem-48 {
-  border-right: 48rem;
+  border-right: 48rem solid;
 }
 
 .border-right-rem-49 {
-  border-right: 49rem;
+  border-right: 49rem solid;
 }
 
 .border-right-rem-50 {
-  border-right: 50rem;
+  border-right: 50rem solid;
 }
 
 .border-right-rem-51 {
-  border-right: 51rem;
+  border-right: 51rem solid;
 }
 
 .border-right-rem-52 {
-  border-right: 52rem;
+  border-right: 52rem solid;
 }
 
 .border-right-rem-53 {
-  border-right: 53rem;
+  border-right: 53rem solid;
 }
 
 .border-right-rem-54 {
-  border-right: 54rem;
+  border-right: 54rem solid;
 }
 
 .border-right-rem-55 {
-  border-right: 55rem;
+  border-right: 55rem solid;
 }
 
 .border-right-rem-56 {
-  border-right: 56rem;
+  border-right: 56rem solid;
 }
 
 .border-right-rem-57 {
-  border-right: 57rem;
+  border-right: 57rem solid;
 }
 
 .border-right-rem-58 {
-  border-right: 58rem;
+  border-right: 58rem solid;
 }
 
 .border-right-rem-59 {
-  border-right: 59rem;
+  border-right: 59rem solid;
 }
 
 .border-right-rem-60 {
-  border-right: 60rem;
+  border-right: 60rem solid;
 }
 
 .border-right-rem-61 {
-  border-right: 61rem;
+  border-right: 61rem solid;
 }
 
 .border-right-rem-62 {
-  border-right: 62rem;
+  border-right: 62rem solid;
 }
 
 .border-right-rem-63 {
-  border-right: 63rem;
+  border-right: 63rem solid;
 }
 
 .border-right-rem-64 {
-  border-right: 64rem;
+  border-right: 64rem solid;
 }
 
 .border-right-rem-65 {
-  border-right: 65rem;
+  border-right: 65rem solid;
 }
 
 .border-right-rem-66 {
-  border-right: 66rem;
+  border-right: 66rem solid;
 }
 
 .border-right-rem-67 {
-  border-right: 67rem;
+  border-right: 67rem solid;
 }
 
 .border-right-rem-68 {
-  border-right: 68rem;
+  border-right: 68rem solid;
 }
 
 .border-right-rem-69 {
-  border-right: 69rem;
+  border-right: 69rem solid;
 }
 
 .border-right-rem-70 {
-  border-right: 70rem;
+  border-right: 70rem solid;
 }
 
 .border-right-rem-71 {
-  border-right: 71rem;
+  border-right: 71rem solid;
 }
 
 .border-right-rem-72 {
-  border-right: 72rem;
+  border-right: 72rem solid;
 }
 
 .border-right-rem-73 {
-  border-right: 73rem;
+  border-right: 73rem solid;
 }
 
 .border-right-rem-74 {
-  border-right: 74rem;
+  border-right: 74rem solid;
 }
 
 .border-right-rem-75 {
-  border-right: 75rem;
+  border-right: 75rem solid;
 }
 
 .border-right-rem-76 {
-  border-right: 76rem;
+  border-right: 76rem solid;
 }
 
 .border-right-rem-77 {
-  border-right: 77rem;
+  border-right: 77rem solid;
 }
 
 .border-right-rem-78 {
-  border-right: 78rem;
+  border-right: 78rem solid;
 }
 
 .border-right-rem-79 {
-  border-right: 79rem;
+  border-right: 79rem solid;
 }
 
 .border-right-rem-80 {
-  border-right: 80rem;
+  border-right: 80rem solid;
 }
 
 .border-right-rem-81 {
-  border-right: 81rem;
+  border-right: 81rem solid;
 }
 
 .border-right-rem-82 {
-  border-right: 82rem;
+  border-right: 82rem solid;
 }
 
 .border-right-rem-83 {
-  border-right: 83rem;
+  border-right: 83rem solid;
 }
 
 .border-right-rem-84 {
-  border-right: 84rem;
+  border-right: 84rem solid;
 }
 
 .border-right-rem-85 {
-  border-right: 85rem;
+  border-right: 85rem solid;
 }
 
 .border-right-rem-86 {
-  border-right: 86rem;
+  border-right: 86rem solid;
 }
 
 .border-right-rem-87 {
-  border-right: 87rem;
+  border-right: 87rem solid;
 }
 
 .border-right-rem-88 {
-  border-right: 88rem;
+  border-right: 88rem solid;
 }
 
 .border-right-rem-89 {
-  border-right: 89rem;
+  border-right: 89rem solid;
 }
 
 .border-right-rem-90 {
-  border-right: 90rem;
+  border-right: 90rem solid;
 }
 
 .border-right-rem-91 {
-  border-right: 91rem;
+  border-right: 91rem solid;
 }
 
 .border-right-rem-92 {
-  border-right: 92rem;
+  border-right: 92rem solid;
 }
 
 .border-right-rem-93 {
-  border-right: 93rem;
+  border-right: 93rem solid;
 }
 
 .border-right-rem-94 {
-  border-right: 94rem;
+  border-right: 94rem solid;
 }
 
 .border-right-rem-95 {
-  border-right: 95rem;
+  border-right: 95rem solid;
 }
 
 .border-right-rem-96 {
-  border-right: 96rem;
+  border-right: 96rem solid;
 }
 
 .border-right-rem-97 {
-  border-right: 97rem;
+  border-right: 97rem solid;
 }
 
 .border-right-rem-98 {
-  border-right: 98rem;
+  border-right: 98rem solid;
 }
 
 .border-right-rem-99 {
-  border-right: 99rem;
+  border-right: 99rem solid;
 }
 
 .border-right-rem-100 {
-  border-right: 100rem;
+  border-right: 100rem solid;
 }
 
 /*# sourceMappingURL=style.css.map */
