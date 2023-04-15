@@ -14,6 +14,22 @@ $color-black: #020102;
 $color-bistre: #3d2e1e;
 $color-kelly-green: #01a700;
 
+$color-drab-dark-brown: #3f3b25;
+$color-hunter-green: #526a46;
+$color-flame: #d16741;
+
+$color-prusian-blue: #1f3958;
+$color-indigo-dye: #274a71;
+$color-cadet-gray:#8fa9c1;
+
+$color-engineering-orange: #d40000;
+$color-beaer: #b48f7c;
+$color-chamoisee: #a3735d;
+
+$color-satin-sheen-gold: #d4ab4f;
+$color-paynes-gray: #545f76;
+$color-dim-gray: #756b63;
+
 .color-red {
 	color: $color-red;
 }
@@ -110,10 +126,54 @@ $color-kelly-green: #01a700;
 	background-color: $color-bistre;
 }
 
-.bg-bistre {
-	background-color: $color-bistre;
-}
-
 .bg-kelly-green {
 	background-color: $color-kelly-green;
+}
+
+.bg-drab-dark-brown {
+	background-color: $color-drab-dark-brown;
+}
+
+.bg-hunter-green {
+	background-color: $color-hunter-green;
+}
+
+.bg-flame {
+	background-color: $color-flame;
+}
+
+.bg-prusian-blue {
+	background-color: $color-prusian-blue;
+}
+
+.bg-indigo-dye {
+	background-color: $color-indigo-dye;
+}
+
+.bg-cadet-gray {
+	background-color: $color-cadet-gray;
+}
+
+.bg-engineering-orange {
+	background-color: $color-engineering-orange;
+}
+
+.bg-beaer {
+	background-color: $color-beaer;
+}
+
+.bg-chamoisee {
+	background-color: $color-chamoisee;
+}
+
+.bg-satin-sheen-gold {
+	background-color: $color-satin-sheen-gold;
+}
+
+.bg-paynes-gray {
+	background-color: $color-paynes-gray;
+}
+
+.bg-dim-gray {
+	background-color: $color-dim-gray;
 }
