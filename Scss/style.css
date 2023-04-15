@@ -103,6 +103,54 @@
   background-color: #01a700;
 }
 
+.bg-drab-dark-brown {
+  background-color: #3f3b25;
+}
+
+.bg-hunter-green {
+  background-color: #526a46;
+}
+
+.bg-flame {
+  background-color: #d16741;
+}
+
+.bg-prusian-blue {
+  background-color: #1f3958;
+}
+
+.bg-indigo-dye {
+  background-color: #274a71;
+}
+
+.bg-cadet-gray {
+  background-color: #8fa9c1;
+}
+
+.bg-engineering-orange {
+  background-color: #d40000;
+}
+
+.bg-beaer {
+  background-color: #b48f7c;
+}
+
+.bg-chamoisee {
+  background-color: #a3735d;
+}
+
+.bg-satin-sheen-gold {
+  background-color: #d4ab4f;
+}
+
+.bg-paynes-gray {
+  background-color: #545f76;
+}
+
+.bg-dim-gray {
+  background-color: #756b63;
+}
+
 .btn, .btn-red, .btn-black, .btn-white, .btn-blue {
   width: max-content;
   border: none;
