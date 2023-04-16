@@ -52,7 +52,7 @@
 	}
 }
 
-@for $i from 1 through 50{
+@for $i from 1 through 50 {
 	.circle-bottom-right-porc-#{$i} {
 		border-bottom-right-radius: $i * 1%;
 	}
@@ -82,7 +82,7 @@
 	}
 }
 
-@for $i from 1 through 100{
+@for $i from 1 through 100 {
 	.circle-bottom-right-rem-#{$i} {
 		border-bottom-right-radius: $i * 1rem;
 	}
