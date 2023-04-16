@@ -1,0 +1,19 @@
+@use 'colores';
+
+@for $i from 1 through 100{
+	.box-s-cg-px-#{$i} {
+		box-shadow: 0 0 $i * 1px colores.$color-cadet-gray;
+	}
+}
+
+@for $i from 1 through 100 {
+	.box-s-id-px-#{$i} {
+		box-shadow: 0 0 $i * 1px colores.$color-indigo-dye;
+	}
+}
+
+@for $i from 1 through 100 {
+	.box-s-pb-px-#{$i} {
+		box-shadow: 0 0 $i * 1px colores.$color-prusian-blue;
+	}
+}
