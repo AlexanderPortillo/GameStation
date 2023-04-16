@@ -27,6 +27,10 @@
   color: #c1ab00;
 }
 
+.color-white {
+  color: #ffffff;
+}
+
 .color-coquelicot {
   color: #f64a1b;
 }
@@ -125,6 +129,10 @@
 
 .bg-old-gold {
   background-color: #c1ab00;
+}
+
+.bg-white {
+  background-color: #ffffff;
 }
 
 .bg-coquelicot {

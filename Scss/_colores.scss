@@ -5,6 +5,7 @@ $color-olive: #856f09;
 $color-forrest-green: #009800;
 $color-dark-pastel-green: #4eb74e;
 $color-old-gold: #c1ab00;
+$color-white: #ffffff;
 
 $color-coquelicot: #f64a1b;
 $color-peach: #fec190;
@@ -52,6 +53,10 @@ $color-dim-gray: #756b63;
 
 .color-old-gold {
 	color: $color-old-gold;
+}
+
+.color-white {
+	color: $color-white;
 }
 
 .color-coquelicot {
@@ -152,6 +157,10 @@ $color-dim-gray: #756b63;
 
 .bg-old-gold {
 	background-color: $color-old-gold;
+}
+
+.bg-white {
+	background-color: $color-white;
 }
 
 .bg-coquelicot {
