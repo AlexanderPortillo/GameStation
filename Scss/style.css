@@ -41023,4 +41023,37 @@
   height: 100vh;
 }
 
+.container {
+  border: 1px solid;
+  margin: 10px 20px;
+}
+
+@media (max-width: 1140px) {
+  .body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container {
+    width: 100%;
+    background-color: red;
+    border: 4px;
+    text-align: center;
+  }
+}
+@media (max-width: 720px) {
+  .body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container {
+    width: 100%;
+    background-color: rgb(0, 132, 255);
+    border: 4px;
+    margin: 0;
+    text-align: center;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
