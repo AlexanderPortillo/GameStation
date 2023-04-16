@@ -3,11 +3,8 @@
 .btn {
 	width: max-content;
 	border: none;
-	background-color: transparent;
 	text-decoration: none;
 	cursor: none;
-	font-size: 20px;
-	color: black;
 
 	i {
 		width: max-content;
@@ -62,12 +59,25 @@
 	}
 }
 
-.btn-sm {
-	padding: 5px 10px;
-	font-size: 16px;
+.btn-h {
+	transition: background-color 1s, color 1s;
+
+	&:hover {
+		background-color: rgb(50, 128, 128);
+		color: rgb(70, 59, 59);
+	}
 }
 
-.btn-lg {
-	padding: 15px 35px;
-	font-size: 25px;
+.btn-h-x {
+	transition: color 1s;
+
+	&:hover {
+		background-color: rgb(34, 168, 95);
+		color: rgb(83, 81, 231);
+	}
+
+	&:active {
+		background-color: rgb(179, 60, 60);
+		color: black;
+	}
 }

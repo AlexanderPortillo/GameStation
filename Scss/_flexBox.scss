@@ -9,6 +9,12 @@
 	height: 100vh;
 }
 
+.d-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .d-flex {
 	display: flex;
 }
@@ -137,28 +143,28 @@
 	align-self: stretch;
 }
 
-.float-none{
+.float-none {
 	float: none;
 }
 
-.float-left{
+.float-left {
 	float: left;
 }
 
-.float-right{
-	float:right;
+.float-right {
+	float: right;
 }
 
-.d-block{
+.d-block {
 	display: block;
 }
 
-.d-none{
+.d-none {
 	display: none;
 }
 
-.v-hidden{
-	visibility:hidden;
+.v-hidden {
+	visibility: hidden;
 }
 
 @for $i from 1 through 50 {

@@ -5,25 +5,25 @@
 }
 
 @for $i from 1 through 400 {
-	.circle-top-left-px-#{$i} {
+	.circle-t-l-px-#{$i} {
 		border-top-left-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 400 {
-	.circle-top-right-px-#{$i} {
+	.circle-t-r-px-#{$i} {
 		border-top-right-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 400 {
-	.circle-bottom-left-px-#{$i} {
+	.circle-b-l-px-#{$i} {
 		border-bottom-left-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 400 {
-	.circle-bottom-right-px-#{$i} {
+	.circle-b-r-px-#{$i} {
 		border-bottom-right-radius: $i * 1px;
 	}
 }
@@ -35,25 +35,25 @@
 }
 
 @for $i from 1 through 50 {
-	.circle-top-left-porc-#{$i} {
+	.circle-t-l-porc-#{$i} {
 		border-top-left-radius: $i * 1%;
 	}
 }
 
 @for $i from 1 through 50 {
-	.circle-top-right-porc-#{$i} {
+	.circle-t-r-porc-#{$i} {
 		border-top-right-radius: $i * 1%;
 	}
 }
 
 @for $i from 1 through 50 {
-	.circle-bottom-left-porc-#{$i} {
+	.circle-b-l-porc-#{$i} {
 		border-bottom-left-radius: $i * 1%;
 	}
 }
 
 @for $i from 1 through 50 {
-	.circle-bottom-right-porc-#{$i} {
+	.circle-b-r-porc-#{$i} {
 		border-bottom-right-radius: $i * 1%;
 	}
 }
@@ -65,25 +65,25 @@
 }
 
 @for $i from 1 through 100 {
-	.circle-top-left-rem-#{$i} {
+	.circle-t-l-rem-#{$i} {
 		border-top-left-radius: $i * 1rem;
 	}
 }
 
 @for $i from 1 through 100 {
-	.circle-top-right-rem-#{$i} {
+	.circle-t-r-rem-#{$i} {
 		border-top-right-radius: $i * 1rem;
 	}
 }
 
 @for $i from 1 through 100 {
-	.circle-bottom-left-rem-#{$i} {
+	.circle-b-l-rem-#{$i} {
 		border-bottom-left-radius: $i * 1rem;
 	}
 }
 
 @for $i from 1 through 100 {
-	.circle-bottom-right-rem-#{$i} {
+	.circle-b-r-rem-#{$i} {
 		border-bottom-right-radius: $i * 1rem;
 	}
 }
