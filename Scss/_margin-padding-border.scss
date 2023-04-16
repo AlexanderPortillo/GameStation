@@ -1,6 +1,19 @@
+// ! margin usando px
 @for $i from 1 through 200 {
 	.margin-px-#{$i} {
 		margin: $i * 1px;
+	}
+}
+
+@for $i from 1 through 200 {
+	.margin-t-b-px-#{$i} {
+		margin: $i * 1px 0;
+	}
+}
+
+@for $i from 1 through 200 {
+	.margin-l-r-px-#{$i} {
+		margin: 0 $i * 1px;
 	}
 }
 
@@ -34,6 +47,19 @@
 	}
 }
 
+// ! margin usando rem
+@for $i from 1 through 200 {
+	.margin-t-b-rem-#{$i} {
+		margin: $i * 1rem 0;
+	}
+}
+
+@for $i from 1 through 200 {
+	.margin-l-r-rem-#{$i} {
+		margin: 0 $i * 1rem;
+	}
+}
+
 @for $i from 1 through 50 {
 	.margin-top-rem-#{$i} {
 		margin-top: $i * 1rem;
@@ -58,9 +84,22 @@
 	}
 }
 
+// ! padding usando px
 @for $i from 1 through 200 {
 	.padding-px-#{$i} {
 		padding: $i * 1px;
+	}
+}
+
+@for $i from 1 through 200 {
+	.padding-t-b-px-#{$i} {
+		padding: $i * 1px 0;
+	}
+}
+
+@for $i from 1 through 200 {
+	.padding-l-r-px-#{$i} {
+		padding: 0 $i * 1px;
 	}
 }
 
@@ -88,9 +127,22 @@
 	}
 }
 
+// ! padding usando rem
 @for $i from 1 through 200 {
 	.padding-rem-#{$i} {
 		padding: $i * 1rem;
+	}
+}
+
+@for $i from 1 through 200 {
+	.padding-t-b-rem-#{$i} {
+		padding: $i * 1rem 0;
+	}
+}
+
+@for $i from 1 through 200 {
+	.padding-l-r-rem-#{$i} {
+		padding: 0 $i * 1rem;
 	}
 }
 
@@ -118,9 +170,22 @@
 	}
 }
 
+// ! border usando px
 @for $i from 1 through 200 {
 	.border-px-#{$i} {
 		border: $i * 1px solid;
+	}
+}
+
+@for $i from 1 through 200 {
+	.border-t-b-px-#{$i} {
+		border: $i * 1px 0;
+	}
+}
+
+@for $i from 1 through 200 {
+	.border-l-r-px-#{$i} {
+		border: 0 $i * 1px;
 	}
 }
 
@@ -148,9 +213,22 @@
 	}
 }
 
+// ! border usando px
 @for $i from 1 through 100 {
 	.border-rem-#{$i} {
 		border: $i * 1rem solid;
+	}
+}
+
+@for $i from 1 through 200 {
+	.border-t-b-rem-#{$i} {
+		border: $i * 1px 0;
+	}
+}
+
+@for $i from 1 through 200 {
+	.border-l-r-rem-#{$i} {
+		border: 0 $i * 1px;
 	}
 }
 

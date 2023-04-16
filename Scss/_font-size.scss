@@ -66,6 +66,22 @@
 	text-align: justify;
 }
 
+.text-justify-end {
+	text-align: end;
+}
+
+.text-justify-left {
+	text-align: left;
+}
+
+.text-justify-right {
+	text-align: right;
+}
+
+.text-justify {
+	text-align: start;
+}
+
 .pointer {
 	&:hover {
 		cursor: pointer;

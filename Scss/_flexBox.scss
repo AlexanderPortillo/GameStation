@@ -1,3 +1,14 @@
+.max-content {
+	width: max-content;
+}
+
+.center-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
 .d-flex {
 	display: flex;
 }
@@ -56,6 +67,10 @@
 
 .d-justify-content-end {
 	justify-content: flex-end;
+}
+
+.d-justify-content-center {
+	justify-content: center;
 }
 
 .d-justify-content-space-ar {
@@ -137,5 +152,11 @@
 @for $i from 1 through 50 {
 	.gap-rem-#{$i} {
 		gap: $i * 1rem;
+	}
+}
+
+@for $i from 1 through 100 {
+	.height-#{$i} {
+		height: $i * 1vh;
 	}
 }
