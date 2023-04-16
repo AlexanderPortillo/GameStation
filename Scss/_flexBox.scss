@@ -137,6 +137,30 @@
 	align-self: stretch;
 }
 
+.float-none{
+	float: none;
+}
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float:right;
+}
+
+.d-block{
+	display: block;
+}
+
+.d-none{
+	display: none;
+}
+
+.v-hidden{
+	visibility:hidden;
+}
+
 @for $i from 1 through 50 {
 	.order-#{$i} {
 		order: $i;
