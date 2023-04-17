@@ -1,0 +1,50 @@
+.grid {
+	display: grid;
+}
+
+// ! computadoras y Tv
+@for $i from 1 through 12 {
+	.col-#{$i} {
+		grid-template-columns: repeat($i * 1, 1fr);
+	}
+}
+
+@for $i from 1 through 12 {
+	.span-#{$i} {
+		grid-column: span $i * 1;
+	}
+}
+
+// ! tablets
+@media screen and (max-width: 992px) {
+	@for $i from 1 through 12 {
+		.med-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+}
+
+@media screen and (max-width: 992px) {
+	@for $i from 1 through 12 {
+		.med-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
+
+// ! celulares
+@media screen and (max-width: 576px) {
+	@for $i from 1 through 12 {
+		.peq-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+}
+
+@media screen and (max-width: 576px) {
+	@for $i from 1 through 12 {
+		.peq-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}

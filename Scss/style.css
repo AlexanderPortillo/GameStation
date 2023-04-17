@@ -41055,5 +41055,257 @@
     text-align: center;
   }
 }
+.grid {
+  display: grid;
+}
+
+.col-1 {
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.col-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.col-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.col-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.col-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.col-6 {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.col-7 {
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.col-8 {
+  grid-template-columns: repeat(8, 1fr);
+}
+
+.col-9 {
+  grid-template-columns: repeat(9, 1fr);
+}
+
+.col-10 {
+  grid-template-columns: repeat(10, 1fr);
+}
+
+.col-11 {
+  grid-template-columns: repeat(11, 1fr);
+}
+
+.col-12 {
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.span-1 {
+  grid-column: span 1;
+}
+
+.span-2 {
+  grid-column: span 2;
+}
+
+.span-3 {
+  grid-column: span 3;
+}
+
+.span-4 {
+  grid-column: span 4;
+}
+
+.span-5 {
+  grid-column: span 5;
+}
+
+.span-6 {
+  grid-column: span 6;
+}
+
+.span-7 {
+  grid-column: span 7;
+}
+
+.span-8 {
+  grid-column: span 8;
+}
+
+.span-9 {
+  grid-column: span 9;
+}
+
+.span-10 {
+  grid-column: span 10;
+}
+
+.span-11 {
+  grid-column: span 11;
+}
+
+.span-12 {
+  grid-column: span 12;
+}
+
+@media screen and (max-width: 992px) {
+  .med-col-1 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .med-col-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .med-col-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .med-col-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .med-col-5 {
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .med-col-6 {
+    grid-template-columns: repeat(6, 1fr);
+  }
+  .med-col-7 {
+    grid-template-columns: repeat(7, 1fr);
+  }
+  .med-col-8 {
+    grid-template-columns: repeat(8, 1fr);
+  }
+  .med-col-9 {
+    grid-template-columns: repeat(9, 1fr);
+  }
+  .med-col-10 {
+    grid-template-columns: repeat(10, 1fr);
+  }
+  .med-col-11 {
+    grid-template-columns: repeat(11, 1fr);
+  }
+  .med-col-12 {
+    grid-template-columns: repeat(12, 1fr);
+  }
+}
+@media screen and (max-width: 992px) {
+  .med-span-1 {
+    grid-column: span 1;
+  }
+  .med-span-2 {
+    grid-column: span 2;
+  }
+  .med-span-3 {
+    grid-column: span 3;
+  }
+  .med-span-4 {
+    grid-column: span 4;
+  }
+  .med-span-5 {
+    grid-column: span 5;
+  }
+  .med-span-6 {
+    grid-column: span 6;
+  }
+  .med-span-7 {
+    grid-column: span 7;
+  }
+  .med-span-8 {
+    grid-column: span 8;
+  }
+  .med-span-9 {
+    grid-column: span 9;
+  }
+  .med-span-10 {
+    grid-column: span 10;
+  }
+  .med-span-11 {
+    grid-column: span 11;
+  }
+  .med-span-12 {
+    grid-column: span 12;
+  }
+}
+@media screen and (max-width: 576px) {
+  .peq-col-1 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .peq-col-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .peq-col-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .peq-col-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .peq-col-5 {
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .peq-col-6 {
+    grid-template-columns: repeat(6, 1fr);
+  }
+  .peq-col-7 {
+    grid-template-columns: repeat(7, 1fr);
+  }
+  .peq-col-8 {
+    grid-template-columns: repeat(8, 1fr);
+  }
+  .peq-col-9 {
+    grid-template-columns: repeat(9, 1fr);
+  }
+  .peq-col-10 {
+    grid-template-columns: repeat(10, 1fr);
+  }
+  .peq-col-11 {
+    grid-template-columns: repeat(11, 1fr);
+  }
+  .peq-col-12 {
+    grid-template-columns: repeat(12, 1fr);
+  }
+}
+@media screen and (max-width: 576px) {
+  .peq-span-1 {
+    grid-column: span 1;
+  }
+  .peq-span-2 {
+    grid-column: span 2;
+  }
+  .peq-span-3 {
+    grid-column: span 3;
+  }
+  .peq-span-4 {
+    grid-column: span 4;
+  }
+  .peq-span-5 {
+    grid-column: span 5;
+  }
+  .peq-span-6 {
+    grid-column: span 6;
+  }
+  .peq-span-7 {
+    grid-column: span 7;
+  }
+  .peq-span-8 {
+    grid-column: span 8;
+  }
+  .peq-span-9 {
+    grid-column: span 9;
+  }
+  .peq-span-10 {
+    grid-column: span 10;
+  }
+  .peq-span-11 {
+    grid-column: span 11;
+  }
+  .peq-span-12 {
+    grid-column: span 12;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
