@@ -208,54 +208,58 @@
   background-color: #756b63;
 }
 
-.btn, .btn-red, .btn-black, .btn-white, .btn-blue {
+.btn, .btn-blue, .btn-kelly, .btn-prusian, .btn-gold {
   width: max-content;
   border: none;
   text-decoration: none;
-  cursor: none;
+  cursor: pointer;
 }
-.btn i, .btn-red i, .btn-black i, .btn-white i, .btn-blue i {
+.btn i, .btn-blue i, .btn-kelly i, .btn-prusian i, .btn-gold i {
   width: max-content;
   background-color: transparent;
 }
 
-.btn-red, .btn-black, .btn-white, .btn-blue {
-  border: 1px solid rgba(194, 46, 46, 0.822);
-  padding: 10px 20px;
-  border-radius: 5px;
-  transition: color 1s, background-color 1s;
-  font-weight: bold;
-  color: rgba(194, 46, 46, 0.822);
+.btn-gold {
+  border: 1px solid;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  transition: background-color 1s, color 1s;
+  color: #c1ab00;
+  background-color: #545f76;
 }
-.btn-red:hover, .btn-black:hover, .btn-white:hover, .btn-blue:hover {
-  color: white;
-  background-color: rgba(194, 46, 46, 0.822);
-  cursor: pointer;
+.btn-gold:hover {
+  background-color: rgb(50, 128, 128);
+  color: rgb(70, 59, 59);
+}
+
+.btn-prusian {
+  transition: color 1s;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  color: #ff0908;
+  background-color: #1f3958;
+}
+.btn-prusian:hover {
+  background-color: rgb(34, 168, 95);
+  color: rgb(83, 81, 231);
+}
+.btn-prusian:active {
+  background-color: rgb(179, 60, 60);
+  color: black;
+}
+
+.btn-kelly {
+  color: #ffffff;
+  background-color: #01a700;
+  border-radius: 4px;
 }
 
 .btn-blue {
-  border: 1px solid rgba(0, 0, 255, 0.692);
-  color: rgba(0, 0, 255, 0.692);
-}
-.btn-blue:hover {
-  background-color: rgba(0, 0, 255, 0.692);
-}
-
-.btn-white {
-  border: 1px solid rgba(198, 198, 206, 0.692);
-  color: rgba(221, 214, 214, 0.911);
-}
-.btn-white:hover {
-  background-color: rgba(255, 255, 255, 0.692);
-  color: rgb(34, 27, 27);
-}
-
-.btn-black {
-  border: 1px solid rgba(7, 0, 0, 0.692);
-  color: rgba(32, 13, 13, 0.911);
-}
-.btn-black:hover {
-  background-color: rgba(7, 0, 0, 0.692);
+  color: #ffffff;
+  border: 8px solid;
+  background-color: #1f3958;
+  border-radius: 30px;
 }
 
 .btn-h {
