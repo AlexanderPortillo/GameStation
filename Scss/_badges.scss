@@ -1,3 +1,46 @@
+$color-indigo-dye: #274a71;
+$color-coquelicot: #f64a1b;
+$color-selective-yellow: #fdb100;
+$color-olive: #856f09;
+$color-paynes-gray: #545f76;
+$color-sandy-brown: #ffb56b;
+$color-red: #ff0908;
+
 .badges {
-    
+	font-weight: bold;
+	padding: 6px;
+	font-size: 22px;
+}
+
+.badges-indigo {
+	color: $color-coquelicot;
+	border: 2px solid $color-coquelicot;
+	background-color: $color-indigo-dye;
+	border-radius: 4px;
+}
+
+.badges-olive {
+	color: $color-selective-yellow;
+	background-color: $color-olive;
+	border: 2px solid $color-selective-yellow;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+.badges-paynes {
+	color: $color-sandy-brown;
+	background-color: $color-paynes-gray;
+	border-radius: 4px;
+	border: 2px solid $color-sandy-brown;
+}
+
+.badges-red {
+	color: $color-red;
+	background-color: $color-paynes-gray;
+	border: 2px solid $color-red;
+	font-style: italic;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	font-weight: bold;
 }

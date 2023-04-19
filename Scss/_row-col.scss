@@ -1,5 +1,10 @@
-.grid {
+.row {
 	display: grid;
+	gap: 6px;
+
+	div {
+		display: grid;
+	}
 }
 
 // ! computadoras y Tv
@@ -12,6 +17,12 @@
 @for $i from 1 through 12 {
 	.span-#{$i} {
 		grid-column: span $i * 1;
+	}
+}
+
+@for $i from 1 through 12 {
+	.row-#{$i} {
+		grid-template-rows: repeat($i * 1, 100px);
 	}
 }
 
