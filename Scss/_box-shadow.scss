@@ -1,8 +1,8 @@
-@use 'colores';
+@use 'colors';
 
 @for $i from 1 through 100 {
 	.box-s-cg-px-#{$i} {
-		box-shadow: 0 0 $i * 1px colores.$color-cadet-gray;
+		box-shadow: 0 0 $i * 1px colors.$color-cadet-gray;
 	}
 }
 
@@ -11,14 +11,14 @@
 		transition: box-shadow 2s;
 
 		&:hover {
-			box-shadow: 0 0 $i * 1px colores.$color-cadet-gray;
+			box-shadow: 0 0 $i * 1px colors.$color-cadet-gray;
 		}
 	}
 }
 
 @for $i from 1 through 100 {
 	.box-s-id-px-#{$i} {
-		box-shadow: 0 0 $i * 1px colores.$color-indigo-dye;
+		box-shadow: 0 0 $i * 1px colors.$color-indigo-dye;
 	}
 }
 
@@ -27,14 +27,14 @@
 		transition: box-shadow 2s;
 
 		&:hover {
-			box-shadow: 0 0 $i * 1px colores.$color-indigo-dye;
+			box-shadow: 0 0 $i * 1px colors.$color-indigo-dye;
 		}
 	}
 }
 
 @for $i from 1 through 100 {
 	.box-s-pb-px-#{$i} {
-		box-shadow: 0 0 $i * 1px colores.$color-prusian-blue;
+		box-shadow: 0 0 $i * 1px colors.$color-prusian-blue;
 	}
 }
 
@@ -43,7 +43,7 @@
 		transition: box-shadow 2s;
 
 		:hover {
-			box-shadow: 0 0 $i * 1px colores.$color-prusian-blue;
+			box-shadow: 0 0 $i * 1px colors.$color-prusian-blue;
 		}
 	}
 }

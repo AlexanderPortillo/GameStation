@@ -1,0 +1,75 @@
+.btn, .btn-blue, .btn-kelly, .btn-prusian, .btn-gold {
+  width: max-content;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn i, .btn-blue i, .btn-kelly i, .btn-prusian i, .btn-gold i {
+  width: max-content;
+  background-color: transparent;
+}
+
+.btn-gold {
+  border: 1px solid;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  transition: background-color 1s, color 1s;
+  color: #c1ab00;
+  background-color: #545f76;
+}
+.btn-gold:hover {
+  background-color: rgb(50, 128, 128);
+  color: rgb(70, 59, 59);
+}
+
+.btn-prusian {
+  transition: color 1s;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  color: #ff0908;
+  background-color: #1f3958;
+}
+.btn-prusian:hover {
+  background-color: rgb(34, 168, 95);
+  color: rgb(83, 81, 231);
+}
+.btn-prusian:active {
+  background-color: rgb(179, 60, 60);
+  color: black;
+}
+
+.btn-kelly {
+  color: #ffffff;
+  background-color: #01a700;
+  border-radius: 4px;
+}
+
+.btn-blue {
+  color: #ffffff;
+  border: 8px solid;
+  background-color: #1f3958;
+  border-radius: 30px;
+}
+
+.btn-h {
+  transition: background-color 1s, color 1s;
+}
+.btn-h:hover {
+  background-color: rgb(50, 128, 128);
+  color: rgb(70, 59, 59);
+}
+
+.btn-h-x {
+  transition: color 1s;
+}
+.btn-h-x:hover {
+  background-color: rgb(34, 168, 95);
+  color: rgb(83, 81, 231);
+}
+.btn-h-x:active {
+  background-color: rgb(179, 60, 60);
+  color: black;
+}
+
+/*# sourceMappingURL=btn.css.map */

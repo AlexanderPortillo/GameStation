@@ -1,4 +1,9 @@
-@use 'colores';
+$color-old-gold: #c1ab00;
+$color-paynes-gray: #545f76;
+$color-red: #ff0908;
+$color-prusian-blue: #1f3958;
+$color-white: #ffffff;
+$color-kelly-green: #01a700;
 
 .btn {
 	width: max-content;
@@ -18,8 +23,8 @@
 	border-bottom-left-radius: 15px;
 	border-top-right-radius: 15px;
 	transition: background-color 1s, color 1s;
-	color: colores.$color-old-gold;
-	background-color: colores.$color-paynes-gray;
+	color: $color-old-gold;
+	background-color: $color-paynes-gray;
 
 	&:hover {
 		background-color: rgb(50, 128, 128);
@@ -33,8 +38,8 @@
 	border: none;
 	border-radius: 4px;
 	padding: 10px;
-	color: colores.$color-red;
-	background-color: colores.$color-prusian-blue;
+	color: $color-red;
+	background-color: $color-prusian-blue;
 
 	&:hover {
 		background-color: rgb(34, 168, 95);
@@ -49,16 +54,16 @@
 
 .btn-kelly {
 	@extend .btn;
-	color: colores.$color-white;
-	background-color: colores.$color-kelly-green;
+	color: $color-white;
+	background-color: $color-kelly-green;
 	border-radius: 4px;
 }
 
 .btn-blue {
 	@extend .btn;
-	color: colores.$color-white;
+	color: $color-white;
 	border: 8px solid;
-	background-color: colores.$color-prusian-blue;
+	background-color: $color-prusian-blue;
 	border-radius: 30px;
 }
 

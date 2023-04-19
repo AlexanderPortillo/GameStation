@@ -173,15 +173,9 @@
 	}
 }
 
-@for $i from 1 through 50 {
+@for $i from 1 through 100 {
 	.gap-px-#{$i} {
 		gap: $i * 1px;
-	}
-}
-
-@for $i from 1 through 50 {
-	.gap-rem-#{$i} {
-		gap: $i * 1rem;
 	}
 }
 

@@ -1,4 +1,4 @@
-@for $i from 1 through 300 {
+@for $i from 1 through 200 {
 	.font-size-px-#{$i} {
 		font-size: $i * 1px;
 	}

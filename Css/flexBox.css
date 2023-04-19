@@ -1,0 +1,1170 @@
+.max-content {
+  width: max-content;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.d-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-direction-row {
+  flex-direction: row;
+}
+
+.d-direction-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.d-direction-col {
+  flex-direction: column;
+}
+
+.d-direction-col-reverse {
+  flex-direction: row;
+}
+
+.d-flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.d-flex-wrap {
+  flex-wrap: wrap;
+}
+
+.d-flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+.d-align-items-start {
+  align-items: flex-start;
+}
+
+.d-align-items-end {
+  align-items: flex-end;
+}
+
+.d-align-items-center {
+  align-items: center;
+}
+
+.d-align-items-baseline {
+  align-items: baseline;
+}
+
+.d-align-items-stretch {
+  align-items: stretch;
+}
+
+.d-justify-content-start {
+  justify-content: flex-start;
+}
+
+.d-justify-content-end {
+  justify-content: flex-end;
+}
+
+.d-justify-content-center {
+  justify-content: center;
+}
+
+.d-justify-content-space-ar {
+  justify-content: space-around;
+}
+
+.d-justify-content-space-bet {
+  justify-content: space-between;
+}
+
+.d-justify-content-space-ev {
+  justify-content: space-evenly;
+}
+
+.d-align-content-start {
+  align-content: flex-start;
+}
+
+.d-align-content-end {
+  align-content: flex-end;
+}
+
+.d-align-content-center {
+  align-content: center;
+}
+
+.d-align-content-space-ar {
+  align-content: space-around;
+}
+
+.d-align-content-space-bet {
+  align-content: space-between;
+}
+
+.d-align-content-space-ev {
+  align-content: space-evenly;
+}
+
+.d-align-content-stretch {
+  align-content: stretch;
+}
+
+.d-align-self-auto {
+  align-self: auto;
+}
+
+.d-align-self-start {
+  align-self: flex-start;
+}
+
+.d-align-self-end {
+  align-self: flex-end;
+}
+
+.d-align-self-center {
+  align-self: center;
+}
+
+.d-align-self-baseline {
+  align-self: baseline;
+}
+
+.d-align-self-stretch {
+  align-self: stretch;
+}
+
+.float-none {
+  float: none;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-none {
+  display: none;
+}
+
+.v-hidden {
+  visibility: hidden;
+}
+
+.order-1 {
+  order: 1;
+}
+
+.order-2 {
+  order: 2;
+}
+
+.order-3 {
+  order: 3;
+}
+
+.order-4 {
+  order: 4;
+}
+
+.order-5 {
+  order: 5;
+}
+
+.order-6 {
+  order: 6;
+}
+
+.order-7 {
+  order: 7;
+}
+
+.order-8 {
+  order: 8;
+}
+
+.order-9 {
+  order: 9;
+}
+
+.order-10 {
+  order: 10;
+}
+
+.order-11 {
+  order: 11;
+}
+
+.order-12 {
+  order: 12;
+}
+
+.order-13 {
+  order: 13;
+}
+
+.order-14 {
+  order: 14;
+}
+
+.order-15 {
+  order: 15;
+}
+
+.order-16 {
+  order: 16;
+}
+
+.order-17 {
+  order: 17;
+}
+
+.order-18 {
+  order: 18;
+}
+
+.order-19 {
+  order: 19;
+}
+
+.order-20 {
+  order: 20;
+}
+
+.order-21 {
+  order: 21;
+}
+
+.order-22 {
+  order: 22;
+}
+
+.order-23 {
+  order: 23;
+}
+
+.order-24 {
+  order: 24;
+}
+
+.order-25 {
+  order: 25;
+}
+
+.order-26 {
+  order: 26;
+}
+
+.order-27 {
+  order: 27;
+}
+
+.order-28 {
+  order: 28;
+}
+
+.order-29 {
+  order: 29;
+}
+
+.order-30 {
+  order: 30;
+}
+
+.order-31 {
+  order: 31;
+}
+
+.order-32 {
+  order: 32;
+}
+
+.order-33 {
+  order: 33;
+}
+
+.order-34 {
+  order: 34;
+}
+
+.order-35 {
+  order: 35;
+}
+
+.order-36 {
+  order: 36;
+}
+
+.order-37 {
+  order: 37;
+}
+
+.order-38 {
+  order: 38;
+}
+
+.order-39 {
+  order: 39;
+}
+
+.order-40 {
+  order: 40;
+}
+
+.order-41 {
+  order: 41;
+}
+
+.order-42 {
+  order: 42;
+}
+
+.order-43 {
+  order: 43;
+}
+
+.order-44 {
+  order: 44;
+}
+
+.order-45 {
+  order: 45;
+}
+
+.order-46 {
+  order: 46;
+}
+
+.order-47 {
+  order: 47;
+}
+
+.order-48 {
+  order: 48;
+}
+
+.order-49 {
+  order: 49;
+}
+
+.order-50 {
+  order: 50;
+}
+
+.gap-px-1 {
+  gap: 1px;
+}
+
+.gap-px-2 {
+  gap: 2px;
+}
+
+.gap-px-3 {
+  gap: 3px;
+}
+
+.gap-px-4 {
+  gap: 4px;
+}
+
+.gap-px-5 {
+  gap: 5px;
+}
+
+.gap-px-6 {
+  gap: 6px;
+}
+
+.gap-px-7 {
+  gap: 7px;
+}
+
+.gap-px-8 {
+  gap: 8px;
+}
+
+.gap-px-9 {
+  gap: 9px;
+}
+
+.gap-px-10 {
+  gap: 10px;
+}
+
+.gap-px-11 {
+  gap: 11px;
+}
+
+.gap-px-12 {
+  gap: 12px;
+}
+
+.gap-px-13 {
+  gap: 13px;
+}
+
+.gap-px-14 {
+  gap: 14px;
+}
+
+.gap-px-15 {
+  gap: 15px;
+}
+
+.gap-px-16 {
+  gap: 16px;
+}
+
+.gap-px-17 {
+  gap: 17px;
+}
+
+.gap-px-18 {
+  gap: 18px;
+}
+
+.gap-px-19 {
+  gap: 19px;
+}
+
+.gap-px-20 {
+  gap: 20px;
+}
+
+.gap-px-21 {
+  gap: 21px;
+}
+
+.gap-px-22 {
+  gap: 22px;
+}
+
+.gap-px-23 {
+  gap: 23px;
+}
+
+.gap-px-24 {
+  gap: 24px;
+}
+
+.gap-px-25 {
+  gap: 25px;
+}
+
+.gap-px-26 {
+  gap: 26px;
+}
+
+.gap-px-27 {
+  gap: 27px;
+}
+
+.gap-px-28 {
+  gap: 28px;
+}
+
+.gap-px-29 {
+  gap: 29px;
+}
+
+.gap-px-30 {
+  gap: 30px;
+}
+
+.gap-px-31 {
+  gap: 31px;
+}
+
+.gap-px-32 {
+  gap: 32px;
+}
+
+.gap-px-33 {
+  gap: 33px;
+}
+
+.gap-px-34 {
+  gap: 34px;
+}
+
+.gap-px-35 {
+  gap: 35px;
+}
+
+.gap-px-36 {
+  gap: 36px;
+}
+
+.gap-px-37 {
+  gap: 37px;
+}
+
+.gap-px-38 {
+  gap: 38px;
+}
+
+.gap-px-39 {
+  gap: 39px;
+}
+
+.gap-px-40 {
+  gap: 40px;
+}
+
+.gap-px-41 {
+  gap: 41px;
+}
+
+.gap-px-42 {
+  gap: 42px;
+}
+
+.gap-px-43 {
+  gap: 43px;
+}
+
+.gap-px-44 {
+  gap: 44px;
+}
+
+.gap-px-45 {
+  gap: 45px;
+}
+
+.gap-px-46 {
+  gap: 46px;
+}
+
+.gap-px-47 {
+  gap: 47px;
+}
+
+.gap-px-48 {
+  gap: 48px;
+}
+
+.gap-px-49 {
+  gap: 49px;
+}
+
+.gap-px-50 {
+  gap: 50px;
+}
+
+.gap-px-51 {
+  gap: 51px;
+}
+
+.gap-px-52 {
+  gap: 52px;
+}
+
+.gap-px-53 {
+  gap: 53px;
+}
+
+.gap-px-54 {
+  gap: 54px;
+}
+
+.gap-px-55 {
+  gap: 55px;
+}
+
+.gap-px-56 {
+  gap: 56px;
+}
+
+.gap-px-57 {
+  gap: 57px;
+}
+
+.gap-px-58 {
+  gap: 58px;
+}
+
+.gap-px-59 {
+  gap: 59px;
+}
+
+.gap-px-60 {
+  gap: 60px;
+}
+
+.gap-px-61 {
+  gap: 61px;
+}
+
+.gap-px-62 {
+  gap: 62px;
+}
+
+.gap-px-63 {
+  gap: 63px;
+}
+
+.gap-px-64 {
+  gap: 64px;
+}
+
+.gap-px-65 {
+  gap: 65px;
+}
+
+.gap-px-66 {
+  gap: 66px;
+}
+
+.gap-px-67 {
+  gap: 67px;
+}
+
+.gap-px-68 {
+  gap: 68px;
+}
+
+.gap-px-69 {
+  gap: 69px;
+}
+
+.gap-px-70 {
+  gap: 70px;
+}
+
+.gap-px-71 {
+  gap: 71px;
+}
+
+.gap-px-72 {
+  gap: 72px;
+}
+
+.gap-px-73 {
+  gap: 73px;
+}
+
+.gap-px-74 {
+  gap: 74px;
+}
+
+.gap-px-75 {
+  gap: 75px;
+}
+
+.gap-px-76 {
+  gap: 76px;
+}
+
+.gap-px-77 {
+  gap: 77px;
+}
+
+.gap-px-78 {
+  gap: 78px;
+}
+
+.gap-px-79 {
+  gap: 79px;
+}
+
+.gap-px-80 {
+  gap: 80px;
+}
+
+.gap-px-81 {
+  gap: 81px;
+}
+
+.gap-px-82 {
+  gap: 82px;
+}
+
+.gap-px-83 {
+  gap: 83px;
+}
+
+.gap-px-84 {
+  gap: 84px;
+}
+
+.gap-px-85 {
+  gap: 85px;
+}
+
+.gap-px-86 {
+  gap: 86px;
+}
+
+.gap-px-87 {
+  gap: 87px;
+}
+
+.gap-px-88 {
+  gap: 88px;
+}
+
+.gap-px-89 {
+  gap: 89px;
+}
+
+.gap-px-90 {
+  gap: 90px;
+}
+
+.gap-px-91 {
+  gap: 91px;
+}
+
+.gap-px-92 {
+  gap: 92px;
+}
+
+.gap-px-93 {
+  gap: 93px;
+}
+
+.gap-px-94 {
+  gap: 94px;
+}
+
+.gap-px-95 {
+  gap: 95px;
+}
+
+.gap-px-96 {
+  gap: 96px;
+}
+
+.gap-px-97 {
+  gap: 97px;
+}
+
+.gap-px-98 {
+  gap: 98px;
+}
+
+.gap-px-99 {
+  gap: 99px;
+}
+
+.gap-px-100 {
+  gap: 100px;
+}
+
+.height-1 {
+  height: 1vh;
+}
+
+.height-2 {
+  height: 2vh;
+}
+
+.height-3 {
+  height: 3vh;
+}
+
+.height-4 {
+  height: 4vh;
+}
+
+.height-5 {
+  height: 5vh;
+}
+
+.height-6 {
+  height: 6vh;
+}
+
+.height-7 {
+  height: 7vh;
+}
+
+.height-8 {
+  height: 8vh;
+}
+
+.height-9 {
+  height: 9vh;
+}
+
+.height-10 {
+  height: 10vh;
+}
+
+.height-11 {
+  height: 11vh;
+}
+
+.height-12 {
+  height: 12vh;
+}
+
+.height-13 {
+  height: 13vh;
+}
+
+.height-14 {
+  height: 14vh;
+}
+
+.height-15 {
+  height: 15vh;
+}
+
+.height-16 {
+  height: 16vh;
+}
+
+.height-17 {
+  height: 17vh;
+}
+
+.height-18 {
+  height: 18vh;
+}
+
+.height-19 {
+  height: 19vh;
+}
+
+.height-20 {
+  height: 20vh;
+}
+
+.height-21 {
+  height: 21vh;
+}
+
+.height-22 {
+  height: 22vh;
+}
+
+.height-23 {
+  height: 23vh;
+}
+
+.height-24 {
+  height: 24vh;
+}
+
+.height-25 {
+  height: 25vh;
+}
+
+.height-26 {
+  height: 26vh;
+}
+
+.height-27 {
+  height: 27vh;
+}
+
+.height-28 {
+  height: 28vh;
+}
+
+.height-29 {
+  height: 29vh;
+}
+
+.height-30 {
+  height: 30vh;
+}
+
+.height-31 {
+  height: 31vh;
+}
+
+.height-32 {
+  height: 32vh;
+}
+
+.height-33 {
+  height: 33vh;
+}
+
+.height-34 {
+  height: 34vh;
+}
+
+.height-35 {
+  height: 35vh;
+}
+
+.height-36 {
+  height: 36vh;
+}
+
+.height-37 {
+  height: 37vh;
+}
+
+.height-38 {
+  height: 38vh;
+}
+
+.height-39 {
+  height: 39vh;
+}
+
+.height-40 {
+  height: 40vh;
+}
+
+.height-41 {
+  height: 41vh;
+}
+
+.height-42 {
+  height: 42vh;
+}
+
+.height-43 {
+  height: 43vh;
+}
+
+.height-44 {
+  height: 44vh;
+}
+
+.height-45 {
+  height: 45vh;
+}
+
+.height-46 {
+  height: 46vh;
+}
+
+.height-47 {
+  height: 47vh;
+}
+
+.height-48 {
+  height: 48vh;
+}
+
+.height-49 {
+  height: 49vh;
+}
+
+.height-50 {
+  height: 50vh;
+}
+
+.height-51 {
+  height: 51vh;
+}
+
+.height-52 {
+  height: 52vh;
+}
+
+.height-53 {
+  height: 53vh;
+}
+
+.height-54 {
+  height: 54vh;
+}
+
+.height-55 {
+  height: 55vh;
+}
+
+.height-56 {
+  height: 56vh;
+}
+
+.height-57 {
+  height: 57vh;
+}
+
+.height-58 {
+  height: 58vh;
+}
+
+.height-59 {
+  height: 59vh;
+}
+
+.height-60 {
+  height: 60vh;
+}
+
+.height-61 {
+  height: 61vh;
+}
+
+.height-62 {
+  height: 62vh;
+}
+
+.height-63 {
+  height: 63vh;
+}
+
+.height-64 {
+  height: 64vh;
+}
+
+.height-65 {
+  height: 65vh;
+}
+
+.height-66 {
+  height: 66vh;
+}
+
+.height-67 {
+  height: 67vh;
+}
+
+.height-68 {
+  height: 68vh;
+}
+
+.height-69 {
+  height: 69vh;
+}
+
+.height-70 {
+  height: 70vh;
+}
+
+.height-71 {
+  height: 71vh;
+}
+
+.height-72 {
+  height: 72vh;
+}
+
+.height-73 {
+  height: 73vh;
+}
+
+.height-74 {
+  height: 74vh;
+}
+
+.height-75 {
+  height: 75vh;
+}
+
+.height-76 {
+  height: 76vh;
+}
+
+.height-77 {
+  height: 77vh;
+}
+
+.height-78 {
+  height: 78vh;
+}
+
+.height-79 {
+  height: 79vh;
+}
+
+.height-80 {
+  height: 80vh;
+}
+
+.height-81 {
+  height: 81vh;
+}
+
+.height-82 {
+  height: 82vh;
+}
+
+.height-83 {
+  height: 83vh;
+}
+
+.height-84 {
+  height: 84vh;
+}
+
+.height-85 {
+  height: 85vh;
+}
+
+.height-86 {
+  height: 86vh;
+}
+
+.height-87 {
+  height: 87vh;
+}
+
+.height-88 {
+  height: 88vh;
+}
+
+.height-89 {
+  height: 89vh;
+}
+
+.height-90 {
+  height: 90vh;
+}
+
+.height-91 {
+  height: 91vh;
+}
+
+.height-92 {
+  height: 92vh;
+}
+
+.height-93 {
+  height: 93vh;
+}
+
+.height-94 {
+  height: 94vh;
+}
+
+.height-95 {
+  height: 95vh;
+}
+
+.height-96 {
+  height: 96vh;
+}
+
+.height-97 {
+  height: 97vh;
+}
+
+.height-98 {
+  height: 98vh;
+}
+
+.height-99 {
+  height: 99vh;
+}
+
+.height-100 {
+  height: 100vh;
+}
+
+/*# sourceMappingURL=flexBox.css.map */

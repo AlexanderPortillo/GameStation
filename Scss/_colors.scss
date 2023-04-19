@@ -21,7 +21,7 @@ $color-flame: #d16741;
 
 $color-prusian-blue: #1f3958;
 $color-indigo-dye: #274a71;
-$color-cadet-gray:#8fa9c1;
+$color-cadet-gray: #8fa9c1;
 
 $color-engineering-orange: #d40000;
 $color-beaer: #b48f7c;
@@ -31,6 +31,7 @@ $color-satin-sheen-gold: #d4ab4f;
 $color-paynes-gray: #545f76;
 $color-dim-gray: #756b63;
 
+// ! colores de texto
 .color-red {
 	color: $color-red;
 }
@@ -135,6 +136,7 @@ $color-dim-gray: #756b63;
 	color: $color-dim-gray;
 }
 
+// ! color de fondo
 .bg-red {
 	background-color: $color-red;
 }

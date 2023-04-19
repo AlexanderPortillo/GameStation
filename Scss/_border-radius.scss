@@ -1,89 +1,29 @@
-@for $i from 1 through 600 {
+@for $i from 1 through 400 {
 	.circle-px-#{$i} {
 		border-radius: $i * 1px;
 	}
 }
 
-@for $i from 1 through 400 {
+@for $i from 1 through 200 {
 	.circle-t-l-px-#{$i} {
 		border-top-left-radius: $i * 1px;
 	}
 }
 
-@for $i from 1 through 400 {
+@for $i from 1 through 200 {
 	.circle-t-r-px-#{$i} {
 		border-top-right-radius: $i * 1px;
 	}
 }
 
-@for $i from 1 through 400 {
+@for $i from 1 through 200 {
 	.circle-b-l-px-#{$i} {
 		border-bottom-left-radius: $i * 1px;
 	}
 }
 
-@for $i from 1 through 400 {
+@for $i from 1 through 200 {
 	.circle-b-r-px-#{$i} {
 		border-bottom-right-radius: $i * 1px;
-	}
-}
-
-@for $i from 1 through 100 {
-	.circle-porc-#{$i} {
-		border-radius: $i * 1%;
-	}
-}
-
-@for $i from 1 through 50 {
-	.circle-t-l-porc-#{$i} {
-		border-top-left-radius: $i * 1%;
-	}
-}
-
-@for $i from 1 through 50 {
-	.circle-t-r-porc-#{$i} {
-		border-top-right-radius: $i * 1%;
-	}
-}
-
-@for $i from 1 through 50 {
-	.circle-b-l-porc-#{$i} {
-		border-bottom-left-radius: $i * 1%;
-	}
-}
-
-@for $i from 1 through 50 {
-	.circle-b-r-porc-#{$i} {
-		border-bottom-right-radius: $i * 1%;
-	}
-}
-
-@for $i from 1 through 200 {
-	.circle-rem-#{$i} {
-		border-radius: $i * 1rem;
-	}
-}
-
-@for $i from 1 through 100 {
-	.circle-t-l-rem-#{$i} {
-		border-top-left-radius: $i * 1rem;
-	}
-}
-
-@for $i from 1 through 100 {
-	.circle-t-r-rem-#{$i} {
-		border-top-right-radius: $i * 1rem;
-	}
-}
-
-@for $i from 1 through 100 {
-	.circle-b-l-rem-#{$i} {
-		border-bottom-left-radius: $i * 1rem;
-	}
-}
-
-@for $i from 1 through 100 {
-	.circle-b-r-rem-#{$i} {
-		border-bottom-right-radius: $i * 1rem;
 	}
 }
