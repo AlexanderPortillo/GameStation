@@ -1,0 +1,53 @@
+$color-red: #ff0908;
+$color-flame: #d16741;
+$color-forrest-green: #009800;
+$color-dark-pastel-green: #4eb74e;
+$color-indigo-dye: #274a71;
+$color-cadet-gray: #8fa9c1;
+$color-chamoisee: #a3735d;
+$color-beaer: #b48f7c;
+
+
+.alert{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.alert-warning{
+    @extend .alert;
+    border: 1px solid $color-red;
+    background-color: $color-flame;
+    color: $color-red;
+    display: flex;
+    gap: 10px;
+}
+
+.alert-succes{
+    @extend .alert;
+    border: 1px solid $color-forrest-green;
+    background-color: $color-dark-pastel-green;
+    color: $color-forrest-green;
+    display: flex;
+    gap: 10px;
+}
+
+.alert-link{
+    @extend .alert;
+    border: 1px solid $color-indigo-dye;
+    background-color: $color-cadet-gray;
+    color: $color-indigo-dye;
+    display: flex;
+    gap: 10px;
+}
+
+.alert-normal{
+    @extend .alert;
+    border: 1px solid $color-chamoisee;
+    background-color: $color-beaer;
+    color: $color-chamoisee;
+    display: flex;
+    gap: 10px;
+}

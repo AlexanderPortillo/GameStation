@@ -1,0 +1,41 @@
+.alert, .alert-normal, .alert-link, .alert-succes, .alert-warning {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 10px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.alert-warning {
+  border: 1px solid #ff0908;
+  background-color: #d16741;
+  color: #ff0908;
+  display: flex;
+  gap: 10px;
+}
+
+.alert-succes {
+  border: 1px solid #009800;
+  background-color: #4eb74e;
+  color: #009800;
+  display: flex;
+  gap: 10px;
+}
+
+.alert-link {
+  border: 1px solid #274a71;
+  background-color: #8fa9c1;
+  color: #274a71;
+  display: flex;
+  gap: 10px;
+}
+
+.alert-normal {
+  border: 1px solid #a3735d;
+  background-color: #b48f7c;
+  color: #a3735d;
+  display: flex;
+  gap: 10px;
+}
+
+/*# sourceMappingURL=alerts.css.map */
