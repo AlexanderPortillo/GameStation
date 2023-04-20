@@ -1,9 +1,3 @@
-$sm: 540px;
-$md: 720px;
-$lg: 960px;
-$xl: 1140px;
-$xxl: 1320px;
-
 .row {
 	display: grid;
 	gap: 6px;
@@ -13,7 +7,12 @@ $xxl: 1320px;
 	}
 }
 
-// ! computadoras y Tv
+@for $i from 1 through 12 {
+	.row-#{$i} {
+		grid-template-rows: repeat($i * 1, 100px);
+	}
+}
+
 @for $i from 1 through 12 {
 	.col-#{$i} {
 		grid-template-columns: repeat($i * 1, 1fr);
@@ -26,41 +25,113 @@ $xxl: 1320px;
 	}
 }
 
-@for $i from 1 through 12 {
-	.row-#{$i} {
-		grid-template-rows: repeat($i * 1, 100px);
-	}
-}
+// ? breakpoint
+$XX-l: 1400px;
+$X-l: 1200px;
+$L-d: 992px;
+$M-d: 768px;
+$S-d: 576px;
 
-// ! tablets
-@media screen and (max-width: 992px) {
+// ! XX-Large devices (larger desktops, 1400px and up)
+@media (max-width: $XX-l) {
 	@for $i from 1 through 12 {
-		.med-col-#{$i} {
+		.xxl-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xxl-col-#{$i} {
 			grid-template-columns: repeat($i * 1, 1fr);
 		}
 	}
-}
 
-@media screen and (max-width: 992px) {
 	@for $i from 1 through 12 {
-		.med-span-#{$i} {
+		.xxl-span-#{$i} {
 			grid-column: span $i * 1;
 		}
 	}
 }
 
-// ! celulares
-@media screen and (max-width: 576px) {
+// ! X-Large devices (large desktops, 1200px and up)
+@media (max-width: $X-l) {
 	@for $i from 1 through 12 {
-		.peq-col-#{$i} {
+		.xl-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xl-col-#{$i} {
 			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xl-span-#{$i} {
+			grid-column: span $i * 1;
 		}
 	}
 }
 
-@media screen and (max-width: 576px) {
+// ! Large devices (desktops, 992px and up)
+@media (max-width: $L-d) {
 	@for $i from 1 through 12 {
-		.peq-span-#{$i} {
+		.ld-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.ld-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.ld-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
+
+// ! Medium devices (tablets, 768px and up)
+@media (max-width: $M-d) {
+	@for $i from 1 through 12 {
+		.md-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.md-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.md-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
+
+// ! Small devices (landscape phones, 576px and up)
+@media (max-width: $S-d) {
+	@for $i from 1 through 12 {
+		.sd-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.sd-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.sd-span-#{$i} {
 			grid-column: span $i * 1;
 		}
 	}

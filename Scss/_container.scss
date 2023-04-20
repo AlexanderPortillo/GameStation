@@ -39,3 +39,115 @@ $xxl: 1320px;
 		text-align: center;
 	}
 }
+
+// ? breakpoint
+$XX-l: 1400px;
+$X-l: 1200px;
+$L-d: 992px;
+$M-d: 768px;
+$S-d: 576px;
+
+// ! XX-Large devices (larger desktops, 1400px and up)
+@media (max-width: $XX-l) {
+	@for $i from 1 through 12 {
+		.xxl-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xxl-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xxl-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
+
+// ! X-Large devices (large desktops, 1200px and up)
+@media (max-width: $X-l) {
+	@for $i from 1 through 12 {
+		.xl-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xl-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xl-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
+
+// ! Large devices (desktops, 992px and up)
+@media (max-width: $L-d) {
+	@for $i from 1 through 12 {
+		.ld-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.ld-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.ld-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
+
+// ! Medium devices (tablets, 768px and up)
+@media (max-width: $M-d) {
+	@for $i from 1 through 12 {
+		.md-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.md-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.md-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
+
+// ! Small devices (landscape phones, 576px and up)
+@media (max-width: $S-d) {
+	@for $i from 1 through 12 {
+		.sd-row-#{$i} {
+			grid-template-rows: repeat($i * 1, 100px);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.sd-col-#{$i} {
+			grid-template-columns: repeat($i * 1, 1fr);
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.sd-span-#{$i} {
+			grid-column: span $i * 1;
+		}
+	}
+}
