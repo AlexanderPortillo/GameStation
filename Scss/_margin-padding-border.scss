@@ -1,128 +1,134 @@
 // ! margin usando px
 @for $i from 1 through 100 {
-	.margin-px-#{$i} {
+	.m-#{$i} {
 		margin: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.margin-t-b-px-#{$i} {
-		margin: $i * 1px 0;
-	}
-}
-
-@for $i from 1 through 100 {
-	.margin-l-r-px-#{$i} {
-		margin: 0 $i * 1px;
-	}
-}
-
-@for $i from 1 through 100 {
-	.margin-t-px-#{$i} {
+	.m-t-#{$i} {
 		margin-top: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.margin-b-px-#{$i} {
+	.m-b-#{$i} {
 		margin-bottom: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.margin-l-px-#{$i} {
+	.m-l-#{$i} {
 		margin-left: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.margin-r-px-#{$i} {
+	.m-r-#{$i} {
+		margin-right: $i * 1px;
+	}
+}
+
+@for $i from 1 through 100 {
+	.m-t-b-#{$i} {
+		margin-top: $i * 1px;
+		margin-bottom: $i * 1px;
+	}
+}
+
+@for $i from 1 through 100 {
+	.m-l-r-#{$i} {
+		margin-left: $i * 1px;
 		margin-right: $i * 1px;
 	}
 }
 
 // ! padding usando px
 @for $i from 1 through 100 {
-	.padding-px-#{$i} {
+	.p-#{$i} {
 		padding: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.padding-t-b-px-#{$i} {
-		padding: $i * 1px 0;
-	}
-}
-
-@for $i from 1 through 100 {
-	.padding-l-r-px-#{$i} {
-		padding: 0 $i * 1px;
-	}
-}
-
-@for $i from 1 through 100 {
-	.padding-t-px-#{$i} {
+	.p-t-#{$i} {
 		padding-top: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.padding-b-px-#{$i} {
+	.p-b-#{$i} {
 		padding-bottom: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.padding-l-px-#{$i} {
+	.p-l-#{$i} {
 		padding-left: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.padding-r-px-#{$i} {
+	.p-r-#{$i} {
+		padding-right: $i * 1px;
+	}
+}
+
+@for $i from 1 through 100 {
+	.p-t-b-#{$i} {
+		padding-top: $i * 1px;
+		padding-bottom: $i * 1px;
+	}
+}
+
+@for $i from 1 through 100 {
+	.p-l-r-#{$i} {
+		padding-left: $i * 1px;
 		padding-right: $i * 1px;
 	}
 }
 
 // ! border usando px
 @for $i from 1 through 100 {
-	.border-px-#{$i} {
+	.b-#{$i} {
 		border: $i * 1px solid;
 	}
 }
 
 @for $i from 1 through 100 {
-	.border-t-b-px-#{$i} {
-		border: $i * 1px 0;
+	.b-t-#{$i} {
+		border-top: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.border-l-r-px-#{$i} {
-		border: 0 $i * 1px;
+	.b-b-#{$i} {
+		border-bottom: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.border-t-px-#{$i} {
-		border-top: $i * 1px solid;
+	.b-l-#{$i} {
+		border-left: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.border-b-px-#{$i} {
-		border-bottom: $i * 1px solid;
+	.b-r-#{$i} {
+		border-right: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.border-l-px-#{$i} {
-		border-left: $i * 1px solid;
+	.b-t-b-#{$i} {
+		border-top: $i * 1px;
+		border-bottom: $i * 1px;
 	}
 }
 
 @for $i from 1 through 100 {
-	.border-r-px-#{$i} {
-		border-right: $i * 1px solid;
+	.b-l-r-#{$i} {
+		border-left: $i * 1px;
+		border-right: $i * 1px;
 	}
 }

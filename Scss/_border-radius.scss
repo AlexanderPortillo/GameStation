@@ -1,29 +1,29 @@
 @for $i from 1 through 400 {
-	.circle-px-#{$i} {
+	.circle-#{$i} {
 		border-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 200 {
-	.circle-t-l-px-#{$i} {
+	.circle-t-l-#{$i} {
 		border-top-left-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 200 {
-	.circle-t-r-px-#{$i} {
+	.circle-t-r-#{$i} {
 		border-top-right-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 200 {
-	.circle-b-l-px-#{$i} {
+	.circle-b-l-#{$i} {
 		border-bottom-left-radius: $i * 1px;
 	}
 }
 
 @for $i from 1 through 200 {
-	.circle-b-r-px-#{$i} {
+	.circle-b-r-#{$i} {
 		border-bottom-right-radius: $i * 1px;
 	}
 }

@@ -167,14 +167,22 @@
 	visibility: hidden;
 }
 
-@for $i from 1 through 50 {
+.visible {
+	visibility: visible;
+}
+
+.invisible {
+	visibility: hidden;
+}
+
+@for $i from 1 through 20 {
 	.order-#{$i} {
 		order: $i;
 	}
 }
 
-@for $i from 1 through 100 {
-	.gap-px-#{$i} {
+@for $i from 1 through 20 {
+	.gap-#{$i} {
 		gap: $i * 1px;
 	}
 }
