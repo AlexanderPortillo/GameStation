@@ -18951,6 +18951,166 @@ input {
   gap: 20px;
 }
 
+.gap-21 {
+  gap: 21px;
+}
+
+.gap-22 {
+  gap: 22px;
+}
+
+.gap-23 {
+  gap: 23px;
+}
+
+.gap-24 {
+  gap: 24px;
+}
+
+.gap-25 {
+  gap: 25px;
+}
+
+.gap-26 {
+  gap: 26px;
+}
+
+.gap-27 {
+  gap: 27px;
+}
+
+.gap-28 {
+  gap: 28px;
+}
+
+.gap-29 {
+  gap: 29px;
+}
+
+.gap-30 {
+  gap: 30px;
+}
+
+.gap-31 {
+  gap: 31px;
+}
+
+.gap-32 {
+  gap: 32px;
+}
+
+.gap-33 {
+  gap: 33px;
+}
+
+.gap-34 {
+  gap: 34px;
+}
+
+.gap-35 {
+  gap: 35px;
+}
+
+.gap-36 {
+  gap: 36px;
+}
+
+.gap-37 {
+  gap: 37px;
+}
+
+.gap-38 {
+  gap: 38px;
+}
+
+.gap-39 {
+  gap: 39px;
+}
+
+.gap-40 {
+  gap: 40px;
+}
+
+.gap-41 {
+  gap: 41px;
+}
+
+.gap-42 {
+  gap: 42px;
+}
+
+.gap-43 {
+  gap: 43px;
+}
+
+.gap-44 {
+  gap: 44px;
+}
+
+.gap-45 {
+  gap: 45px;
+}
+
+.gap-46 {
+  gap: 46px;
+}
+
+.gap-47 {
+  gap: 47px;
+}
+
+.gap-48 {
+  gap: 48px;
+}
+
+.gap-49 {
+  gap: 49px;
+}
+
+.gap-50 {
+  gap: 50px;
+}
+
+.gap-51 {
+  gap: 51px;
+}
+
+.gap-52 {
+  gap: 52px;
+}
+
+.gap-53 {
+  gap: 53px;
+}
+
+.gap-54 {
+  gap: 54px;
+}
+
+.gap-55 {
+  gap: 55px;
+}
+
+.gap-56 {
+  gap: 56px;
+}
+
+.gap-57 {
+  gap: 57px;
+}
+
+.gap-58 {
+  gap: 58px;
+}
+
+.gap-59 {
+  gap: 59px;
+}
+
+.gap-60 {
+  gap: 60px;
+}
+
 .height-1 {
   height: 1vh;
 }
@@ -19421,60 +19581,66 @@ input {
     padding: 0 0;
   }
 }
+.col-style {
+  border: 4px solid #41287d;
+  background-color: #2d2648;
+  color: #adb5a3;
+  font-size: 20px;
+}
+
 .row {
   display: grid;
-  gap: 6px;
 }
 .row div {
   display: grid;
 }
 
 .row-1 {
-  grid-template-rows: repeat(1, 100px);
+  grid-template-rows: repeat(1, 1fr);
 }
 
 .row-2 {
-  grid-template-rows: repeat(2, 100px);
+  grid-template-rows: repeat(2, 1fr);
 }
 
 .row-3 {
-  grid-template-rows: repeat(3, 100px);
+  grid-template-rows: repeat(3, 1fr);
 }
 
 .row-4 {
-  grid-template-rows: repeat(4, 100px);
+  grid-template-rows: repeat(4, 1fr);
 }
 
 .row-5 {
-  grid-template-rows: repeat(5, 100px);
+  grid-template-rows: repeat(5, 1fr);
 }
 
 .row-6 {
-  grid-template-rows: repeat(6, 100px);
+  grid-template-rows: repeat(6, 1fr);
 }
 
 .row-7 {
-  grid-template-rows: repeat(7, 100px);
+  grid-template-rows: repeat(7, 1fr);
 }
 
 .row-8 {
-  grid-template-rows: repeat(8, 100px);
+  grid-template-rows: repeat(8, 1fr);
 }
 
 .row-9 {
-  grid-template-rows: repeat(9, 100px);
+  grid-template-rows: repeat(9, 1fr);
 }
 
 .row-10 {
-  grid-template-rows: repeat(10, 100px);
+  grid-template-rows: repeat(10, 1fr);
 }
 
 .row-11 {
-  grid-template-rows: repeat(11, 100px);
+  grid-template-rows: repeat(11, 1fr);
 }
 
 .row-12 {
-  grid-template-rows: repeat(12, 100px);
+  grid-template-rows: repeat(12, 1fr);
 }
 
 .col-1 {

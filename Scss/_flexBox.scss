@@ -181,7 +181,7 @@
 	}
 }
 
-@for $i from 1 through 20 {
+@for $i from 1 through 60 {
 	.gap-#{$i} {
 		gap: $i * 1px;
 	}
