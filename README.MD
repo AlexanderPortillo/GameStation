@@ -148,6 +148,7 @@ GameStation/
     This is a normal alert
 </span>
 ```
+
 <h1 align="center">Badges</h1>
 
 ![](./Design/badge1.png)
@@ -161,6 +162,7 @@ GameStation/
     Insiginia roja
 </span>
 ```
+
 ![](./Design/badge2.png)
 
 ```Html
@@ -175,6 +177,7 @@ GameStation/
     Insignia dorada
 </span>
 ```
+
 ![](./Design/badge3.png)
 
 ```Html
@@ -205,6 +208,7 @@ GameStation/
     Insignia especial
 </span>
 ```
+
 <h1 align="center">Buttons</h1>
 
 ![](./Design/button1.png)
@@ -272,12 +276,98 @@ GameStation/
     <i class="fab fa-facebook-f font-size-px-30"></i>
 </a>
 ```
+
 <h1 align="center">Containers</h1>
 
+![](./Design/container1.png)
 
+```Html
+<!-- $XX-l: 1400px; -->
+<div class="container-xxl">
+    <div class="container text-center bg-kelly-green">
+        <h1>xx-l</h1>
+    </div>
+</div>
+```
 
+![](./Design/container2.png)
 
+```Html
+<!-- $X-l: 1200px; -->
+<div class="container-xl">
+    <div class="container text-center bg-sandy-brown">
+        <h1>x-l</h1>
+    </div>
+</div>
+```
 
+![](./Design/container3.png)
+
+```Html
+<!-- $L-d: 992px; -->
+<div class="container-ld">
+    <div class="container text-center bg-black color-white">
+        <h1>l-d</h1>
+    </div>
+</div>
+```
+
+![](./Design/container4.png)
+
+```Html
+<!-- $M-d: 768px; -->
+<div class="container-md">
+    <div class="container text-center bg-flame">
+        <h1>m-d</h1>
+    </div>
+</div>
+```
+
+![](./Design/container5.png)
+
+```Html
+<!-- $S-d: 576px; -->
+<div class="container-sd">
+    <div class="container text-center bg-cadet-gray">
+        <h1>s-d</h1>
+    </div>
+</div>
+```
+
+![](./Design/container6.png)
+
+```Html
+
+<div class="container-xxl">
+    <div class="container text-center bg-kelly-green">
+        <h1>xx-l</h1>
+    </div>
+</div>
+
+<div class="container-xl">
+    <div class="container text-center bg-sandy-brown">
+        <h1>x-l</h1>
+    </div>
+</div>
+
+<div class="container-ld">
+    <div class="container text-center bg-black color-white">
+        <h1>l-d</h1>
+    </div>
+</div>
+
+<div class="container-md">
+    <div class="container text-center bg-flame">
+        <h1>m-d</h1>
+    </div>
+</div>
+
+<div class="container-sd">
+    <div class="container text-center bg-cadet-gray">
+        <h1>s-d</h1>
+    </div>
+</div>
+```
 
 ## Procesos
 
