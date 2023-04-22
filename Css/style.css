@@ -291,11 +291,21 @@
 .nav {
   display: flex;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 20px;
   gap: 2rem;
+}
+.nav .nav-item {
+  display: flex;
+}
+.nav .nav-item .nav-link {
+  transition: color 1s, background-color 1s;
+}
+.nav .nav-item .nav-link:hover {
+  color: #8fa9c1;
 }
 .nav .nav-link {
   transition: color 1s, background-color 1s;
+  color: white;
 }
 .nav .nav-link:hover {
   color: #8fa9c1;
@@ -311,6 +321,30 @@
 
 .disabled {
   pointer-events: none;
+}
+
+.text-d-under {
+  text-decoration: underline;
+}
+
+.text-d-over {
+  text-decoration: overline;
+}
+
+.text-d-line {
+  text-decoration: line-through;
+}
+
+.text-d-blink {
+  text-decoration: blink;
+}
+
+.text-d-none {
+  text-decoration: none;
+}
+
+.text-d-underover {
+  text-decoration: underline overline;
 }
 
 .btn, .btn-blue, .btn-kelly, .btn-prusian, .btn-gold {

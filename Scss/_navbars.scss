@@ -4,11 +4,24 @@ $color-indigo-dye: #274a71;
 .nav {
 	display: flex;
 	font-weight: bold;
-	font-size: 16px;
+	font-size: 20px;
 	gap: 2rem;
+
+	.nav-item {
+		display: flex;
+
+		.nav-link {
+			transition: color 1s, background-color 1s;
+
+			&:hover {
+				color: $color-cadet-gray;
+			}
+		}
+	}
 
 	.nav-link {
 		transition: color 1s, background-color 1s;
+		color: white;
 
 		&:hover {
 			color: $color-cadet-gray;
@@ -27,4 +40,28 @@ $color-indigo-dye: #274a71;
 
 .disabled {
 	pointer-events: none;
+}
+
+.text-d-under {
+	text-decoration: underline;
+}
+
+.text-d-over {
+	text-decoration: overline;
+}
+
+.text-d-line {
+	text-decoration: line-through;
+}
+
+.text-d-blink {
+	text-decoration: blink;
+}
+
+.text-d-none {
+	text-decoration: none;
+}
+
+.text-d-underover {
+	text-decoration: underline overline;
 }
