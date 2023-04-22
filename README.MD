@@ -140,12 +140,138 @@ GameStation/
     This is a normal alert
 </span>
 ```
+# Badges
 
-![]()
+![](./Design/badge1.png)
 
 ```Html
+<span class="badges b-2 circle-4 bg-indigo-dye color-coquelicot d-flex d-align-items-center d-justify-content-center">
+    Insiginia roja
+</span>
 
+<span class="badges badges-indigo d-flex d-align-items-center d-justify-content-center">
+    Insiginia roja
+</span>
 ```
+
+![](./Design/badge2.png)
+
+```Html
+<span
+    class="badges b-2 bg-olive color-selective-yellow d-flex d-align-items-center d-justify-content-center max-content circle-t-l-20 circle-t-r-15 circle-b-r-15"
+    style="width: 150px;">
+    Insignia dorada
+</span>
+
+<span class="badges badges-olive d-flex d-align-items-center d-justify-content-center max-content"
+    style="width: 150px;">
+    Insignia dorada
+</span>
+```
+
+![](./Design/badge3.png)
+
+```Html
+<span
+    class="badges b-2 circle-4 bg-paynes-gray color-sandy-brown d-flex d-align-items-center d-justify-content-center max-content"
+    style="width: 170px;">
+    Insignia plateada
+</span>
+
+<span class="badges badges-paynes d-flex d-align-items-center d-justify-content-center max-content"
+    style="width: 170px;">
+    Insignia plateada
+</span>
+```
+
+![](./Design/badge4.png)
+
+```Html
+<span
+    class="badges b-2 bg-paynes-gray color-red d-flex d-align-items-center d-justify-content-center max-content circle-t-l-20 circle-b-r-20 pointer font-style-italic box-s-id-h-px-15"
+    style="width: 170px;">
+    Insignia especial
+</span>
+
+<span
+    class="badges badges-red d-flex d-align-items-center d-justify-content-center max-content pointer box-s-id-h-px-15"
+    style="width: 170px;">
+    Insignia especial
+</span>
+```
+
+# Buttons
+
+![](./Design/button1.png)
+
+```Html
+<button
+    class="btn font-w-bold font-style-italic color-old-gold bg-paynes-gray b-1 circle-b-l-15 circle-t-r-15 pointer box-s-pb-px-10 font-size-px-25 max-content btn-h"
+    style="width: 150px; height: 60px;">
+    <i class="far fa-paper-plane"></i>
+    Enviar
+</button>
+
+<button class="btn btn-gold font-w-bold font-style-italic box-s-pb-px-10 font-size-px-25"
+    style="width: 150px; height: 60px;">
+    <i class="far fa-paper-plane"></i>
+    Enviar
+</button>
+
+![](./Design/button2.png)
+
+```Html
+<button
+    class="btn btn-h-x font-w-bold font-style-italic color-red bg-prusian-blue pointer circle-4 box-s-pb-px-10 font-size-px-25 max-content p-10"
+    style="width: 180px; height: 60px;">
+    <i class="fas fa-download"></i>
+    Descargar
+</button>
+
+<button class="btn btn-prusian font-w-bold font-style-italic box-s-pb-px-10 font-size-px-25"
+    style="width: 180px; height: 60px;">
+    <i class="fas fa-download"></i>
+    Descargar
+</button>
+```
+
+![](./Design/button3.png)
+
+```Html
+<a href="#" target="_blank"
+    class="btn d-center color-white bg-kelly-green pointer circle-4 box-s-pb-h-px font-size-px-20 max-content gap-4"
+    style="width: 160px; height: 40px;">
+    Sigueme en
+    <i class="fab fa-github font-size-px-30"></i>
+</a>
+
+<a href="#" target="_blank" class="btn btn-kelly d-center box-s-pb-h-px font-size-px-20 gap-4"
+    style="width: 160px; height: 40px;">
+    Sigueme en
+    <i class="fab fa-github font-size-px-30"></i>
+</a>
+```
+
+![](./Design/button4.png)
+
+```Html
+<a href="#" target="_blank"
+    class="btn center-content color-white bg-prusian-blue pointer circle-30 box-s-pb-px-30 max-content gap-4 b-8 box-s-cg-h-px-50"
+    style="width: 40px; height: 40px;">
+    <i class="fab fa-facebook-f font-size-px-30"></i>
+</a>
+
+<a href="#" target="_blank" class="btn btn-blue center-content box-s-pb-px-30 gap-4 box-s-cg-h-px-50"
+    style="width: 40px; height: 40px;">
+    <i class="fab fa-facebook-f font-size-px-30"></i>
+</a>
+```
+
+# Container
+
+
+
+
 
 ## Procesos
 
