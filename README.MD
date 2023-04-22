@@ -77,17 +77,25 @@ GameStation/
 
 ## Documentación
 
-| Clases                | Etiqueta                   | unidad de medida | Descripción                       |
-| --------------------- | -------------------------- | ---------------- | --------------------------------- |
-| `circle-1 y -200`     | border-radius              | px               | Nos permide redondear un elemento |
-| `circle-t-l-1 y -100` | border-top-left-radius     | px               |                                   |
-| `circle-t-r-1 y -100` | border-top-right-radius    | px               |                                   |
-| `circle-b-l-1 y -100` | border-bottom-left-radius  | px               |                                   |
-| `circle-b-r-1 y -100` | border-bottom-right-radius | px               |                                   |
+| Clases            | Etiqueta      | unidad de medida | Descripción                       |
+| ----------------- | ------------- | ---------------- | --------------------------------- |
+| `alert`           | border-radius | px               | Nos permide redondear un elemento |
+| `alert-warning`   | border-radius | px               | Nos permide redondear un elemento |
+| `alert-succes`    | border-radius | px               | Nos permide redondear un elemento |
+| `alert-succes`    | border-radius | px               | Nos permide redondear un elemento |
+| `alert-link`      | border-radius | px               | Nos permide redondear un elemento |
+| `alert-normal`    | border-radius | px               | Nos permide redondear un elemento |
+| `badges`          | border-radius | px               | Nos permide redondear un elemento |
+| `badges-indigo`   | border-radius | px               | Nos permide redondear un elemento |
+| `badges-olive`    | border-radius | px               | Nos permide redondear un elemento |
+| `badges-paynes`   | border-radius | px               | Nos permide redondear un elemento |
+| `badges-red`      | border-radius | px               | Nos permide redondear un elemento |
+| `circle-1 y -200` | border-radius | px               | Nos permide redondear un elemento |
+| `circle-1 y -200` | border-radius | px               | Nos permide redondear un elemento |
 
 ## Ejemplos Implementación
 
-# Alerts
+<h1 align="center">Alerts</h1>
 
 ![](./Design/alert1.png)
 
@@ -133,12 +141,96 @@ GameStation/
 ![](./Design/alert4.png)
 
 ```Html
-<span class="alert alert-normal" style="width: 450px"> This is a normal alert </span>
+<span class="alert alert-normal" style="width: 450px"> This is a normal alert</span>
 
 <span class="d-flex bg-beaer color-chamoisee b-1 circle-5 p-10 font-size-px-25 gap-10"
     style="width: 450px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS' sans-serif;">
     This is a normal alert
 </span>
+```
+
+<h1 align="center">Badges</h1>
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+<h1 align="center">Buttons</h1>
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+<h1 align="center">Containers</h1>
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
+```
+
+![]()
+
+```Html
+
 ```
 
 ![]()
