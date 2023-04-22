@@ -148,97 +148,9 @@ GameStation/
     This is a normal alert
 </span>
 ```
-# Badges
-
-<<<<<<< HEAD
-![](./Design/badge1.png)
-=======
 <h1 align="center">Badges</h1>
 
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-<h1 align="center">Buttons</h1>
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-<h1 align="center">Containers</h1>
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
-
-```Html
-
-```
-
-![]()
->>>>>>> c5b6094ce495e6cf348c448e80d730454c9ac803
+![](./Design/badge1.png)
 
 ```Html
 <span class="badges b-2 circle-4 bg-indigo-dye color-coquelicot d-flex d-align-items-center d-justify-content-center">
@@ -249,7 +161,6 @@ GameStation/
     Insiginia roja
 </span>
 ```
-
 ![](./Design/badge2.png)
 
 ```Html
@@ -264,7 +175,6 @@ GameStation/
     Insignia dorada
 </span>
 ```
-
 ![](./Design/badge3.png)
 
 ```Html
@@ -295,8 +205,7 @@ GameStation/
     Insignia especial
 </span>
 ```
-
-# Buttons
+<h1 align="center">Buttons</h1>
 
 ![](./Design/button1.png)
 
@@ -313,6 +222,7 @@ GameStation/
     <i class="far fa-paper-plane"></i>
     Enviar
 </button>
+```
 
 ![](./Design/button2.png)
 
@@ -362,8 +272,8 @@ GameStation/
     <i class="fab fa-facebook-f font-size-px-30"></i>
 </a>
 ```
+<h1 align="center">Containers</h1>
 
-# Container
 
 
 
