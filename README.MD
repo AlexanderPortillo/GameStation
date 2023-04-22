@@ -77,24 +77,75 @@ GameStation/
 
 ## Documentación
 
-| Clases                  | Etiqueta                   | unidad de medida | Descripción                       |
-| ----------------------- | -------------------------- | ---------------- | --------------------------------- |
-| `circle-1 and -200`     | border-radius              | px               | Nos permide redondear un elemento |
-| `circle-t-l-1 and -100` | border-top-left-radius     | px               |                                   |
-| `circle-t-r-1 and -100` | border-top-right-radius    | px               |                                   |
-| `circle-b-l-1 and -100` | border-bottom-left-radius  | px               |                                   |
-| `circle-b-r-1 and -100` | border-bottom-right-radius | px               |                                   |
+| Clases                | Etiqueta                   | unidad de medida | Descripción                       |
+| --------------------- | -------------------------- | ---------------- | --------------------------------- |
+| `circle-1 y -200`     | border-radius              | px               | Nos permide redondear un elemento |
+| `circle-t-l-1 y -100` | border-top-left-radius     | px               |                                   |
+| `circle-t-r-1 y -100` | border-top-right-radius    | px               |                                   |
+| `circle-b-l-1 y -100` | border-bottom-left-radius  | px               |                                   |
+| `circle-b-r-1 y -100` | border-bottom-right-radius | px               |                                   |
 
 ## Ejemplos Implementación
 
+# Alerts
+
+![](./Design/alert1.png)
+
 ```Html
-<button class="btn btn-red btn-lg">
-    <i class="fas fa-ad"></i>
-    Prueba
-</button>
+<span class="alert alert-warning" style="width: 450px">
+    <i class="fas fa-exclamation-triangle"></i> An example alert whit warning icon
+</span>
+
+<span class="d-flex bg-flame color-red b-1 circle-5 p-10 font-size-px-25 gap-10"
+    style="width: 450px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    <i class="fas fa-exclamation-triangle"></i> An example alert whit warning icon
+</span>
 ```
 
-![](./)
+![](./Design/alert2.png)
+
+```Html
+<span class="alert alert-succes" style="width: 450px">
+    <i class="far fa-check-circle"></i> An example alert whit succes icon
+</span>
+
+<span class="d-flex bg-dark-pastel-green color-forrest-green b-1 circle-5 p-10 font-size-px-25 gap-10"
+    style="width: 450px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    <i class="far fa-check-circle"></i> An example alert whit succes icon
+</span>
+```
+
+![](./Design/alert3.png)
+
+```Html
+<span class="alert alert-link" style="width: 450px">
+    An example alert whit an link
+    <a href="#">push here</a>
+</span>
+
+<span class="d-flex bg-cadet-gray color-indigo-dye b-1 circle-5 p-10 font-size-px-25 gap-10"
+    style="width: 450px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS' sans-serif;">
+    An example alert whit an link
+    <a href="#">push here</a>
+</span>
+```
+
+![](./Design/alert4.png)
+
+```Html
+<span class="alert alert-normal" style="width: 450px"> This is a normal alert </span>
+
+<span class="d-flex bg-beaer color-chamoisee b-1 circle-5 p-10 font-size-px-25 gap-10"
+    style="width: 450px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS' sans-serif;">
+    This is a normal alert
+</span>
+```
+
+![]()
+
+```Html
+
+```
 
 ## Procesos
 

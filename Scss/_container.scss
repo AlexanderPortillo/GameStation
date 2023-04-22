@@ -1,41 +1,99 @@
+$px-1: 10rem;
+$px-2: 8rem;
+$px-3: 6rem;
+$px-4: 4rem;
+$px-5: 0;
+
 // ? breakpoint
-$XX-l: 1400px;
+$XX-l: 1440px;
 $X-l: 1200px;
 $L-d: 992px;
 $M-d: 768px;
 $S-d: 576px;
 
-body {
-    padding: 0 10px;
-
-    .container {
-        width: 100%;
-        border: 1px solid;
-    }
+.container {
+	width: 100%;
 }
 
+.container-xxl {
+	padding: 0 $px-1;
+}
+
+.container-xl {
+	padding: 0 $px-1;
+}
+
+.container-ld {
+	padding: 0 $px-1;
+}
+
+.container-md {
+	padding: 0 $px-1;
+}
+
+.container-sd {
+	padding: 0 $px-1;
+}
 
 // ! XX-Large devices (larger desktops, 1400px and up)
 @media (max-width: $XX-l) {
-	
+	.container-xxl {
+		padding: 0 $px-2;
+	}
 }
 
 // ! X-Large devices (large desktops, 1200px and up)
 @media (max-width: $X-l) {
-	
+	.container-xxl {
+		padding: 0 $px-5;
+	}
+
+	.container-xl {
+		padding: $px-5;
+	}
+
+	.container-ld {
+		padding: 0 $px-3;
+	}
+
+	.container-md {
+		padding: 0 $px-3;
+	}
+
+	.container-sd {
+		padding: 0 $px-3;
+	}
 }
 
 // ! Large devices (desktops, 992px and up)
 @media (max-width: $L-d) {
-	
+	.container-ld {
+		padding: $px-5;
+	}
+
+	.container-md {
+		padding: 0 $px-3;
+	}
+
+	.container-sd {
+		padding: 0 $px-3;
+	}
 }
 
 // ! Medium devices (tablets, 768px and up)
 @media (max-width: $M-d) {
-	
+	.container-md {
+		padding: 0 $px-5;
+	}
+
+	.container-sd {
+		padding: 0 $px-4;
+	}
 }
 
 // ! Small devices (landscape phones, 576px and up)
 @media (max-width: $S-d) {
-	
+	.container-sd {
+		padding: 0 $px-5;
+	}
 }
