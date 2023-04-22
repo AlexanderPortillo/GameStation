@@ -46,7 +46,7 @@ $S-d: 576px;
 @media (max-width: $XX-l) {
 	@for $i from 1 through 12 {
 		.xxl-row-#{$i} {
-			grid-template-rows: repeat($i * 1, 100px);
+			grid-template-rows: repeat($i * 1, 1fr);
 		}
 	}
 
@@ -67,7 +67,7 @@ $S-d: 576px;
 @media (max-width: $X-l) {
 	@for $i from 1 through 12 {
 		.xl-row-#{$i} {
-			grid-template-rows: repeat($i * 1, 100px);
+			grid-template-rows: repeat($i * 1, 1fr);
 		}
 	}
 
@@ -88,7 +88,7 @@ $S-d: 576px;
 @media (max-width: $L-d) {
 	@for $i from 1 through 12 {
 		.ld-row-#{$i} {
-			grid-template-rows: repeat($i * 1, 100px);
+			grid-template-rows: repeat($i * 1, 1fr);
 		}
 	}
 
@@ -109,7 +109,7 @@ $S-d: 576px;
 @media (max-width: $M-d) {
 	@for $i from 1 through 12 {
 		.md-row-#{$i} {
-			grid-template-rows: repeat($i * 1, 100px);
+			grid-template-rows: repeat($i * 1, 1fr);
 		}
 	}
 
@@ -130,7 +130,7 @@ $S-d: 576px;
 @media (max-width: $S-d) {
 	@for $i from 1 through 12 {
 		.sd-row-#{$i} {
-			grid-template-rows: repeat($i * 1, 100px);
+			grid-template-rows: repeat($i * 1, 1fr);
 		}
 	}
 

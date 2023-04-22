@@ -53,10 +53,6 @@
   color: #3d2e1e;
 }
 
-.color-bistre {
-  color: #3d2e1e;
-}
-
 .color-kelly-green {
   color: #01a700;
 }
@@ -452,13 +448,11 @@ input {
   font-size: 40px;
 }
 .card .card-text, .card-row .card-text {
-  text-align: justify;
   font-size: 20px;
 }
 
 .card-row {
   flex-direction: row;
-  background-color: #8fa9c1;
 }
 .card-row article:last-child {
   display: flex;
@@ -467,9 +461,6 @@ input {
 }
 .card-row .card-title {
   color: #009800;
-}
-.card-row .card-text {
-  color: #ffffff;
 }
 
 .circle-1 {
@@ -6348,3303 +6339,3303 @@ input {
   cursor: pointer;
 }
 
-.box-s-cg-px-1 {
+.box-s-cg-1 {
   box-shadow: 0 0 1px #8fa9c1;
 }
 
-.box-s-cg-px-2 {
+.box-s-cg-2 {
   box-shadow: 0 0 2px #8fa9c1;
 }
 
-.box-s-cg-px-3 {
+.box-s-cg-3 {
   box-shadow: 0 0 3px #8fa9c1;
 }
 
-.box-s-cg-px-4 {
+.box-s-cg-4 {
   box-shadow: 0 0 4px #8fa9c1;
 }
 
-.box-s-cg-px-5 {
+.box-s-cg-5 {
   box-shadow: 0 0 5px #8fa9c1;
 }
 
-.box-s-cg-px-6 {
+.box-s-cg-6 {
   box-shadow: 0 0 6px #8fa9c1;
 }
 
-.box-s-cg-px-7 {
+.box-s-cg-7 {
   box-shadow: 0 0 7px #8fa9c1;
 }
 
-.box-s-cg-px-8 {
+.box-s-cg-8 {
   box-shadow: 0 0 8px #8fa9c1;
 }
 
-.box-s-cg-px-9 {
+.box-s-cg-9 {
   box-shadow: 0 0 9px #8fa9c1;
 }
 
-.box-s-cg-px-10 {
+.box-s-cg-10 {
   box-shadow: 0 0 10px #8fa9c1;
 }
 
-.box-s-cg-px-11 {
+.box-s-cg-11 {
   box-shadow: 0 0 11px #8fa9c1;
 }
 
-.box-s-cg-px-12 {
+.box-s-cg-12 {
   box-shadow: 0 0 12px #8fa9c1;
 }
 
-.box-s-cg-px-13 {
+.box-s-cg-13 {
   box-shadow: 0 0 13px #8fa9c1;
 }
 
-.box-s-cg-px-14 {
+.box-s-cg-14 {
   box-shadow: 0 0 14px #8fa9c1;
 }
 
-.box-s-cg-px-15 {
+.box-s-cg-15 {
   box-shadow: 0 0 15px #8fa9c1;
 }
 
-.box-s-cg-px-16 {
+.box-s-cg-16 {
   box-shadow: 0 0 16px #8fa9c1;
 }
 
-.box-s-cg-px-17 {
+.box-s-cg-17 {
   box-shadow: 0 0 17px #8fa9c1;
 }
 
-.box-s-cg-px-18 {
+.box-s-cg-18 {
   box-shadow: 0 0 18px #8fa9c1;
 }
 
-.box-s-cg-px-19 {
+.box-s-cg-19 {
   box-shadow: 0 0 19px #8fa9c1;
 }
 
-.box-s-cg-px-20 {
+.box-s-cg-20 {
   box-shadow: 0 0 20px #8fa9c1;
 }
 
-.box-s-cg-px-21 {
+.box-s-cg-21 {
   box-shadow: 0 0 21px #8fa9c1;
 }
 
-.box-s-cg-px-22 {
+.box-s-cg-22 {
   box-shadow: 0 0 22px #8fa9c1;
 }
 
-.box-s-cg-px-23 {
+.box-s-cg-23 {
   box-shadow: 0 0 23px #8fa9c1;
 }
 
-.box-s-cg-px-24 {
+.box-s-cg-24 {
   box-shadow: 0 0 24px #8fa9c1;
 }
 
-.box-s-cg-px-25 {
+.box-s-cg-25 {
   box-shadow: 0 0 25px #8fa9c1;
 }
 
-.box-s-cg-px-26 {
+.box-s-cg-26 {
   box-shadow: 0 0 26px #8fa9c1;
 }
 
-.box-s-cg-px-27 {
+.box-s-cg-27 {
   box-shadow: 0 0 27px #8fa9c1;
 }
 
-.box-s-cg-px-28 {
+.box-s-cg-28 {
   box-shadow: 0 0 28px #8fa9c1;
 }
 
-.box-s-cg-px-29 {
+.box-s-cg-29 {
   box-shadow: 0 0 29px #8fa9c1;
 }
 
-.box-s-cg-px-30 {
+.box-s-cg-30 {
   box-shadow: 0 0 30px #8fa9c1;
 }
 
-.box-s-cg-px-31 {
+.box-s-cg-31 {
   box-shadow: 0 0 31px #8fa9c1;
 }
 
-.box-s-cg-px-32 {
+.box-s-cg-32 {
   box-shadow: 0 0 32px #8fa9c1;
 }
 
-.box-s-cg-px-33 {
+.box-s-cg-33 {
   box-shadow: 0 0 33px #8fa9c1;
 }
 
-.box-s-cg-px-34 {
+.box-s-cg-34 {
   box-shadow: 0 0 34px #8fa9c1;
 }
 
-.box-s-cg-px-35 {
+.box-s-cg-35 {
   box-shadow: 0 0 35px #8fa9c1;
 }
 
-.box-s-cg-px-36 {
+.box-s-cg-36 {
   box-shadow: 0 0 36px #8fa9c1;
 }
 
-.box-s-cg-px-37 {
+.box-s-cg-37 {
   box-shadow: 0 0 37px #8fa9c1;
 }
 
-.box-s-cg-px-38 {
+.box-s-cg-38 {
   box-shadow: 0 0 38px #8fa9c1;
 }
 
-.box-s-cg-px-39 {
+.box-s-cg-39 {
   box-shadow: 0 0 39px #8fa9c1;
 }
 
-.box-s-cg-px-40 {
+.box-s-cg-40 {
   box-shadow: 0 0 40px #8fa9c1;
 }
 
-.box-s-cg-px-41 {
+.box-s-cg-41 {
   box-shadow: 0 0 41px #8fa9c1;
 }
 
-.box-s-cg-px-42 {
+.box-s-cg-42 {
   box-shadow: 0 0 42px #8fa9c1;
 }
 
-.box-s-cg-px-43 {
+.box-s-cg-43 {
   box-shadow: 0 0 43px #8fa9c1;
 }
 
-.box-s-cg-px-44 {
+.box-s-cg-44 {
   box-shadow: 0 0 44px #8fa9c1;
 }
 
-.box-s-cg-px-45 {
+.box-s-cg-45 {
   box-shadow: 0 0 45px #8fa9c1;
 }
 
-.box-s-cg-px-46 {
+.box-s-cg-46 {
   box-shadow: 0 0 46px #8fa9c1;
 }
 
-.box-s-cg-px-47 {
+.box-s-cg-47 {
   box-shadow: 0 0 47px #8fa9c1;
 }
 
-.box-s-cg-px-48 {
+.box-s-cg-48 {
   box-shadow: 0 0 48px #8fa9c1;
 }
 
-.box-s-cg-px-49 {
+.box-s-cg-49 {
   box-shadow: 0 0 49px #8fa9c1;
 }
 
-.box-s-cg-px-50 {
+.box-s-cg-50 {
   box-shadow: 0 0 50px #8fa9c1;
 }
 
-.box-s-cg-px-51 {
+.box-s-cg-51 {
   box-shadow: 0 0 51px #8fa9c1;
 }
 
-.box-s-cg-px-52 {
+.box-s-cg-52 {
   box-shadow: 0 0 52px #8fa9c1;
 }
 
-.box-s-cg-px-53 {
+.box-s-cg-53 {
   box-shadow: 0 0 53px #8fa9c1;
 }
 
-.box-s-cg-px-54 {
+.box-s-cg-54 {
   box-shadow: 0 0 54px #8fa9c1;
 }
 
-.box-s-cg-px-55 {
+.box-s-cg-55 {
   box-shadow: 0 0 55px #8fa9c1;
 }
 
-.box-s-cg-px-56 {
+.box-s-cg-56 {
   box-shadow: 0 0 56px #8fa9c1;
 }
 
-.box-s-cg-px-57 {
+.box-s-cg-57 {
   box-shadow: 0 0 57px #8fa9c1;
 }
 
-.box-s-cg-px-58 {
+.box-s-cg-58 {
   box-shadow: 0 0 58px #8fa9c1;
 }
 
-.box-s-cg-px-59 {
+.box-s-cg-59 {
   box-shadow: 0 0 59px #8fa9c1;
 }
 
-.box-s-cg-px-60 {
+.box-s-cg-60 {
   box-shadow: 0 0 60px #8fa9c1;
 }
 
-.box-s-cg-px-61 {
+.box-s-cg-61 {
   box-shadow: 0 0 61px #8fa9c1;
 }
 
-.box-s-cg-px-62 {
+.box-s-cg-62 {
   box-shadow: 0 0 62px #8fa9c1;
 }
 
-.box-s-cg-px-63 {
+.box-s-cg-63 {
   box-shadow: 0 0 63px #8fa9c1;
 }
 
-.box-s-cg-px-64 {
+.box-s-cg-64 {
   box-shadow: 0 0 64px #8fa9c1;
 }
 
-.box-s-cg-px-65 {
+.box-s-cg-65 {
   box-shadow: 0 0 65px #8fa9c1;
 }
 
-.box-s-cg-px-66 {
+.box-s-cg-66 {
   box-shadow: 0 0 66px #8fa9c1;
 }
 
-.box-s-cg-px-67 {
+.box-s-cg-67 {
   box-shadow: 0 0 67px #8fa9c1;
 }
 
-.box-s-cg-px-68 {
+.box-s-cg-68 {
   box-shadow: 0 0 68px #8fa9c1;
 }
 
-.box-s-cg-px-69 {
+.box-s-cg-69 {
   box-shadow: 0 0 69px #8fa9c1;
 }
 
-.box-s-cg-px-70 {
+.box-s-cg-70 {
   box-shadow: 0 0 70px #8fa9c1;
 }
 
-.box-s-cg-px-71 {
+.box-s-cg-71 {
   box-shadow: 0 0 71px #8fa9c1;
 }
 
-.box-s-cg-px-72 {
+.box-s-cg-72 {
   box-shadow: 0 0 72px #8fa9c1;
 }
 
-.box-s-cg-px-73 {
+.box-s-cg-73 {
   box-shadow: 0 0 73px #8fa9c1;
 }
 
-.box-s-cg-px-74 {
+.box-s-cg-74 {
   box-shadow: 0 0 74px #8fa9c1;
 }
 
-.box-s-cg-px-75 {
+.box-s-cg-75 {
   box-shadow: 0 0 75px #8fa9c1;
 }
 
-.box-s-cg-px-76 {
+.box-s-cg-76 {
   box-shadow: 0 0 76px #8fa9c1;
 }
 
-.box-s-cg-px-77 {
+.box-s-cg-77 {
   box-shadow: 0 0 77px #8fa9c1;
 }
 
-.box-s-cg-px-78 {
+.box-s-cg-78 {
   box-shadow: 0 0 78px #8fa9c1;
 }
 
-.box-s-cg-px-79 {
+.box-s-cg-79 {
   box-shadow: 0 0 79px #8fa9c1;
 }
 
-.box-s-cg-px-80 {
+.box-s-cg-80 {
   box-shadow: 0 0 80px #8fa9c1;
 }
 
-.box-s-cg-px-81 {
+.box-s-cg-81 {
   box-shadow: 0 0 81px #8fa9c1;
 }
 
-.box-s-cg-px-82 {
+.box-s-cg-82 {
   box-shadow: 0 0 82px #8fa9c1;
 }
 
-.box-s-cg-px-83 {
+.box-s-cg-83 {
   box-shadow: 0 0 83px #8fa9c1;
 }
 
-.box-s-cg-px-84 {
+.box-s-cg-84 {
   box-shadow: 0 0 84px #8fa9c1;
 }
 
-.box-s-cg-px-85 {
+.box-s-cg-85 {
   box-shadow: 0 0 85px #8fa9c1;
 }
 
-.box-s-cg-px-86 {
+.box-s-cg-86 {
   box-shadow: 0 0 86px #8fa9c1;
 }
 
-.box-s-cg-px-87 {
+.box-s-cg-87 {
   box-shadow: 0 0 87px #8fa9c1;
 }
 
-.box-s-cg-px-88 {
+.box-s-cg-88 {
   box-shadow: 0 0 88px #8fa9c1;
 }
 
-.box-s-cg-px-89 {
+.box-s-cg-89 {
   box-shadow: 0 0 89px #8fa9c1;
 }
 
-.box-s-cg-px-90 {
+.box-s-cg-90 {
   box-shadow: 0 0 90px #8fa9c1;
 }
 
-.box-s-cg-px-91 {
+.box-s-cg-91 {
   box-shadow: 0 0 91px #8fa9c1;
 }
 
-.box-s-cg-px-92 {
+.box-s-cg-92 {
   box-shadow: 0 0 92px #8fa9c1;
 }
 
-.box-s-cg-px-93 {
+.box-s-cg-93 {
   box-shadow: 0 0 93px #8fa9c1;
 }
 
-.box-s-cg-px-94 {
+.box-s-cg-94 {
   box-shadow: 0 0 94px #8fa9c1;
 }
 
-.box-s-cg-px-95 {
+.box-s-cg-95 {
   box-shadow: 0 0 95px #8fa9c1;
 }
 
-.box-s-cg-px-96 {
+.box-s-cg-96 {
   box-shadow: 0 0 96px #8fa9c1;
 }
 
-.box-s-cg-px-97 {
+.box-s-cg-97 {
   box-shadow: 0 0 97px #8fa9c1;
 }
 
-.box-s-cg-px-98 {
+.box-s-cg-98 {
   box-shadow: 0 0 98px #8fa9c1;
 }
 
-.box-s-cg-px-99 {
+.box-s-cg-99 {
   box-shadow: 0 0 99px #8fa9c1;
 }
 
-.box-s-cg-px-100 {
+.box-s-cg-100 {
   box-shadow: 0 0 100px #8fa9c1;
 }
 
-.box-s-cg-h-px-1 {
+.box-s-cg-h-1 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-1:hover {
+.box-s-cg-h-1:hover {
   box-shadow: 0 0 1px #8fa9c1;
 }
 
-.box-s-cg-h-px-2 {
+.box-s-cg-h-2 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-2:hover {
+.box-s-cg-h-2:hover {
   box-shadow: 0 0 2px #8fa9c1;
 }
 
-.box-s-cg-h-px-3 {
+.box-s-cg-h-3 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-3:hover {
+.box-s-cg-h-3:hover {
   box-shadow: 0 0 3px #8fa9c1;
 }
 
-.box-s-cg-h-px-4 {
+.box-s-cg-h-4 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-4:hover {
+.box-s-cg-h-4:hover {
   box-shadow: 0 0 4px #8fa9c1;
 }
 
-.box-s-cg-h-px-5 {
+.box-s-cg-h-5 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-5:hover {
+.box-s-cg-h-5:hover {
   box-shadow: 0 0 5px #8fa9c1;
 }
 
-.box-s-cg-h-px-6 {
+.box-s-cg-h-6 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-6:hover {
+.box-s-cg-h-6:hover {
   box-shadow: 0 0 6px #8fa9c1;
 }
 
-.box-s-cg-h-px-7 {
+.box-s-cg-h-7 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-7:hover {
+.box-s-cg-h-7:hover {
   box-shadow: 0 0 7px #8fa9c1;
 }
 
-.box-s-cg-h-px-8 {
+.box-s-cg-h-8 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-8:hover {
+.box-s-cg-h-8:hover {
   box-shadow: 0 0 8px #8fa9c1;
 }
 
-.box-s-cg-h-px-9 {
+.box-s-cg-h-9 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-9:hover {
+.box-s-cg-h-9:hover {
   box-shadow: 0 0 9px #8fa9c1;
 }
 
-.box-s-cg-h-px-10 {
+.box-s-cg-h-10 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-10:hover {
+.box-s-cg-h-10:hover {
   box-shadow: 0 0 10px #8fa9c1;
 }
 
-.box-s-cg-h-px-11 {
+.box-s-cg-h-11 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-11:hover {
+.box-s-cg-h-11:hover {
   box-shadow: 0 0 11px #8fa9c1;
 }
 
-.box-s-cg-h-px-12 {
+.box-s-cg-h-12 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-12:hover {
+.box-s-cg-h-12:hover {
   box-shadow: 0 0 12px #8fa9c1;
 }
 
-.box-s-cg-h-px-13 {
+.box-s-cg-h-13 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-13:hover {
+.box-s-cg-h-13:hover {
   box-shadow: 0 0 13px #8fa9c1;
 }
 
-.box-s-cg-h-px-14 {
+.box-s-cg-h-14 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-14:hover {
+.box-s-cg-h-14:hover {
   box-shadow: 0 0 14px #8fa9c1;
 }
 
-.box-s-cg-h-px-15 {
+.box-s-cg-h-15 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-15:hover {
+.box-s-cg-h-15:hover {
   box-shadow: 0 0 15px #8fa9c1;
 }
 
-.box-s-cg-h-px-16 {
+.box-s-cg-h-16 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-16:hover {
+.box-s-cg-h-16:hover {
   box-shadow: 0 0 16px #8fa9c1;
 }
 
-.box-s-cg-h-px-17 {
+.box-s-cg-h-17 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-17:hover {
+.box-s-cg-h-17:hover {
   box-shadow: 0 0 17px #8fa9c1;
 }
 
-.box-s-cg-h-px-18 {
+.box-s-cg-h-18 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-18:hover {
+.box-s-cg-h-18:hover {
   box-shadow: 0 0 18px #8fa9c1;
 }
 
-.box-s-cg-h-px-19 {
+.box-s-cg-h-19 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-19:hover {
+.box-s-cg-h-19:hover {
   box-shadow: 0 0 19px #8fa9c1;
 }
 
-.box-s-cg-h-px-20 {
+.box-s-cg-h-20 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-20:hover {
+.box-s-cg-h-20:hover {
   box-shadow: 0 0 20px #8fa9c1;
 }
 
-.box-s-cg-h-px-21 {
+.box-s-cg-h-21 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-21:hover {
+.box-s-cg-h-21:hover {
   box-shadow: 0 0 21px #8fa9c1;
 }
 
-.box-s-cg-h-px-22 {
+.box-s-cg-h-22 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-22:hover {
+.box-s-cg-h-22:hover {
   box-shadow: 0 0 22px #8fa9c1;
 }
 
-.box-s-cg-h-px-23 {
+.box-s-cg-h-23 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-23:hover {
+.box-s-cg-h-23:hover {
   box-shadow: 0 0 23px #8fa9c1;
 }
 
-.box-s-cg-h-px-24 {
+.box-s-cg-h-24 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-24:hover {
+.box-s-cg-h-24:hover {
   box-shadow: 0 0 24px #8fa9c1;
 }
 
-.box-s-cg-h-px-25 {
+.box-s-cg-h-25 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-25:hover {
+.box-s-cg-h-25:hover {
   box-shadow: 0 0 25px #8fa9c1;
 }
 
-.box-s-cg-h-px-26 {
+.box-s-cg-h-26 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-26:hover {
+.box-s-cg-h-26:hover {
   box-shadow: 0 0 26px #8fa9c1;
 }
 
-.box-s-cg-h-px-27 {
+.box-s-cg-h-27 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-27:hover {
+.box-s-cg-h-27:hover {
   box-shadow: 0 0 27px #8fa9c1;
 }
 
-.box-s-cg-h-px-28 {
+.box-s-cg-h-28 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-28:hover {
+.box-s-cg-h-28:hover {
   box-shadow: 0 0 28px #8fa9c1;
 }
 
-.box-s-cg-h-px-29 {
+.box-s-cg-h-29 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-29:hover {
+.box-s-cg-h-29:hover {
   box-shadow: 0 0 29px #8fa9c1;
 }
 
-.box-s-cg-h-px-30 {
+.box-s-cg-h-30 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-30:hover {
+.box-s-cg-h-30:hover {
   box-shadow: 0 0 30px #8fa9c1;
 }
 
-.box-s-cg-h-px-31 {
+.box-s-cg-h-31 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-31:hover {
+.box-s-cg-h-31:hover {
   box-shadow: 0 0 31px #8fa9c1;
 }
 
-.box-s-cg-h-px-32 {
+.box-s-cg-h-32 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-32:hover {
+.box-s-cg-h-32:hover {
   box-shadow: 0 0 32px #8fa9c1;
 }
 
-.box-s-cg-h-px-33 {
+.box-s-cg-h-33 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-33:hover {
+.box-s-cg-h-33:hover {
   box-shadow: 0 0 33px #8fa9c1;
 }
 
-.box-s-cg-h-px-34 {
+.box-s-cg-h-34 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-34:hover {
+.box-s-cg-h-34:hover {
   box-shadow: 0 0 34px #8fa9c1;
 }
 
-.box-s-cg-h-px-35 {
+.box-s-cg-h-35 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-35:hover {
+.box-s-cg-h-35:hover {
   box-shadow: 0 0 35px #8fa9c1;
 }
 
-.box-s-cg-h-px-36 {
+.box-s-cg-h-36 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-36:hover {
+.box-s-cg-h-36:hover {
   box-shadow: 0 0 36px #8fa9c1;
 }
 
-.box-s-cg-h-px-37 {
+.box-s-cg-h-37 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-37:hover {
+.box-s-cg-h-37:hover {
   box-shadow: 0 0 37px #8fa9c1;
 }
 
-.box-s-cg-h-px-38 {
+.box-s-cg-h-38 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-38:hover {
+.box-s-cg-h-38:hover {
   box-shadow: 0 0 38px #8fa9c1;
 }
 
-.box-s-cg-h-px-39 {
+.box-s-cg-h-39 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-39:hover {
+.box-s-cg-h-39:hover {
   box-shadow: 0 0 39px #8fa9c1;
 }
 
-.box-s-cg-h-px-40 {
+.box-s-cg-h-40 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-40:hover {
+.box-s-cg-h-40:hover {
   box-shadow: 0 0 40px #8fa9c1;
 }
 
-.box-s-cg-h-px-41 {
+.box-s-cg-h-41 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-41:hover {
+.box-s-cg-h-41:hover {
   box-shadow: 0 0 41px #8fa9c1;
 }
 
-.box-s-cg-h-px-42 {
+.box-s-cg-h-42 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-42:hover {
+.box-s-cg-h-42:hover {
   box-shadow: 0 0 42px #8fa9c1;
 }
 
-.box-s-cg-h-px-43 {
+.box-s-cg-h-43 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-43:hover {
+.box-s-cg-h-43:hover {
   box-shadow: 0 0 43px #8fa9c1;
 }
 
-.box-s-cg-h-px-44 {
+.box-s-cg-h-44 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-44:hover {
+.box-s-cg-h-44:hover {
   box-shadow: 0 0 44px #8fa9c1;
 }
 
-.box-s-cg-h-px-45 {
+.box-s-cg-h-45 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-45:hover {
+.box-s-cg-h-45:hover {
   box-shadow: 0 0 45px #8fa9c1;
 }
 
-.box-s-cg-h-px-46 {
+.box-s-cg-h-46 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-46:hover {
+.box-s-cg-h-46:hover {
   box-shadow: 0 0 46px #8fa9c1;
 }
 
-.box-s-cg-h-px-47 {
+.box-s-cg-h-47 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-47:hover {
+.box-s-cg-h-47:hover {
   box-shadow: 0 0 47px #8fa9c1;
 }
 
-.box-s-cg-h-px-48 {
+.box-s-cg-h-48 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-48:hover {
+.box-s-cg-h-48:hover {
   box-shadow: 0 0 48px #8fa9c1;
 }
 
-.box-s-cg-h-px-49 {
+.box-s-cg-h-49 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-49:hover {
+.box-s-cg-h-49:hover {
   box-shadow: 0 0 49px #8fa9c1;
 }
 
-.box-s-cg-h-px-50 {
+.box-s-cg-h-50 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-50:hover {
+.box-s-cg-h-50:hover {
   box-shadow: 0 0 50px #8fa9c1;
 }
 
-.box-s-cg-h-px-51 {
+.box-s-cg-h-51 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-51:hover {
+.box-s-cg-h-51:hover {
   box-shadow: 0 0 51px #8fa9c1;
 }
 
-.box-s-cg-h-px-52 {
+.box-s-cg-h-52 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-52:hover {
+.box-s-cg-h-52:hover {
   box-shadow: 0 0 52px #8fa9c1;
 }
 
-.box-s-cg-h-px-53 {
+.box-s-cg-h-53 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-53:hover {
+.box-s-cg-h-53:hover {
   box-shadow: 0 0 53px #8fa9c1;
 }
 
-.box-s-cg-h-px-54 {
+.box-s-cg-h-54 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-54:hover {
+.box-s-cg-h-54:hover {
   box-shadow: 0 0 54px #8fa9c1;
 }
 
-.box-s-cg-h-px-55 {
+.box-s-cg-h-55 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-55:hover {
+.box-s-cg-h-55:hover {
   box-shadow: 0 0 55px #8fa9c1;
 }
 
-.box-s-cg-h-px-56 {
+.box-s-cg-h-56 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-56:hover {
+.box-s-cg-h-56:hover {
   box-shadow: 0 0 56px #8fa9c1;
 }
 
-.box-s-cg-h-px-57 {
+.box-s-cg-h-57 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-57:hover {
+.box-s-cg-h-57:hover {
   box-shadow: 0 0 57px #8fa9c1;
 }
 
-.box-s-cg-h-px-58 {
+.box-s-cg-h-58 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-58:hover {
+.box-s-cg-h-58:hover {
   box-shadow: 0 0 58px #8fa9c1;
 }
 
-.box-s-cg-h-px-59 {
+.box-s-cg-h-59 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-59:hover {
+.box-s-cg-h-59:hover {
   box-shadow: 0 0 59px #8fa9c1;
 }
 
-.box-s-cg-h-px-60 {
+.box-s-cg-h-60 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-60:hover {
+.box-s-cg-h-60:hover {
   box-shadow: 0 0 60px #8fa9c1;
 }
 
-.box-s-cg-h-px-61 {
+.box-s-cg-h-61 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-61:hover {
+.box-s-cg-h-61:hover {
   box-shadow: 0 0 61px #8fa9c1;
 }
 
-.box-s-cg-h-px-62 {
+.box-s-cg-h-62 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-62:hover {
+.box-s-cg-h-62:hover {
   box-shadow: 0 0 62px #8fa9c1;
 }
 
-.box-s-cg-h-px-63 {
+.box-s-cg-h-63 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-63:hover {
+.box-s-cg-h-63:hover {
   box-shadow: 0 0 63px #8fa9c1;
 }
 
-.box-s-cg-h-px-64 {
+.box-s-cg-h-64 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-64:hover {
+.box-s-cg-h-64:hover {
   box-shadow: 0 0 64px #8fa9c1;
 }
 
-.box-s-cg-h-px-65 {
+.box-s-cg-h-65 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-65:hover {
+.box-s-cg-h-65:hover {
   box-shadow: 0 0 65px #8fa9c1;
 }
 
-.box-s-cg-h-px-66 {
+.box-s-cg-h-66 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-66:hover {
+.box-s-cg-h-66:hover {
   box-shadow: 0 0 66px #8fa9c1;
 }
 
-.box-s-cg-h-px-67 {
+.box-s-cg-h-67 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-67:hover {
+.box-s-cg-h-67:hover {
   box-shadow: 0 0 67px #8fa9c1;
 }
 
-.box-s-cg-h-px-68 {
+.box-s-cg-h-68 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-68:hover {
+.box-s-cg-h-68:hover {
   box-shadow: 0 0 68px #8fa9c1;
 }
 
-.box-s-cg-h-px-69 {
+.box-s-cg-h-69 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-69:hover {
+.box-s-cg-h-69:hover {
   box-shadow: 0 0 69px #8fa9c1;
 }
 
-.box-s-cg-h-px-70 {
+.box-s-cg-h-70 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-70:hover {
+.box-s-cg-h-70:hover {
   box-shadow: 0 0 70px #8fa9c1;
 }
 
-.box-s-cg-h-px-71 {
+.box-s-cg-h-71 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-71:hover {
+.box-s-cg-h-71:hover {
   box-shadow: 0 0 71px #8fa9c1;
 }
 
-.box-s-cg-h-px-72 {
+.box-s-cg-h-72 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-72:hover {
+.box-s-cg-h-72:hover {
   box-shadow: 0 0 72px #8fa9c1;
 }
 
-.box-s-cg-h-px-73 {
+.box-s-cg-h-73 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-73:hover {
+.box-s-cg-h-73:hover {
   box-shadow: 0 0 73px #8fa9c1;
 }
 
-.box-s-cg-h-px-74 {
+.box-s-cg-h-74 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-74:hover {
+.box-s-cg-h-74:hover {
   box-shadow: 0 0 74px #8fa9c1;
 }
 
-.box-s-cg-h-px-75 {
+.box-s-cg-h-75 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-75:hover {
+.box-s-cg-h-75:hover {
   box-shadow: 0 0 75px #8fa9c1;
 }
 
-.box-s-cg-h-px-76 {
+.box-s-cg-h-76 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-76:hover {
+.box-s-cg-h-76:hover {
   box-shadow: 0 0 76px #8fa9c1;
 }
 
-.box-s-cg-h-px-77 {
+.box-s-cg-h-77 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-77:hover {
+.box-s-cg-h-77:hover {
   box-shadow: 0 0 77px #8fa9c1;
 }
 
-.box-s-cg-h-px-78 {
+.box-s-cg-h-78 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-78:hover {
+.box-s-cg-h-78:hover {
   box-shadow: 0 0 78px #8fa9c1;
 }
 
-.box-s-cg-h-px-79 {
+.box-s-cg-h-79 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-79:hover {
+.box-s-cg-h-79:hover {
   box-shadow: 0 0 79px #8fa9c1;
 }
 
-.box-s-cg-h-px-80 {
+.box-s-cg-h-80 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-80:hover {
+.box-s-cg-h-80:hover {
   box-shadow: 0 0 80px #8fa9c1;
 }
 
-.box-s-cg-h-px-81 {
+.box-s-cg-h-81 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-81:hover {
+.box-s-cg-h-81:hover {
   box-shadow: 0 0 81px #8fa9c1;
 }
 
-.box-s-cg-h-px-82 {
+.box-s-cg-h-82 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-82:hover {
+.box-s-cg-h-82:hover {
   box-shadow: 0 0 82px #8fa9c1;
 }
 
-.box-s-cg-h-px-83 {
+.box-s-cg-h-83 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-83:hover {
+.box-s-cg-h-83:hover {
   box-shadow: 0 0 83px #8fa9c1;
 }
 
-.box-s-cg-h-px-84 {
+.box-s-cg-h-84 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-84:hover {
+.box-s-cg-h-84:hover {
   box-shadow: 0 0 84px #8fa9c1;
 }
 
-.box-s-cg-h-px-85 {
+.box-s-cg-h-85 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-85:hover {
+.box-s-cg-h-85:hover {
   box-shadow: 0 0 85px #8fa9c1;
 }
 
-.box-s-cg-h-px-86 {
+.box-s-cg-h-86 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-86:hover {
+.box-s-cg-h-86:hover {
   box-shadow: 0 0 86px #8fa9c1;
 }
 
-.box-s-cg-h-px-87 {
+.box-s-cg-h-87 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-87:hover {
+.box-s-cg-h-87:hover {
   box-shadow: 0 0 87px #8fa9c1;
 }
 
-.box-s-cg-h-px-88 {
+.box-s-cg-h-88 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-88:hover {
+.box-s-cg-h-88:hover {
   box-shadow: 0 0 88px #8fa9c1;
 }
 
-.box-s-cg-h-px-89 {
+.box-s-cg-h-89 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-89:hover {
+.box-s-cg-h-89:hover {
   box-shadow: 0 0 89px #8fa9c1;
 }
 
-.box-s-cg-h-px-90 {
+.box-s-cg-h-90 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-90:hover {
+.box-s-cg-h-90:hover {
   box-shadow: 0 0 90px #8fa9c1;
 }
 
-.box-s-cg-h-px-91 {
+.box-s-cg-h-91 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-91:hover {
+.box-s-cg-h-91:hover {
   box-shadow: 0 0 91px #8fa9c1;
 }
 
-.box-s-cg-h-px-92 {
+.box-s-cg-h-92 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-92:hover {
+.box-s-cg-h-92:hover {
   box-shadow: 0 0 92px #8fa9c1;
 }
 
-.box-s-cg-h-px-93 {
+.box-s-cg-h-93 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-93:hover {
+.box-s-cg-h-93:hover {
   box-shadow: 0 0 93px #8fa9c1;
 }
 
-.box-s-cg-h-px-94 {
+.box-s-cg-h-94 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-94:hover {
+.box-s-cg-h-94:hover {
   box-shadow: 0 0 94px #8fa9c1;
 }
 
-.box-s-cg-h-px-95 {
+.box-s-cg-h-95 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-95:hover {
+.box-s-cg-h-95:hover {
   box-shadow: 0 0 95px #8fa9c1;
 }
 
-.box-s-cg-h-px-96 {
+.box-s-cg-h-96 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-96:hover {
+.box-s-cg-h-96:hover {
   box-shadow: 0 0 96px #8fa9c1;
 }
 
-.box-s-cg-h-px-97 {
+.box-s-cg-h-97 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-97:hover {
+.box-s-cg-h-97:hover {
   box-shadow: 0 0 97px #8fa9c1;
 }
 
-.box-s-cg-h-px-98 {
+.box-s-cg-h-98 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-98:hover {
+.box-s-cg-h-98:hover {
   box-shadow: 0 0 98px #8fa9c1;
 }
 
-.box-s-cg-h-px-99 {
+.box-s-cg-h-99 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-99:hover {
+.box-s-cg-h-99:hover {
   box-shadow: 0 0 99px #8fa9c1;
 }
 
-.box-s-cg-h-px-100 {
+.box-s-cg-h-100 {
   transition: box-shadow 2s;
 }
-.box-s-cg-h-px-100:hover {
+.box-s-cg-h-100:hover {
   box-shadow: 0 0 100px #8fa9c1;
 }
 
-.box-s-id-px-1 {
+.box-s-id-1 {
   box-shadow: 0 0 1px #274a71;
 }
 
-.box-s-id-px-2 {
+.box-s-id-2 {
   box-shadow: 0 0 2px #274a71;
 }
 
-.box-s-id-px-3 {
+.box-s-id-3 {
   box-shadow: 0 0 3px #274a71;
 }
 
-.box-s-id-px-4 {
+.box-s-id-4 {
   box-shadow: 0 0 4px #274a71;
 }
 
-.box-s-id-px-5 {
+.box-s-id-5 {
   box-shadow: 0 0 5px #274a71;
 }
 
-.box-s-id-px-6 {
+.box-s-id-6 {
   box-shadow: 0 0 6px #274a71;
 }
 
-.box-s-id-px-7 {
+.box-s-id-7 {
   box-shadow: 0 0 7px #274a71;
 }
 
-.box-s-id-px-8 {
+.box-s-id-8 {
   box-shadow: 0 0 8px #274a71;
 }
 
-.box-s-id-px-9 {
+.box-s-id-9 {
   box-shadow: 0 0 9px #274a71;
 }
 
-.box-s-id-px-10 {
+.box-s-id-10 {
   box-shadow: 0 0 10px #274a71;
 }
 
-.box-s-id-px-11 {
+.box-s-id-11 {
   box-shadow: 0 0 11px #274a71;
 }
 
-.box-s-id-px-12 {
+.box-s-id-12 {
   box-shadow: 0 0 12px #274a71;
 }
 
-.box-s-id-px-13 {
+.box-s-id-13 {
   box-shadow: 0 0 13px #274a71;
 }
 
-.box-s-id-px-14 {
+.box-s-id-14 {
   box-shadow: 0 0 14px #274a71;
 }
 
-.box-s-id-px-15 {
+.box-s-id-15 {
   box-shadow: 0 0 15px #274a71;
 }
 
-.box-s-id-px-16 {
+.box-s-id-16 {
   box-shadow: 0 0 16px #274a71;
 }
 
-.box-s-id-px-17 {
+.box-s-id-17 {
   box-shadow: 0 0 17px #274a71;
 }
 
-.box-s-id-px-18 {
+.box-s-id-18 {
   box-shadow: 0 0 18px #274a71;
 }
 
-.box-s-id-px-19 {
+.box-s-id-19 {
   box-shadow: 0 0 19px #274a71;
 }
 
-.box-s-id-px-20 {
+.box-s-id-20 {
   box-shadow: 0 0 20px #274a71;
 }
 
-.box-s-id-px-21 {
+.box-s-id-21 {
   box-shadow: 0 0 21px #274a71;
 }
 
-.box-s-id-px-22 {
+.box-s-id-22 {
   box-shadow: 0 0 22px #274a71;
 }
 
-.box-s-id-px-23 {
+.box-s-id-23 {
   box-shadow: 0 0 23px #274a71;
 }
 
-.box-s-id-px-24 {
+.box-s-id-24 {
   box-shadow: 0 0 24px #274a71;
 }
 
-.box-s-id-px-25 {
+.box-s-id-25 {
   box-shadow: 0 0 25px #274a71;
 }
 
-.box-s-id-px-26 {
+.box-s-id-26 {
   box-shadow: 0 0 26px #274a71;
 }
 
-.box-s-id-px-27 {
+.box-s-id-27 {
   box-shadow: 0 0 27px #274a71;
 }
 
-.box-s-id-px-28 {
+.box-s-id-28 {
   box-shadow: 0 0 28px #274a71;
 }
 
-.box-s-id-px-29 {
+.box-s-id-29 {
   box-shadow: 0 0 29px #274a71;
 }
 
-.box-s-id-px-30 {
+.box-s-id-30 {
   box-shadow: 0 0 30px #274a71;
 }
 
-.box-s-id-px-31 {
+.box-s-id-31 {
   box-shadow: 0 0 31px #274a71;
 }
 
-.box-s-id-px-32 {
+.box-s-id-32 {
   box-shadow: 0 0 32px #274a71;
 }
 
-.box-s-id-px-33 {
+.box-s-id-33 {
   box-shadow: 0 0 33px #274a71;
 }
 
-.box-s-id-px-34 {
+.box-s-id-34 {
   box-shadow: 0 0 34px #274a71;
 }
 
-.box-s-id-px-35 {
+.box-s-id-35 {
   box-shadow: 0 0 35px #274a71;
 }
 
-.box-s-id-px-36 {
+.box-s-id-36 {
   box-shadow: 0 0 36px #274a71;
 }
 
-.box-s-id-px-37 {
+.box-s-id-37 {
   box-shadow: 0 0 37px #274a71;
 }
 
-.box-s-id-px-38 {
+.box-s-id-38 {
   box-shadow: 0 0 38px #274a71;
 }
 
-.box-s-id-px-39 {
+.box-s-id-39 {
   box-shadow: 0 0 39px #274a71;
 }
 
-.box-s-id-px-40 {
+.box-s-id-40 {
   box-shadow: 0 0 40px #274a71;
 }
 
-.box-s-id-px-41 {
+.box-s-id-41 {
   box-shadow: 0 0 41px #274a71;
 }
 
-.box-s-id-px-42 {
+.box-s-id-42 {
   box-shadow: 0 0 42px #274a71;
 }
 
-.box-s-id-px-43 {
+.box-s-id-43 {
   box-shadow: 0 0 43px #274a71;
 }
 
-.box-s-id-px-44 {
+.box-s-id-44 {
   box-shadow: 0 0 44px #274a71;
 }
 
-.box-s-id-px-45 {
+.box-s-id-45 {
   box-shadow: 0 0 45px #274a71;
 }
 
-.box-s-id-px-46 {
+.box-s-id-46 {
   box-shadow: 0 0 46px #274a71;
 }
 
-.box-s-id-px-47 {
+.box-s-id-47 {
   box-shadow: 0 0 47px #274a71;
 }
 
-.box-s-id-px-48 {
+.box-s-id-48 {
   box-shadow: 0 0 48px #274a71;
 }
 
-.box-s-id-px-49 {
+.box-s-id-49 {
   box-shadow: 0 0 49px #274a71;
 }
 
-.box-s-id-px-50 {
+.box-s-id-50 {
   box-shadow: 0 0 50px #274a71;
 }
 
-.box-s-id-px-51 {
+.box-s-id-51 {
   box-shadow: 0 0 51px #274a71;
 }
 
-.box-s-id-px-52 {
+.box-s-id-52 {
   box-shadow: 0 0 52px #274a71;
 }
 
-.box-s-id-px-53 {
+.box-s-id-53 {
   box-shadow: 0 0 53px #274a71;
 }
 
-.box-s-id-px-54 {
+.box-s-id-54 {
   box-shadow: 0 0 54px #274a71;
 }
 
-.box-s-id-px-55 {
+.box-s-id-55 {
   box-shadow: 0 0 55px #274a71;
 }
 
-.box-s-id-px-56 {
+.box-s-id-56 {
   box-shadow: 0 0 56px #274a71;
 }
 
-.box-s-id-px-57 {
+.box-s-id-57 {
   box-shadow: 0 0 57px #274a71;
 }
 
-.box-s-id-px-58 {
+.box-s-id-58 {
   box-shadow: 0 0 58px #274a71;
 }
 
-.box-s-id-px-59 {
+.box-s-id-59 {
   box-shadow: 0 0 59px #274a71;
 }
 
-.box-s-id-px-60 {
+.box-s-id-60 {
   box-shadow: 0 0 60px #274a71;
 }
 
-.box-s-id-px-61 {
+.box-s-id-61 {
   box-shadow: 0 0 61px #274a71;
 }
 
-.box-s-id-px-62 {
+.box-s-id-62 {
   box-shadow: 0 0 62px #274a71;
 }
 
-.box-s-id-px-63 {
+.box-s-id-63 {
   box-shadow: 0 0 63px #274a71;
 }
 
-.box-s-id-px-64 {
+.box-s-id-64 {
   box-shadow: 0 0 64px #274a71;
 }
 
-.box-s-id-px-65 {
+.box-s-id-65 {
   box-shadow: 0 0 65px #274a71;
 }
 
-.box-s-id-px-66 {
+.box-s-id-66 {
   box-shadow: 0 0 66px #274a71;
 }
 
-.box-s-id-px-67 {
+.box-s-id-67 {
   box-shadow: 0 0 67px #274a71;
 }
 
-.box-s-id-px-68 {
+.box-s-id-68 {
   box-shadow: 0 0 68px #274a71;
 }
 
-.box-s-id-px-69 {
+.box-s-id-69 {
   box-shadow: 0 0 69px #274a71;
 }
 
-.box-s-id-px-70 {
+.box-s-id-70 {
   box-shadow: 0 0 70px #274a71;
 }
 
-.box-s-id-px-71 {
+.box-s-id-71 {
   box-shadow: 0 0 71px #274a71;
 }
 
-.box-s-id-px-72 {
+.box-s-id-72 {
   box-shadow: 0 0 72px #274a71;
 }
 
-.box-s-id-px-73 {
+.box-s-id-73 {
   box-shadow: 0 0 73px #274a71;
 }
 
-.box-s-id-px-74 {
+.box-s-id-74 {
   box-shadow: 0 0 74px #274a71;
 }
 
-.box-s-id-px-75 {
+.box-s-id-75 {
   box-shadow: 0 0 75px #274a71;
 }
 
-.box-s-id-px-76 {
+.box-s-id-76 {
   box-shadow: 0 0 76px #274a71;
 }
 
-.box-s-id-px-77 {
+.box-s-id-77 {
   box-shadow: 0 0 77px #274a71;
 }
 
-.box-s-id-px-78 {
+.box-s-id-78 {
   box-shadow: 0 0 78px #274a71;
 }
 
-.box-s-id-px-79 {
+.box-s-id-79 {
   box-shadow: 0 0 79px #274a71;
 }
 
-.box-s-id-px-80 {
+.box-s-id-80 {
   box-shadow: 0 0 80px #274a71;
 }
 
-.box-s-id-px-81 {
+.box-s-id-81 {
   box-shadow: 0 0 81px #274a71;
 }
 
-.box-s-id-px-82 {
+.box-s-id-82 {
   box-shadow: 0 0 82px #274a71;
 }
 
-.box-s-id-px-83 {
+.box-s-id-83 {
   box-shadow: 0 0 83px #274a71;
 }
 
-.box-s-id-px-84 {
+.box-s-id-84 {
   box-shadow: 0 0 84px #274a71;
 }
 
-.box-s-id-px-85 {
+.box-s-id-85 {
   box-shadow: 0 0 85px #274a71;
 }
 
-.box-s-id-px-86 {
+.box-s-id-86 {
   box-shadow: 0 0 86px #274a71;
 }
 
-.box-s-id-px-87 {
+.box-s-id-87 {
   box-shadow: 0 0 87px #274a71;
 }
 
-.box-s-id-px-88 {
+.box-s-id-88 {
   box-shadow: 0 0 88px #274a71;
 }
 
-.box-s-id-px-89 {
+.box-s-id-89 {
   box-shadow: 0 0 89px #274a71;
 }
 
-.box-s-id-px-90 {
+.box-s-id-90 {
   box-shadow: 0 0 90px #274a71;
 }
 
-.box-s-id-px-91 {
+.box-s-id-91 {
   box-shadow: 0 0 91px #274a71;
 }
 
-.box-s-id-px-92 {
+.box-s-id-92 {
   box-shadow: 0 0 92px #274a71;
 }
 
-.box-s-id-px-93 {
+.box-s-id-93 {
   box-shadow: 0 0 93px #274a71;
 }
 
-.box-s-id-px-94 {
+.box-s-id-94 {
   box-shadow: 0 0 94px #274a71;
 }
 
-.box-s-id-px-95 {
+.box-s-id-95 {
   box-shadow: 0 0 95px #274a71;
 }
 
-.box-s-id-px-96 {
+.box-s-id-96 {
   box-shadow: 0 0 96px #274a71;
 }
 
-.box-s-id-px-97 {
+.box-s-id-97 {
   box-shadow: 0 0 97px #274a71;
 }
 
-.box-s-id-px-98 {
+.box-s-id-98 {
   box-shadow: 0 0 98px #274a71;
 }
 
-.box-s-id-px-99 {
+.box-s-id-99 {
   box-shadow: 0 0 99px #274a71;
 }
 
-.box-s-id-px-100 {
+.box-s-id-100 {
   box-shadow: 0 0 100px #274a71;
 }
 
-.box-s-id-h-px-1 {
+.box-s-id-h-1 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-1:hover {
+.box-s-id-h-1:hover {
   box-shadow: 0 0 1px #274a71;
 }
 
-.box-s-id-h-px-2 {
+.box-s-id-h-2 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-2:hover {
+.box-s-id-h-2:hover {
   box-shadow: 0 0 2px #274a71;
 }
 
-.box-s-id-h-px-3 {
+.box-s-id-h-3 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-3:hover {
+.box-s-id-h-3:hover {
   box-shadow: 0 0 3px #274a71;
 }
 
-.box-s-id-h-px-4 {
+.box-s-id-h-4 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-4:hover {
+.box-s-id-h-4:hover {
   box-shadow: 0 0 4px #274a71;
 }
 
-.box-s-id-h-px-5 {
+.box-s-id-h-5 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-5:hover {
+.box-s-id-h-5:hover {
   box-shadow: 0 0 5px #274a71;
 }
 
-.box-s-id-h-px-6 {
+.box-s-id-h-6 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-6:hover {
+.box-s-id-h-6:hover {
   box-shadow: 0 0 6px #274a71;
 }
 
-.box-s-id-h-px-7 {
+.box-s-id-h-7 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-7:hover {
+.box-s-id-h-7:hover {
   box-shadow: 0 0 7px #274a71;
 }
 
-.box-s-id-h-px-8 {
+.box-s-id-h-8 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-8:hover {
+.box-s-id-h-8:hover {
   box-shadow: 0 0 8px #274a71;
 }
 
-.box-s-id-h-px-9 {
+.box-s-id-h-9 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-9:hover {
+.box-s-id-h-9:hover {
   box-shadow: 0 0 9px #274a71;
 }
 
-.box-s-id-h-px-10 {
+.box-s-id-h-10 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-10:hover {
+.box-s-id-h-10:hover {
   box-shadow: 0 0 10px #274a71;
 }
 
-.box-s-id-h-px-11 {
+.box-s-id-h-11 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-11:hover {
+.box-s-id-h-11:hover {
   box-shadow: 0 0 11px #274a71;
 }
 
-.box-s-id-h-px-12 {
+.box-s-id-h-12 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-12:hover {
+.box-s-id-h-12:hover {
   box-shadow: 0 0 12px #274a71;
 }
 
-.box-s-id-h-px-13 {
+.box-s-id-h-13 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-13:hover {
+.box-s-id-h-13:hover {
   box-shadow: 0 0 13px #274a71;
 }
 
-.box-s-id-h-px-14 {
+.box-s-id-h-14 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-14:hover {
+.box-s-id-h-14:hover {
   box-shadow: 0 0 14px #274a71;
 }
 
-.box-s-id-h-px-15 {
+.box-s-id-h-15 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-15:hover {
+.box-s-id-h-15:hover {
   box-shadow: 0 0 15px #274a71;
 }
 
-.box-s-id-h-px-16 {
+.box-s-id-h-16 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-16:hover {
+.box-s-id-h-16:hover {
   box-shadow: 0 0 16px #274a71;
 }
 
-.box-s-id-h-px-17 {
+.box-s-id-h-17 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-17:hover {
+.box-s-id-h-17:hover {
   box-shadow: 0 0 17px #274a71;
 }
 
-.box-s-id-h-px-18 {
+.box-s-id-h-18 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-18:hover {
+.box-s-id-h-18:hover {
   box-shadow: 0 0 18px #274a71;
 }
 
-.box-s-id-h-px-19 {
+.box-s-id-h-19 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-19:hover {
+.box-s-id-h-19:hover {
   box-shadow: 0 0 19px #274a71;
 }
 
-.box-s-id-h-px-20 {
+.box-s-id-h-20 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-20:hover {
+.box-s-id-h-20:hover {
   box-shadow: 0 0 20px #274a71;
 }
 
-.box-s-id-h-px-21 {
+.box-s-id-h-21 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-21:hover {
+.box-s-id-h-21:hover {
   box-shadow: 0 0 21px #274a71;
 }
 
-.box-s-id-h-px-22 {
+.box-s-id-h-22 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-22:hover {
+.box-s-id-h-22:hover {
   box-shadow: 0 0 22px #274a71;
 }
 
-.box-s-id-h-px-23 {
+.box-s-id-h-23 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-23:hover {
+.box-s-id-h-23:hover {
   box-shadow: 0 0 23px #274a71;
 }
 
-.box-s-id-h-px-24 {
+.box-s-id-h-24 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-24:hover {
+.box-s-id-h-24:hover {
   box-shadow: 0 0 24px #274a71;
 }
 
-.box-s-id-h-px-25 {
+.box-s-id-h-25 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-25:hover {
+.box-s-id-h-25:hover {
   box-shadow: 0 0 25px #274a71;
 }
 
-.box-s-id-h-px-26 {
+.box-s-id-h-26 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-26:hover {
+.box-s-id-h-26:hover {
   box-shadow: 0 0 26px #274a71;
 }
 
-.box-s-id-h-px-27 {
+.box-s-id-h-27 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-27:hover {
+.box-s-id-h-27:hover {
   box-shadow: 0 0 27px #274a71;
 }
 
-.box-s-id-h-px-28 {
+.box-s-id-h-28 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-28:hover {
+.box-s-id-h-28:hover {
   box-shadow: 0 0 28px #274a71;
 }
 
-.box-s-id-h-px-29 {
+.box-s-id-h-29 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-29:hover {
+.box-s-id-h-29:hover {
   box-shadow: 0 0 29px #274a71;
 }
 
-.box-s-id-h-px-30 {
+.box-s-id-h-30 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-30:hover {
+.box-s-id-h-30:hover {
   box-shadow: 0 0 30px #274a71;
 }
 
-.box-s-id-h-px-31 {
+.box-s-id-h-31 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-31:hover {
+.box-s-id-h-31:hover {
   box-shadow: 0 0 31px #274a71;
 }
 
-.box-s-id-h-px-32 {
+.box-s-id-h-32 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-32:hover {
+.box-s-id-h-32:hover {
   box-shadow: 0 0 32px #274a71;
 }
 
-.box-s-id-h-px-33 {
+.box-s-id-h-33 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-33:hover {
+.box-s-id-h-33:hover {
   box-shadow: 0 0 33px #274a71;
 }
 
-.box-s-id-h-px-34 {
+.box-s-id-h-34 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-34:hover {
+.box-s-id-h-34:hover {
   box-shadow: 0 0 34px #274a71;
 }
 
-.box-s-id-h-px-35 {
+.box-s-id-h-35 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-35:hover {
+.box-s-id-h-35:hover {
   box-shadow: 0 0 35px #274a71;
 }
 
-.box-s-id-h-px-36 {
+.box-s-id-h-36 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-36:hover {
+.box-s-id-h-36:hover {
   box-shadow: 0 0 36px #274a71;
 }
 
-.box-s-id-h-px-37 {
+.box-s-id-h-37 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-37:hover {
+.box-s-id-h-37:hover {
   box-shadow: 0 0 37px #274a71;
 }
 
-.box-s-id-h-px-38 {
+.box-s-id-h-38 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-38:hover {
+.box-s-id-h-38:hover {
   box-shadow: 0 0 38px #274a71;
 }
 
-.box-s-id-h-px-39 {
+.box-s-id-h-39 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-39:hover {
+.box-s-id-h-39:hover {
   box-shadow: 0 0 39px #274a71;
 }
 
-.box-s-id-h-px-40 {
+.box-s-id-h-40 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-40:hover {
+.box-s-id-h-40:hover {
   box-shadow: 0 0 40px #274a71;
 }
 
-.box-s-id-h-px-41 {
+.box-s-id-h-41 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-41:hover {
+.box-s-id-h-41:hover {
   box-shadow: 0 0 41px #274a71;
 }
 
-.box-s-id-h-px-42 {
+.box-s-id-h-42 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-42:hover {
+.box-s-id-h-42:hover {
   box-shadow: 0 0 42px #274a71;
 }
 
-.box-s-id-h-px-43 {
+.box-s-id-h-43 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-43:hover {
+.box-s-id-h-43:hover {
   box-shadow: 0 0 43px #274a71;
 }
 
-.box-s-id-h-px-44 {
+.box-s-id-h-44 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-44:hover {
+.box-s-id-h-44:hover {
   box-shadow: 0 0 44px #274a71;
 }
 
-.box-s-id-h-px-45 {
+.box-s-id-h-45 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-45:hover {
+.box-s-id-h-45:hover {
   box-shadow: 0 0 45px #274a71;
 }
 
-.box-s-id-h-px-46 {
+.box-s-id-h-46 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-46:hover {
+.box-s-id-h-46:hover {
   box-shadow: 0 0 46px #274a71;
 }
 
-.box-s-id-h-px-47 {
+.box-s-id-h-47 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-47:hover {
+.box-s-id-h-47:hover {
   box-shadow: 0 0 47px #274a71;
 }
 
-.box-s-id-h-px-48 {
+.box-s-id-h-48 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-48:hover {
+.box-s-id-h-48:hover {
   box-shadow: 0 0 48px #274a71;
 }
 
-.box-s-id-h-px-49 {
+.box-s-id-h-49 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-49:hover {
+.box-s-id-h-49:hover {
   box-shadow: 0 0 49px #274a71;
 }
 
-.box-s-id-h-px-50 {
+.box-s-id-h-50 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-50:hover {
+.box-s-id-h-50:hover {
   box-shadow: 0 0 50px #274a71;
 }
 
-.box-s-id-h-px-51 {
+.box-s-id-h-51 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-51:hover {
+.box-s-id-h-51:hover {
   box-shadow: 0 0 51px #274a71;
 }
 
-.box-s-id-h-px-52 {
+.box-s-id-h-52 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-52:hover {
+.box-s-id-h-52:hover {
   box-shadow: 0 0 52px #274a71;
 }
 
-.box-s-id-h-px-53 {
+.box-s-id-h-53 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-53:hover {
+.box-s-id-h-53:hover {
   box-shadow: 0 0 53px #274a71;
 }
 
-.box-s-id-h-px-54 {
+.box-s-id-h-54 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-54:hover {
+.box-s-id-h-54:hover {
   box-shadow: 0 0 54px #274a71;
 }
 
-.box-s-id-h-px-55 {
+.box-s-id-h-55 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-55:hover {
+.box-s-id-h-55:hover {
   box-shadow: 0 0 55px #274a71;
 }
 
-.box-s-id-h-px-56 {
+.box-s-id-h-56 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-56:hover {
+.box-s-id-h-56:hover {
   box-shadow: 0 0 56px #274a71;
 }
 
-.box-s-id-h-px-57 {
+.box-s-id-h-57 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-57:hover {
+.box-s-id-h-57:hover {
   box-shadow: 0 0 57px #274a71;
 }
 
-.box-s-id-h-px-58 {
+.box-s-id-h-58 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-58:hover {
+.box-s-id-h-58:hover {
   box-shadow: 0 0 58px #274a71;
 }
 
-.box-s-id-h-px-59 {
+.box-s-id-h-59 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-59:hover {
+.box-s-id-h-59:hover {
   box-shadow: 0 0 59px #274a71;
 }
 
-.box-s-id-h-px-60 {
+.box-s-id-h-60 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-60:hover {
+.box-s-id-h-60:hover {
   box-shadow: 0 0 60px #274a71;
 }
 
-.box-s-id-h-px-61 {
+.box-s-id-h-61 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-61:hover {
+.box-s-id-h-61:hover {
   box-shadow: 0 0 61px #274a71;
 }
 
-.box-s-id-h-px-62 {
+.box-s-id-h-62 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-62:hover {
+.box-s-id-h-62:hover {
   box-shadow: 0 0 62px #274a71;
 }
 
-.box-s-id-h-px-63 {
+.box-s-id-h-63 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-63:hover {
+.box-s-id-h-63:hover {
   box-shadow: 0 0 63px #274a71;
 }
 
-.box-s-id-h-px-64 {
+.box-s-id-h-64 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-64:hover {
+.box-s-id-h-64:hover {
   box-shadow: 0 0 64px #274a71;
 }
 
-.box-s-id-h-px-65 {
+.box-s-id-h-65 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-65:hover {
+.box-s-id-h-65:hover {
   box-shadow: 0 0 65px #274a71;
 }
 
-.box-s-id-h-px-66 {
+.box-s-id-h-66 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-66:hover {
+.box-s-id-h-66:hover {
   box-shadow: 0 0 66px #274a71;
 }
 
-.box-s-id-h-px-67 {
+.box-s-id-h-67 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-67:hover {
+.box-s-id-h-67:hover {
   box-shadow: 0 0 67px #274a71;
 }
 
-.box-s-id-h-px-68 {
+.box-s-id-h-68 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-68:hover {
+.box-s-id-h-68:hover {
   box-shadow: 0 0 68px #274a71;
 }
 
-.box-s-id-h-px-69 {
+.box-s-id-h-69 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-69:hover {
+.box-s-id-h-69:hover {
   box-shadow: 0 0 69px #274a71;
 }
 
-.box-s-id-h-px-70 {
+.box-s-id-h-70 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-70:hover {
+.box-s-id-h-70:hover {
   box-shadow: 0 0 70px #274a71;
 }
 
-.box-s-id-h-px-71 {
+.box-s-id-h-71 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-71:hover {
+.box-s-id-h-71:hover {
   box-shadow: 0 0 71px #274a71;
 }
 
-.box-s-id-h-px-72 {
+.box-s-id-h-72 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-72:hover {
+.box-s-id-h-72:hover {
   box-shadow: 0 0 72px #274a71;
 }
 
-.box-s-id-h-px-73 {
+.box-s-id-h-73 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-73:hover {
+.box-s-id-h-73:hover {
   box-shadow: 0 0 73px #274a71;
 }
 
-.box-s-id-h-px-74 {
+.box-s-id-h-74 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-74:hover {
+.box-s-id-h-74:hover {
   box-shadow: 0 0 74px #274a71;
 }
 
-.box-s-id-h-px-75 {
+.box-s-id-h-75 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-75:hover {
+.box-s-id-h-75:hover {
   box-shadow: 0 0 75px #274a71;
 }
 
-.box-s-id-h-px-76 {
+.box-s-id-h-76 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-76:hover {
+.box-s-id-h-76:hover {
   box-shadow: 0 0 76px #274a71;
 }
 
-.box-s-id-h-px-77 {
+.box-s-id-h-77 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-77:hover {
+.box-s-id-h-77:hover {
   box-shadow: 0 0 77px #274a71;
 }
 
-.box-s-id-h-px-78 {
+.box-s-id-h-78 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-78:hover {
+.box-s-id-h-78:hover {
   box-shadow: 0 0 78px #274a71;
 }
 
-.box-s-id-h-px-79 {
+.box-s-id-h-79 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-79:hover {
+.box-s-id-h-79:hover {
   box-shadow: 0 0 79px #274a71;
 }
 
-.box-s-id-h-px-80 {
+.box-s-id-h-80 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-80:hover {
+.box-s-id-h-80:hover {
   box-shadow: 0 0 80px #274a71;
 }
 
-.box-s-id-h-px-81 {
+.box-s-id-h-81 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-81:hover {
+.box-s-id-h-81:hover {
   box-shadow: 0 0 81px #274a71;
 }
 
-.box-s-id-h-px-82 {
+.box-s-id-h-82 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-82:hover {
+.box-s-id-h-82:hover {
   box-shadow: 0 0 82px #274a71;
 }
 
-.box-s-id-h-px-83 {
+.box-s-id-h-83 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-83:hover {
+.box-s-id-h-83:hover {
   box-shadow: 0 0 83px #274a71;
 }
 
-.box-s-id-h-px-84 {
+.box-s-id-h-84 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-84:hover {
+.box-s-id-h-84:hover {
   box-shadow: 0 0 84px #274a71;
 }
 
-.box-s-id-h-px-85 {
+.box-s-id-h-85 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-85:hover {
+.box-s-id-h-85:hover {
   box-shadow: 0 0 85px #274a71;
 }
 
-.box-s-id-h-px-86 {
+.box-s-id-h-86 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-86:hover {
+.box-s-id-h-86:hover {
   box-shadow: 0 0 86px #274a71;
 }
 
-.box-s-id-h-px-87 {
+.box-s-id-h-87 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-87:hover {
+.box-s-id-h-87:hover {
   box-shadow: 0 0 87px #274a71;
 }
 
-.box-s-id-h-px-88 {
+.box-s-id-h-88 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-88:hover {
+.box-s-id-h-88:hover {
   box-shadow: 0 0 88px #274a71;
 }
 
-.box-s-id-h-px-89 {
+.box-s-id-h-89 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-89:hover {
+.box-s-id-h-89:hover {
   box-shadow: 0 0 89px #274a71;
 }
 
-.box-s-id-h-px-90 {
+.box-s-id-h-90 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-90:hover {
+.box-s-id-h-90:hover {
   box-shadow: 0 0 90px #274a71;
 }
 
-.box-s-id-h-px-91 {
+.box-s-id-h-91 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-91:hover {
+.box-s-id-h-91:hover {
   box-shadow: 0 0 91px #274a71;
 }
 
-.box-s-id-h-px-92 {
+.box-s-id-h-92 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-92:hover {
+.box-s-id-h-92:hover {
   box-shadow: 0 0 92px #274a71;
 }
 
-.box-s-id-h-px-93 {
+.box-s-id-h-93 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-93:hover {
+.box-s-id-h-93:hover {
   box-shadow: 0 0 93px #274a71;
 }
 
-.box-s-id-h-px-94 {
+.box-s-id-h-94 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-94:hover {
+.box-s-id-h-94:hover {
   box-shadow: 0 0 94px #274a71;
 }
 
-.box-s-id-h-px-95 {
+.box-s-id-h-95 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-95:hover {
+.box-s-id-h-95:hover {
   box-shadow: 0 0 95px #274a71;
 }
 
-.box-s-id-h-px-96 {
+.box-s-id-h-96 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-96:hover {
+.box-s-id-h-96:hover {
   box-shadow: 0 0 96px #274a71;
 }
 
-.box-s-id-h-px-97 {
+.box-s-id-h-97 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-97:hover {
+.box-s-id-h-97:hover {
   box-shadow: 0 0 97px #274a71;
 }
 
-.box-s-id-h-px-98 {
+.box-s-id-h-98 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-98:hover {
+.box-s-id-h-98:hover {
   box-shadow: 0 0 98px #274a71;
 }
 
-.box-s-id-h-px-99 {
+.box-s-id-h-99 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-99:hover {
+.box-s-id-h-99:hover {
   box-shadow: 0 0 99px #274a71;
 }
 
-.box-s-id-h-px-100 {
+.box-s-id-h-100 {
   transition: box-shadow 2s;
 }
-.box-s-id-h-px-100:hover {
+.box-s-id-h-100:hover {
   box-shadow: 0 0 100px #274a71;
 }
 
-.box-s-pb-px-1 {
+.box-s-pb-1 {
   box-shadow: 0 0 1px #1f3958;
 }
 
-.box-s-pb-px-2 {
+.box-s-pb-2 {
   box-shadow: 0 0 2px #1f3958;
 }
 
-.box-s-pb-px-3 {
+.box-s-pb-3 {
   box-shadow: 0 0 3px #1f3958;
 }
 
-.box-s-pb-px-4 {
+.box-s-pb-4 {
   box-shadow: 0 0 4px #1f3958;
 }
 
-.box-s-pb-px-5 {
+.box-s-pb-5 {
   box-shadow: 0 0 5px #1f3958;
 }
 
-.box-s-pb-px-6 {
+.box-s-pb-6 {
   box-shadow: 0 0 6px #1f3958;
 }
 
-.box-s-pb-px-7 {
+.box-s-pb-7 {
   box-shadow: 0 0 7px #1f3958;
 }
 
-.box-s-pb-px-8 {
+.box-s-pb-8 {
   box-shadow: 0 0 8px #1f3958;
 }
 
-.box-s-pb-px-9 {
+.box-s-pb-9 {
   box-shadow: 0 0 9px #1f3958;
 }
 
-.box-s-pb-px-10 {
+.box-s-pb-10 {
   box-shadow: 0 0 10px #1f3958;
 }
 
-.box-s-pb-px-11 {
+.box-s-pb-11 {
   box-shadow: 0 0 11px #1f3958;
 }
 
-.box-s-pb-px-12 {
+.box-s-pb-12 {
   box-shadow: 0 0 12px #1f3958;
 }
 
-.box-s-pb-px-13 {
+.box-s-pb-13 {
   box-shadow: 0 0 13px #1f3958;
 }
 
-.box-s-pb-px-14 {
+.box-s-pb-14 {
   box-shadow: 0 0 14px #1f3958;
 }
 
-.box-s-pb-px-15 {
+.box-s-pb-15 {
   box-shadow: 0 0 15px #1f3958;
 }
 
-.box-s-pb-px-16 {
+.box-s-pb-16 {
   box-shadow: 0 0 16px #1f3958;
 }
 
-.box-s-pb-px-17 {
+.box-s-pb-17 {
   box-shadow: 0 0 17px #1f3958;
 }
 
-.box-s-pb-px-18 {
+.box-s-pb-18 {
   box-shadow: 0 0 18px #1f3958;
 }
 
-.box-s-pb-px-19 {
+.box-s-pb-19 {
   box-shadow: 0 0 19px #1f3958;
 }
 
-.box-s-pb-px-20 {
+.box-s-pb-20 {
   box-shadow: 0 0 20px #1f3958;
 }
 
-.box-s-pb-px-21 {
+.box-s-pb-21 {
   box-shadow: 0 0 21px #1f3958;
 }
 
-.box-s-pb-px-22 {
+.box-s-pb-22 {
   box-shadow: 0 0 22px #1f3958;
 }
 
-.box-s-pb-px-23 {
+.box-s-pb-23 {
   box-shadow: 0 0 23px #1f3958;
 }
 
-.box-s-pb-px-24 {
+.box-s-pb-24 {
   box-shadow: 0 0 24px #1f3958;
 }
 
-.box-s-pb-px-25 {
+.box-s-pb-25 {
   box-shadow: 0 0 25px #1f3958;
 }
 
-.box-s-pb-px-26 {
+.box-s-pb-26 {
   box-shadow: 0 0 26px #1f3958;
 }
 
-.box-s-pb-px-27 {
+.box-s-pb-27 {
   box-shadow: 0 0 27px #1f3958;
 }
 
-.box-s-pb-px-28 {
+.box-s-pb-28 {
   box-shadow: 0 0 28px #1f3958;
 }
 
-.box-s-pb-px-29 {
+.box-s-pb-29 {
   box-shadow: 0 0 29px #1f3958;
 }
 
-.box-s-pb-px-30 {
+.box-s-pb-30 {
   box-shadow: 0 0 30px #1f3958;
 }
 
-.box-s-pb-px-31 {
+.box-s-pb-31 {
   box-shadow: 0 0 31px #1f3958;
 }
 
-.box-s-pb-px-32 {
+.box-s-pb-32 {
   box-shadow: 0 0 32px #1f3958;
 }
 
-.box-s-pb-px-33 {
+.box-s-pb-33 {
   box-shadow: 0 0 33px #1f3958;
 }
 
-.box-s-pb-px-34 {
+.box-s-pb-34 {
   box-shadow: 0 0 34px #1f3958;
 }
 
-.box-s-pb-px-35 {
+.box-s-pb-35 {
   box-shadow: 0 0 35px #1f3958;
 }
 
-.box-s-pb-px-36 {
+.box-s-pb-36 {
   box-shadow: 0 0 36px #1f3958;
 }
 
-.box-s-pb-px-37 {
+.box-s-pb-37 {
   box-shadow: 0 0 37px #1f3958;
 }
 
-.box-s-pb-px-38 {
+.box-s-pb-38 {
   box-shadow: 0 0 38px #1f3958;
 }
 
-.box-s-pb-px-39 {
+.box-s-pb-39 {
   box-shadow: 0 0 39px #1f3958;
 }
 
-.box-s-pb-px-40 {
+.box-s-pb-40 {
   box-shadow: 0 0 40px #1f3958;
 }
 
-.box-s-pb-px-41 {
+.box-s-pb-41 {
   box-shadow: 0 0 41px #1f3958;
 }
 
-.box-s-pb-px-42 {
+.box-s-pb-42 {
   box-shadow: 0 0 42px #1f3958;
 }
 
-.box-s-pb-px-43 {
+.box-s-pb-43 {
   box-shadow: 0 0 43px #1f3958;
 }
 
-.box-s-pb-px-44 {
+.box-s-pb-44 {
   box-shadow: 0 0 44px #1f3958;
 }
 
-.box-s-pb-px-45 {
+.box-s-pb-45 {
   box-shadow: 0 0 45px #1f3958;
 }
 
-.box-s-pb-px-46 {
+.box-s-pb-46 {
   box-shadow: 0 0 46px #1f3958;
 }
 
-.box-s-pb-px-47 {
+.box-s-pb-47 {
   box-shadow: 0 0 47px #1f3958;
 }
 
-.box-s-pb-px-48 {
+.box-s-pb-48 {
   box-shadow: 0 0 48px #1f3958;
 }
 
-.box-s-pb-px-49 {
+.box-s-pb-49 {
   box-shadow: 0 0 49px #1f3958;
 }
 
-.box-s-pb-px-50 {
+.box-s-pb-50 {
   box-shadow: 0 0 50px #1f3958;
 }
 
-.box-s-pb-px-51 {
+.box-s-pb-51 {
   box-shadow: 0 0 51px #1f3958;
 }
 
-.box-s-pb-px-52 {
+.box-s-pb-52 {
   box-shadow: 0 0 52px #1f3958;
 }
 
-.box-s-pb-px-53 {
+.box-s-pb-53 {
   box-shadow: 0 0 53px #1f3958;
 }
 
-.box-s-pb-px-54 {
+.box-s-pb-54 {
   box-shadow: 0 0 54px #1f3958;
 }
 
-.box-s-pb-px-55 {
+.box-s-pb-55 {
   box-shadow: 0 0 55px #1f3958;
 }
 
-.box-s-pb-px-56 {
+.box-s-pb-56 {
   box-shadow: 0 0 56px #1f3958;
 }
 
-.box-s-pb-px-57 {
+.box-s-pb-57 {
   box-shadow: 0 0 57px #1f3958;
 }
 
-.box-s-pb-px-58 {
+.box-s-pb-58 {
   box-shadow: 0 0 58px #1f3958;
 }
 
-.box-s-pb-px-59 {
+.box-s-pb-59 {
   box-shadow: 0 0 59px #1f3958;
 }
 
-.box-s-pb-px-60 {
+.box-s-pb-60 {
   box-shadow: 0 0 60px #1f3958;
 }
 
-.box-s-pb-px-61 {
+.box-s-pb-61 {
   box-shadow: 0 0 61px #1f3958;
 }
 
-.box-s-pb-px-62 {
+.box-s-pb-62 {
   box-shadow: 0 0 62px #1f3958;
 }
 
-.box-s-pb-px-63 {
+.box-s-pb-63 {
   box-shadow: 0 0 63px #1f3958;
 }
 
-.box-s-pb-px-64 {
+.box-s-pb-64 {
   box-shadow: 0 0 64px #1f3958;
 }
 
-.box-s-pb-px-65 {
+.box-s-pb-65 {
   box-shadow: 0 0 65px #1f3958;
 }
 
-.box-s-pb-px-66 {
+.box-s-pb-66 {
   box-shadow: 0 0 66px #1f3958;
 }
 
-.box-s-pb-px-67 {
+.box-s-pb-67 {
   box-shadow: 0 0 67px #1f3958;
 }
 
-.box-s-pb-px-68 {
+.box-s-pb-68 {
   box-shadow: 0 0 68px #1f3958;
 }
 
-.box-s-pb-px-69 {
+.box-s-pb-69 {
   box-shadow: 0 0 69px #1f3958;
 }
 
-.box-s-pb-px-70 {
+.box-s-pb-70 {
   box-shadow: 0 0 70px #1f3958;
 }
 
-.box-s-pb-px-71 {
+.box-s-pb-71 {
   box-shadow: 0 0 71px #1f3958;
 }
 
-.box-s-pb-px-72 {
+.box-s-pb-72 {
   box-shadow: 0 0 72px #1f3958;
 }
 
-.box-s-pb-px-73 {
+.box-s-pb-73 {
   box-shadow: 0 0 73px #1f3958;
 }
 
-.box-s-pb-px-74 {
+.box-s-pb-74 {
   box-shadow: 0 0 74px #1f3958;
 }
 
-.box-s-pb-px-75 {
+.box-s-pb-75 {
   box-shadow: 0 0 75px #1f3958;
 }
 
-.box-s-pb-px-76 {
+.box-s-pb-76 {
   box-shadow: 0 0 76px #1f3958;
 }
 
-.box-s-pb-px-77 {
+.box-s-pb-77 {
   box-shadow: 0 0 77px #1f3958;
 }
 
-.box-s-pb-px-78 {
+.box-s-pb-78 {
   box-shadow: 0 0 78px #1f3958;
 }
 
-.box-s-pb-px-79 {
+.box-s-pb-79 {
   box-shadow: 0 0 79px #1f3958;
 }
 
-.box-s-pb-px-80 {
+.box-s-pb-80 {
   box-shadow: 0 0 80px #1f3958;
 }
 
-.box-s-pb-px-81 {
+.box-s-pb-81 {
   box-shadow: 0 0 81px #1f3958;
 }
 
-.box-s-pb-px-82 {
+.box-s-pb-82 {
   box-shadow: 0 0 82px #1f3958;
 }
 
-.box-s-pb-px-83 {
+.box-s-pb-83 {
   box-shadow: 0 0 83px #1f3958;
 }
 
-.box-s-pb-px-84 {
+.box-s-pb-84 {
   box-shadow: 0 0 84px #1f3958;
 }
 
-.box-s-pb-px-85 {
+.box-s-pb-85 {
   box-shadow: 0 0 85px #1f3958;
 }
 
-.box-s-pb-px-86 {
+.box-s-pb-86 {
   box-shadow: 0 0 86px #1f3958;
 }
 
-.box-s-pb-px-87 {
+.box-s-pb-87 {
   box-shadow: 0 0 87px #1f3958;
 }
 
-.box-s-pb-px-88 {
+.box-s-pb-88 {
   box-shadow: 0 0 88px #1f3958;
 }
 
-.box-s-pb-px-89 {
+.box-s-pb-89 {
   box-shadow: 0 0 89px #1f3958;
 }
 
-.box-s-pb-px-90 {
+.box-s-pb-90 {
   box-shadow: 0 0 90px #1f3958;
 }
 
-.box-s-pb-px-91 {
+.box-s-pb-91 {
   box-shadow: 0 0 91px #1f3958;
 }
 
-.box-s-pb-px-92 {
+.box-s-pb-92 {
   box-shadow: 0 0 92px #1f3958;
 }
 
-.box-s-pb-px-93 {
+.box-s-pb-93 {
   box-shadow: 0 0 93px #1f3958;
 }
 
-.box-s-pb-px-94 {
+.box-s-pb-94 {
   box-shadow: 0 0 94px #1f3958;
 }
 
-.box-s-pb-px-95 {
+.box-s-pb-95 {
   box-shadow: 0 0 95px #1f3958;
 }
 
-.box-s-pb-px-96 {
+.box-s-pb-96 {
   box-shadow: 0 0 96px #1f3958;
 }
 
-.box-s-pb-px-97 {
+.box-s-pb-97 {
   box-shadow: 0 0 97px #1f3958;
 }
 
-.box-s-pb-px-98 {
+.box-s-pb-98 {
   box-shadow: 0 0 98px #1f3958;
 }
 
-.box-s-pb-px-99 {
+.box-s-pb-99 {
   box-shadow: 0 0 99px #1f3958;
 }
 
-.box-s-pb-px-100 {
+.box-s-pb-100 {
   box-shadow: 0 0 100px #1f3958;
 }
 
-.box-s-pb-h-px-1 {
+.box-s-pb-h-1 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-1 :hover {
+.box-s-pb-h-1 :hover {
   box-shadow: 0 0 1px #1f3958;
 }
 
-.box-s-pb-h-px-2 {
+.box-s-pb-h-2 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-2 :hover {
+.box-s-pb-h-2 :hover {
   box-shadow: 0 0 2px #1f3958;
 }
 
-.box-s-pb-h-px-3 {
+.box-s-pb-h-3 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-3 :hover {
+.box-s-pb-h-3 :hover {
   box-shadow: 0 0 3px #1f3958;
 }
 
-.box-s-pb-h-px-4 {
+.box-s-pb-h-4 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-4 :hover {
+.box-s-pb-h-4 :hover {
   box-shadow: 0 0 4px #1f3958;
 }
 
-.box-s-pb-h-px-5 {
+.box-s-pb-h-5 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-5 :hover {
+.box-s-pb-h-5 :hover {
   box-shadow: 0 0 5px #1f3958;
 }
 
-.box-s-pb-h-px-6 {
+.box-s-pb-h-6 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-6 :hover {
+.box-s-pb-h-6 :hover {
   box-shadow: 0 0 6px #1f3958;
 }
 
-.box-s-pb-h-px-7 {
+.box-s-pb-h-7 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-7 :hover {
+.box-s-pb-h-7 :hover {
   box-shadow: 0 0 7px #1f3958;
 }
 
-.box-s-pb-h-px-8 {
+.box-s-pb-h-8 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-8 :hover {
+.box-s-pb-h-8 :hover {
   box-shadow: 0 0 8px #1f3958;
 }
 
-.box-s-pb-h-px-9 {
+.box-s-pb-h-9 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-9 :hover {
+.box-s-pb-h-9 :hover {
   box-shadow: 0 0 9px #1f3958;
 }
 
-.box-s-pb-h-px-10 {
+.box-s-pb-h-10 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-10 :hover {
+.box-s-pb-h-10 :hover {
   box-shadow: 0 0 10px #1f3958;
 }
 
-.box-s-pb-h-px-11 {
+.box-s-pb-h-11 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-11 :hover {
+.box-s-pb-h-11 :hover {
   box-shadow: 0 0 11px #1f3958;
 }
 
-.box-s-pb-h-px-12 {
+.box-s-pb-h-12 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-12 :hover {
+.box-s-pb-h-12 :hover {
   box-shadow: 0 0 12px #1f3958;
 }
 
-.box-s-pb-h-px-13 {
+.box-s-pb-h-13 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-13 :hover {
+.box-s-pb-h-13 :hover {
   box-shadow: 0 0 13px #1f3958;
 }
 
-.box-s-pb-h-px-14 {
+.box-s-pb-h-14 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-14 :hover {
+.box-s-pb-h-14 :hover {
   box-shadow: 0 0 14px #1f3958;
 }
 
-.box-s-pb-h-px-15 {
+.box-s-pb-h-15 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-15 :hover {
+.box-s-pb-h-15 :hover {
   box-shadow: 0 0 15px #1f3958;
 }
 
-.box-s-pb-h-px-16 {
+.box-s-pb-h-16 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-16 :hover {
+.box-s-pb-h-16 :hover {
   box-shadow: 0 0 16px #1f3958;
 }
 
-.box-s-pb-h-px-17 {
+.box-s-pb-h-17 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-17 :hover {
+.box-s-pb-h-17 :hover {
   box-shadow: 0 0 17px #1f3958;
 }
 
-.box-s-pb-h-px-18 {
+.box-s-pb-h-18 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-18 :hover {
+.box-s-pb-h-18 :hover {
   box-shadow: 0 0 18px #1f3958;
 }
 
-.box-s-pb-h-px-19 {
+.box-s-pb-h-19 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-19 :hover {
+.box-s-pb-h-19 :hover {
   box-shadow: 0 0 19px #1f3958;
 }
 
-.box-s-pb-h-px-20 {
+.box-s-pb-h-20 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-20 :hover {
+.box-s-pb-h-20 :hover {
   box-shadow: 0 0 20px #1f3958;
 }
 
-.box-s-pb-h-px-21 {
+.box-s-pb-h-21 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-21 :hover {
+.box-s-pb-h-21 :hover {
   box-shadow: 0 0 21px #1f3958;
 }
 
-.box-s-pb-h-px-22 {
+.box-s-pb-h-22 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-22 :hover {
+.box-s-pb-h-22 :hover {
   box-shadow: 0 0 22px #1f3958;
 }
 
-.box-s-pb-h-px-23 {
+.box-s-pb-h-23 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-23 :hover {
+.box-s-pb-h-23 :hover {
   box-shadow: 0 0 23px #1f3958;
 }
 
-.box-s-pb-h-px-24 {
+.box-s-pb-h-24 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-24 :hover {
+.box-s-pb-h-24 :hover {
   box-shadow: 0 0 24px #1f3958;
 }
 
-.box-s-pb-h-px-25 {
+.box-s-pb-h-25 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-25 :hover {
+.box-s-pb-h-25 :hover {
   box-shadow: 0 0 25px #1f3958;
 }
 
-.box-s-pb-h-px-26 {
+.box-s-pb-h-26 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-26 :hover {
+.box-s-pb-h-26 :hover {
   box-shadow: 0 0 26px #1f3958;
 }
 
-.box-s-pb-h-px-27 {
+.box-s-pb-h-27 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-27 :hover {
+.box-s-pb-h-27 :hover {
   box-shadow: 0 0 27px #1f3958;
 }
 
-.box-s-pb-h-px-28 {
+.box-s-pb-h-28 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-28 :hover {
+.box-s-pb-h-28 :hover {
   box-shadow: 0 0 28px #1f3958;
 }
 
-.box-s-pb-h-px-29 {
+.box-s-pb-h-29 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-29 :hover {
+.box-s-pb-h-29 :hover {
   box-shadow: 0 0 29px #1f3958;
 }
 
-.box-s-pb-h-px-30 {
+.box-s-pb-h-30 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-30 :hover {
+.box-s-pb-h-30 :hover {
   box-shadow: 0 0 30px #1f3958;
 }
 
-.box-s-pb-h-px-31 {
+.box-s-pb-h-31 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-31 :hover {
+.box-s-pb-h-31 :hover {
   box-shadow: 0 0 31px #1f3958;
 }
 
-.box-s-pb-h-px-32 {
+.box-s-pb-h-32 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-32 :hover {
+.box-s-pb-h-32 :hover {
   box-shadow: 0 0 32px #1f3958;
 }
 
-.box-s-pb-h-px-33 {
+.box-s-pb-h-33 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-33 :hover {
+.box-s-pb-h-33 :hover {
   box-shadow: 0 0 33px #1f3958;
 }
 
-.box-s-pb-h-px-34 {
+.box-s-pb-h-34 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-34 :hover {
+.box-s-pb-h-34 :hover {
   box-shadow: 0 0 34px #1f3958;
 }
 
-.box-s-pb-h-px-35 {
+.box-s-pb-h-35 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-35 :hover {
+.box-s-pb-h-35 :hover {
   box-shadow: 0 0 35px #1f3958;
 }
 
-.box-s-pb-h-px-36 {
+.box-s-pb-h-36 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-36 :hover {
+.box-s-pb-h-36 :hover {
   box-shadow: 0 0 36px #1f3958;
 }
 
-.box-s-pb-h-px-37 {
+.box-s-pb-h-37 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-37 :hover {
+.box-s-pb-h-37 :hover {
   box-shadow: 0 0 37px #1f3958;
 }
 
-.box-s-pb-h-px-38 {
+.box-s-pb-h-38 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-38 :hover {
+.box-s-pb-h-38 :hover {
   box-shadow: 0 0 38px #1f3958;
 }
 
-.box-s-pb-h-px-39 {
+.box-s-pb-h-39 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-39 :hover {
+.box-s-pb-h-39 :hover {
   box-shadow: 0 0 39px #1f3958;
 }
 
-.box-s-pb-h-px-40 {
+.box-s-pb-h-40 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-40 :hover {
+.box-s-pb-h-40 :hover {
   box-shadow: 0 0 40px #1f3958;
 }
 
-.box-s-pb-h-px-41 {
+.box-s-pb-h-41 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-41 :hover {
+.box-s-pb-h-41 :hover {
   box-shadow: 0 0 41px #1f3958;
 }
 
-.box-s-pb-h-px-42 {
+.box-s-pb-h-42 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-42 :hover {
+.box-s-pb-h-42 :hover {
   box-shadow: 0 0 42px #1f3958;
 }
 
-.box-s-pb-h-px-43 {
+.box-s-pb-h-43 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-43 :hover {
+.box-s-pb-h-43 :hover {
   box-shadow: 0 0 43px #1f3958;
 }
 
-.box-s-pb-h-px-44 {
+.box-s-pb-h-44 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-44 :hover {
+.box-s-pb-h-44 :hover {
   box-shadow: 0 0 44px #1f3958;
 }
 
-.box-s-pb-h-px-45 {
+.box-s-pb-h-45 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-45 :hover {
+.box-s-pb-h-45 :hover {
   box-shadow: 0 0 45px #1f3958;
 }
 
-.box-s-pb-h-px-46 {
+.box-s-pb-h-46 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-46 :hover {
+.box-s-pb-h-46 :hover {
   box-shadow: 0 0 46px #1f3958;
 }
 
-.box-s-pb-h-px-47 {
+.box-s-pb-h-47 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-47 :hover {
+.box-s-pb-h-47 :hover {
   box-shadow: 0 0 47px #1f3958;
 }
 
-.box-s-pb-h-px-48 {
+.box-s-pb-h-48 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-48 :hover {
+.box-s-pb-h-48 :hover {
   box-shadow: 0 0 48px #1f3958;
 }
 
-.box-s-pb-h-px-49 {
+.box-s-pb-h-49 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-49 :hover {
+.box-s-pb-h-49 :hover {
   box-shadow: 0 0 49px #1f3958;
 }
 
-.box-s-pb-h-px-50 {
+.box-s-pb-h-50 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-50 :hover {
+.box-s-pb-h-50 :hover {
   box-shadow: 0 0 50px #1f3958;
 }
 
-.box-s-pb-h-px-51 {
+.box-s-pb-h-51 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-51 :hover {
+.box-s-pb-h-51 :hover {
   box-shadow: 0 0 51px #1f3958;
 }
 
-.box-s-pb-h-px-52 {
+.box-s-pb-h-52 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-52 :hover {
+.box-s-pb-h-52 :hover {
   box-shadow: 0 0 52px #1f3958;
 }
 
-.box-s-pb-h-px-53 {
+.box-s-pb-h-53 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-53 :hover {
+.box-s-pb-h-53 :hover {
   box-shadow: 0 0 53px #1f3958;
 }
 
-.box-s-pb-h-px-54 {
+.box-s-pb-h-54 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-54 :hover {
+.box-s-pb-h-54 :hover {
   box-shadow: 0 0 54px #1f3958;
 }
 
-.box-s-pb-h-px-55 {
+.box-s-pb-h-55 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-55 :hover {
+.box-s-pb-h-55 :hover {
   box-shadow: 0 0 55px #1f3958;
 }
 
-.box-s-pb-h-px-56 {
+.box-s-pb-h-56 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-56 :hover {
+.box-s-pb-h-56 :hover {
   box-shadow: 0 0 56px #1f3958;
 }
 
-.box-s-pb-h-px-57 {
+.box-s-pb-h-57 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-57 :hover {
+.box-s-pb-h-57 :hover {
   box-shadow: 0 0 57px #1f3958;
 }
 
-.box-s-pb-h-px-58 {
+.box-s-pb-h-58 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-58 :hover {
+.box-s-pb-h-58 :hover {
   box-shadow: 0 0 58px #1f3958;
 }
 
-.box-s-pb-h-px-59 {
+.box-s-pb-h-59 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-59 :hover {
+.box-s-pb-h-59 :hover {
   box-shadow: 0 0 59px #1f3958;
 }
 
-.box-s-pb-h-px-60 {
+.box-s-pb-h-60 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-60 :hover {
+.box-s-pb-h-60 :hover {
   box-shadow: 0 0 60px #1f3958;
 }
 
-.box-s-pb-h-px-61 {
+.box-s-pb-h-61 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-61 :hover {
+.box-s-pb-h-61 :hover {
   box-shadow: 0 0 61px #1f3958;
 }
 
-.box-s-pb-h-px-62 {
+.box-s-pb-h-62 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-62 :hover {
+.box-s-pb-h-62 :hover {
   box-shadow: 0 0 62px #1f3958;
 }
 
-.box-s-pb-h-px-63 {
+.box-s-pb-h-63 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-63 :hover {
+.box-s-pb-h-63 :hover {
   box-shadow: 0 0 63px #1f3958;
 }
 
-.box-s-pb-h-px-64 {
+.box-s-pb-h-64 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-64 :hover {
+.box-s-pb-h-64 :hover {
   box-shadow: 0 0 64px #1f3958;
 }
 
-.box-s-pb-h-px-65 {
+.box-s-pb-h-65 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-65 :hover {
+.box-s-pb-h-65 :hover {
   box-shadow: 0 0 65px #1f3958;
 }
 
-.box-s-pb-h-px-66 {
+.box-s-pb-h-66 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-66 :hover {
+.box-s-pb-h-66 :hover {
   box-shadow: 0 0 66px #1f3958;
 }
 
-.box-s-pb-h-px-67 {
+.box-s-pb-h-67 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-67 :hover {
+.box-s-pb-h-67 :hover {
   box-shadow: 0 0 67px #1f3958;
 }
 
-.box-s-pb-h-px-68 {
+.box-s-pb-h-68 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-68 :hover {
+.box-s-pb-h-68 :hover {
   box-shadow: 0 0 68px #1f3958;
 }
 
-.box-s-pb-h-px-69 {
+.box-s-pb-h-69 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-69 :hover {
+.box-s-pb-h-69 :hover {
   box-shadow: 0 0 69px #1f3958;
 }
 
-.box-s-pb-h-px-70 {
+.box-s-pb-h-70 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-70 :hover {
+.box-s-pb-h-70 :hover {
   box-shadow: 0 0 70px #1f3958;
 }
 
-.box-s-pb-h-px-71 {
+.box-s-pb-h-71 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-71 :hover {
+.box-s-pb-h-71 :hover {
   box-shadow: 0 0 71px #1f3958;
 }
 
-.box-s-pb-h-px-72 {
+.box-s-pb-h-72 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-72 :hover {
+.box-s-pb-h-72 :hover {
   box-shadow: 0 0 72px #1f3958;
 }
 
-.box-s-pb-h-px-73 {
+.box-s-pb-h-73 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-73 :hover {
+.box-s-pb-h-73 :hover {
   box-shadow: 0 0 73px #1f3958;
 }
 
-.box-s-pb-h-px-74 {
+.box-s-pb-h-74 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-74 :hover {
+.box-s-pb-h-74 :hover {
   box-shadow: 0 0 74px #1f3958;
 }
 
-.box-s-pb-h-px-75 {
+.box-s-pb-h-75 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-75 :hover {
+.box-s-pb-h-75 :hover {
   box-shadow: 0 0 75px #1f3958;
 }
 
-.box-s-pb-h-px-76 {
+.box-s-pb-h-76 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-76 :hover {
+.box-s-pb-h-76 :hover {
   box-shadow: 0 0 76px #1f3958;
 }
 
-.box-s-pb-h-px-77 {
+.box-s-pb-h-77 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-77 :hover {
+.box-s-pb-h-77 :hover {
   box-shadow: 0 0 77px #1f3958;
 }
 
-.box-s-pb-h-px-78 {
+.box-s-pb-h-78 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-78 :hover {
+.box-s-pb-h-78 :hover {
   box-shadow: 0 0 78px #1f3958;
 }
 
-.box-s-pb-h-px-79 {
+.box-s-pb-h-79 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-79 :hover {
+.box-s-pb-h-79 :hover {
   box-shadow: 0 0 79px #1f3958;
 }
 
-.box-s-pb-h-px-80 {
+.box-s-pb-h-80 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-80 :hover {
+.box-s-pb-h-80 :hover {
   box-shadow: 0 0 80px #1f3958;
 }
 
-.box-s-pb-h-px-81 {
+.box-s-pb-h-81 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-81 :hover {
+.box-s-pb-h-81 :hover {
   box-shadow: 0 0 81px #1f3958;
 }
 
-.box-s-pb-h-px-82 {
+.box-s-pb-h-82 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-82 :hover {
+.box-s-pb-h-82 :hover {
   box-shadow: 0 0 82px #1f3958;
 }
 
-.box-s-pb-h-px-83 {
+.box-s-pb-h-83 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-83 :hover {
+.box-s-pb-h-83 :hover {
   box-shadow: 0 0 83px #1f3958;
 }
 
-.box-s-pb-h-px-84 {
+.box-s-pb-h-84 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-84 :hover {
+.box-s-pb-h-84 :hover {
   box-shadow: 0 0 84px #1f3958;
 }
 
-.box-s-pb-h-px-85 {
+.box-s-pb-h-85 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-85 :hover {
+.box-s-pb-h-85 :hover {
   box-shadow: 0 0 85px #1f3958;
 }
 
-.box-s-pb-h-px-86 {
+.box-s-pb-h-86 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-86 :hover {
+.box-s-pb-h-86 :hover {
   box-shadow: 0 0 86px #1f3958;
 }
 
-.box-s-pb-h-px-87 {
+.box-s-pb-h-87 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-87 :hover {
+.box-s-pb-h-87 :hover {
   box-shadow: 0 0 87px #1f3958;
 }
 
-.box-s-pb-h-px-88 {
+.box-s-pb-h-88 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-88 :hover {
+.box-s-pb-h-88 :hover {
   box-shadow: 0 0 88px #1f3958;
 }
 
-.box-s-pb-h-px-89 {
+.box-s-pb-h-89 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-89 :hover {
+.box-s-pb-h-89 :hover {
   box-shadow: 0 0 89px #1f3958;
 }
 
-.box-s-pb-h-px-90 {
+.box-s-pb-h-90 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-90 :hover {
+.box-s-pb-h-90 :hover {
   box-shadow: 0 0 90px #1f3958;
 }
 
-.box-s-pb-h-px-91 {
+.box-s-pb-h-91 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-91 :hover {
+.box-s-pb-h-91 :hover {
   box-shadow: 0 0 91px #1f3958;
 }
 
-.box-s-pb-h-px-92 {
+.box-s-pb-h-92 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-92 :hover {
+.box-s-pb-h-92 :hover {
   box-shadow: 0 0 92px #1f3958;
 }
 
-.box-s-pb-h-px-93 {
+.box-s-pb-h-93 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-93 :hover {
+.box-s-pb-h-93 :hover {
   box-shadow: 0 0 93px #1f3958;
 }
 
-.box-s-pb-h-px-94 {
+.box-s-pb-h-94 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-94 :hover {
+.box-s-pb-h-94 :hover {
   box-shadow: 0 0 94px #1f3958;
 }
 
-.box-s-pb-h-px-95 {
+.box-s-pb-h-95 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-95 :hover {
+.box-s-pb-h-95 :hover {
   box-shadow: 0 0 95px #1f3958;
 }
 
-.box-s-pb-h-px-96 {
+.box-s-pb-h-96 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-96 :hover {
+.box-s-pb-h-96 :hover {
   box-shadow: 0 0 96px #1f3958;
 }
 
-.box-s-pb-h-px-97 {
+.box-s-pb-h-97 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-97 :hover {
+.box-s-pb-h-97 :hover {
   box-shadow: 0 0 97px #1f3958;
 }
 
-.box-s-pb-h-px-98 {
+.box-s-pb-h-98 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-98 :hover {
+.box-s-pb-h-98 :hover {
   box-shadow: 0 0 98px #1f3958;
 }
 
-.box-s-pb-h-px-99 {
+.box-s-pb-h-99 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-99 :hover {
+.box-s-pb-h-99 :hover {
   box-shadow: 0 0 99px #1f3958;
 }
 
-.box-s-pb-h-px-100 {
+.box-s-pb-h-100 {
   transition: box-shadow 2s;
 }
-.box-s-pb-h-px-100 :hover {
+.box-s-pb-h-100 :hover {
   box-shadow: 0 0 100px #1f3958;
 }
 
@@ -18813,10 +18804,6 @@ input {
   display: none;
 }
 
-.v-hidden {
-  visibility: hidden;
-}
-
 .visible {
   visibility: visible;
 }
@@ -19775,40 +19762,40 @@ input {
 
 @media (max-width: 1400px) {
   .xxl-row-1 {
-    grid-template-rows: repeat(1, 100px);
+    grid-template-rows: repeat(1, 1fr);
   }
   .xxl-row-2 {
-    grid-template-rows: repeat(2, 100px);
+    grid-template-rows: repeat(2, 1fr);
   }
   .xxl-row-3 {
-    grid-template-rows: repeat(3, 100px);
+    grid-template-rows: repeat(3, 1fr);
   }
   .xxl-row-4 {
-    grid-template-rows: repeat(4, 100px);
+    grid-template-rows: repeat(4, 1fr);
   }
   .xxl-row-5 {
-    grid-template-rows: repeat(5, 100px);
+    grid-template-rows: repeat(5, 1fr);
   }
   .xxl-row-6 {
-    grid-template-rows: repeat(6, 100px);
+    grid-template-rows: repeat(6, 1fr);
   }
   .xxl-row-7 {
-    grid-template-rows: repeat(7, 100px);
+    grid-template-rows: repeat(7, 1fr);
   }
   .xxl-row-8 {
-    grid-template-rows: repeat(8, 100px);
+    grid-template-rows: repeat(8, 1fr);
   }
   .xxl-row-9 {
-    grid-template-rows: repeat(9, 100px);
+    grid-template-rows: repeat(9, 1fr);
   }
   .xxl-row-10 {
-    grid-template-rows: repeat(10, 100px);
+    grid-template-rows: repeat(10, 1fr);
   }
   .xxl-row-11 {
-    grid-template-rows: repeat(11, 100px);
+    grid-template-rows: repeat(11, 1fr);
   }
   .xxl-row-12 {
-    grid-template-rows: repeat(12, 100px);
+    grid-template-rows: repeat(12, 1fr);
   }
   .xxl-col-1 {
     grid-template-columns: repeat(1, 1fr);
@@ -19885,40 +19872,40 @@ input {
 }
 @media (max-width: 1200px) {
   .xl-row-1 {
-    grid-template-rows: repeat(1, 100px);
+    grid-template-rows: repeat(1, 1fr);
   }
   .xl-row-2 {
-    grid-template-rows: repeat(2, 100px);
+    grid-template-rows: repeat(2, 1fr);
   }
   .xl-row-3 {
-    grid-template-rows: repeat(3, 100px);
+    grid-template-rows: repeat(3, 1fr);
   }
   .xl-row-4 {
-    grid-template-rows: repeat(4, 100px);
+    grid-template-rows: repeat(4, 1fr);
   }
   .xl-row-5 {
-    grid-template-rows: repeat(5, 100px);
+    grid-template-rows: repeat(5, 1fr);
   }
   .xl-row-6 {
-    grid-template-rows: repeat(6, 100px);
+    grid-template-rows: repeat(6, 1fr);
   }
   .xl-row-7 {
-    grid-template-rows: repeat(7, 100px);
+    grid-template-rows: repeat(7, 1fr);
   }
   .xl-row-8 {
-    grid-template-rows: repeat(8, 100px);
+    grid-template-rows: repeat(8, 1fr);
   }
   .xl-row-9 {
-    grid-template-rows: repeat(9, 100px);
+    grid-template-rows: repeat(9, 1fr);
   }
   .xl-row-10 {
-    grid-template-rows: repeat(10, 100px);
+    grid-template-rows: repeat(10, 1fr);
   }
   .xl-row-11 {
-    grid-template-rows: repeat(11, 100px);
+    grid-template-rows: repeat(11, 1fr);
   }
   .xl-row-12 {
-    grid-template-rows: repeat(12, 100px);
+    grid-template-rows: repeat(12, 1fr);
   }
   .xl-col-1 {
     grid-template-columns: repeat(1, 1fr);
@@ -19995,40 +19982,40 @@ input {
 }
 @media (max-width: 992px) {
   .ld-row-1 {
-    grid-template-rows: repeat(1, 100px);
+    grid-template-rows: repeat(1, 1fr);
   }
   .ld-row-2 {
-    grid-template-rows: repeat(2, 100px);
+    grid-template-rows: repeat(2, 1fr);
   }
   .ld-row-3 {
-    grid-template-rows: repeat(3, 100px);
+    grid-template-rows: repeat(3, 1fr);
   }
   .ld-row-4 {
-    grid-template-rows: repeat(4, 100px);
+    grid-template-rows: repeat(4, 1fr);
   }
   .ld-row-5 {
-    grid-template-rows: repeat(5, 100px);
+    grid-template-rows: repeat(5, 1fr);
   }
   .ld-row-6 {
-    grid-template-rows: repeat(6, 100px);
+    grid-template-rows: repeat(6, 1fr);
   }
   .ld-row-7 {
-    grid-template-rows: repeat(7, 100px);
+    grid-template-rows: repeat(7, 1fr);
   }
   .ld-row-8 {
-    grid-template-rows: repeat(8, 100px);
+    grid-template-rows: repeat(8, 1fr);
   }
   .ld-row-9 {
-    grid-template-rows: repeat(9, 100px);
+    grid-template-rows: repeat(9, 1fr);
   }
   .ld-row-10 {
-    grid-template-rows: repeat(10, 100px);
+    grid-template-rows: repeat(10, 1fr);
   }
   .ld-row-11 {
-    grid-template-rows: repeat(11, 100px);
+    grid-template-rows: repeat(11, 1fr);
   }
   .ld-row-12 {
-    grid-template-rows: repeat(12, 100px);
+    grid-template-rows: repeat(12, 1fr);
   }
   .ld-col-1 {
     grid-template-columns: repeat(1, 1fr);
@@ -20105,40 +20092,40 @@ input {
 }
 @media (max-width: 768px) {
   .md-row-1 {
-    grid-template-rows: repeat(1, 100px);
+    grid-template-rows: repeat(1, 1fr);
   }
   .md-row-2 {
-    grid-template-rows: repeat(2, 100px);
+    grid-template-rows: repeat(2, 1fr);
   }
   .md-row-3 {
-    grid-template-rows: repeat(3, 100px);
+    grid-template-rows: repeat(3, 1fr);
   }
   .md-row-4 {
-    grid-template-rows: repeat(4, 100px);
+    grid-template-rows: repeat(4, 1fr);
   }
   .md-row-5 {
-    grid-template-rows: repeat(5, 100px);
+    grid-template-rows: repeat(5, 1fr);
   }
   .md-row-6 {
-    grid-template-rows: repeat(6, 100px);
+    grid-template-rows: repeat(6, 1fr);
   }
   .md-row-7 {
-    grid-template-rows: repeat(7, 100px);
+    grid-template-rows: repeat(7, 1fr);
   }
   .md-row-8 {
-    grid-template-rows: repeat(8, 100px);
+    grid-template-rows: repeat(8, 1fr);
   }
   .md-row-9 {
-    grid-template-rows: repeat(9, 100px);
+    grid-template-rows: repeat(9, 1fr);
   }
   .md-row-10 {
-    grid-template-rows: repeat(10, 100px);
+    grid-template-rows: repeat(10, 1fr);
   }
   .md-row-11 {
-    grid-template-rows: repeat(11, 100px);
+    grid-template-rows: repeat(11, 1fr);
   }
   .md-row-12 {
-    grid-template-rows: repeat(12, 100px);
+    grid-template-rows: repeat(12, 1fr);
   }
   .md-col-1 {
     grid-template-columns: repeat(1, 1fr);
@@ -20215,40 +20202,40 @@ input {
 }
 @media (max-width: 576px) {
   .sd-row-1 {
-    grid-template-rows: repeat(1, 100px);
+    grid-template-rows: repeat(1, 1fr);
   }
   .sd-row-2 {
-    grid-template-rows: repeat(2, 100px);
+    grid-template-rows: repeat(2, 1fr);
   }
   .sd-row-3 {
-    grid-template-rows: repeat(3, 100px);
+    grid-template-rows: repeat(3, 1fr);
   }
   .sd-row-4 {
-    grid-template-rows: repeat(4, 100px);
+    grid-template-rows: repeat(4, 1fr);
   }
   .sd-row-5 {
-    grid-template-rows: repeat(5, 100px);
+    grid-template-rows: repeat(5, 1fr);
   }
   .sd-row-6 {
-    grid-template-rows: repeat(6, 100px);
+    grid-template-rows: repeat(6, 1fr);
   }
   .sd-row-7 {
-    grid-template-rows: repeat(7, 100px);
+    grid-template-rows: repeat(7, 1fr);
   }
   .sd-row-8 {
-    grid-template-rows: repeat(8, 100px);
+    grid-template-rows: repeat(8, 1fr);
   }
   .sd-row-9 {
-    grid-template-rows: repeat(9, 100px);
+    grid-template-rows: repeat(9, 1fr);
   }
   .sd-row-10 {
-    grid-template-rows: repeat(10, 100px);
+    grid-template-rows: repeat(10, 1fr);
   }
   .sd-row-11 {
-    grid-template-rows: repeat(11, 100px);
+    grid-template-rows: repeat(11, 1fr);
   }
   .sd-row-12 {
-    grid-template-rows: repeat(12, 100px);
+    grid-template-rows: repeat(12, 1fr);
   }
   .sd-col-1 {
     grid-template-columns: repeat(1, 1fr);

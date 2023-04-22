@@ -1,49 +1,53 @@
-@use 'colors';
+$color-cadet-gray: #8fa9c1;
 
 @for $i from 1 through 100 {
-	.box-s-cg-px-#{$i} {
-		box-shadow: 0 0 $i * 1px colors.$color-cadet-gray;
+	.box-s-cg-#{$i} {
+		box-shadow: 0 0 $i * 1px $color-cadet-gray;
 	}
 }
 
 @for $i from 1 through 100 {
-	.box-s-cg-h-px-#{$i} {
+	.box-s-cg-h-#{$i} {
 		transition: box-shadow 2s;
 
 		&:hover {
-			box-shadow: 0 0 $i * 1px colors.$color-cadet-gray;
+			box-shadow: 0 0 $i * 1px $color-cadet-gray;
 		}
 	}
 }
 
+$color-indigo-dye: #274a71;
+
 @for $i from 1 through 100 {
-	.box-s-id-px-#{$i} {
-		box-shadow: 0 0 $i * 1px colors.$color-indigo-dye;
+	.box-s-id-#{$i} {
+		box-shadow: 0 0 $i * 1px $color-indigo-dye;
 	}
 }
 
 @for $i from 1 through 100 {
-	.box-s-id-h-px-#{$i} {
+	.box-s-id-h-#{$i} {
 		transition: box-shadow 2s;
 
 		&:hover {
-			box-shadow: 0 0 $i * 1px colors.$color-indigo-dye;
+			box-shadow: 0 0 $i * 1px $color-indigo-dye;
 		}
 	}
 }
 
+$color-prusian-blue: #1f3958;
+
 @for $i from 1 through 100 {
-	.box-s-pb-px-#{$i} {
-		box-shadow: 0 0 $i * 1px colors.$color-prusian-blue;
+	.box-s-pb-#{$i} {
+		box-shadow: 0 0 $i * 1px $color-prusian-blue;
 	}
 }
 
 @for $i from 1 through 100 {
-	.box-s-pb-h-px-#{$i} {
+	.box-s-pb-h-#{$i} {
 		transition: box-shadow 2s;
 
 		:hover {
-			box-shadow: 0 0 $i * 1px colors.$color-prusian-blue;
+			box-shadow: 0 0 $i * 1px $color-prusian-blue;
 		}
 	}
 }
