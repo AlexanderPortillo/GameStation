@@ -19356,69 +19356,69 @@ input {
 }
 
 .container-xxl {
-  padding: 0 40px;
+  padding: 0 10rem;
 }
 
 .container-xl {
-  padding: 0 40px;
+  padding: 0 10rem;
 }
 
 .container-ld {
-  padding: 0 40px;
+  padding: 0 10rem;
 }
 
 .container-md {
-  padding: 0 40px;
+  padding: 0 10rem;
 }
 
 .container-sd {
-  padding: 0 40px;
+  padding: 0 10rem;
 }
 
 @media (max-width: 1440px) {
   .container-xxl {
-    padding: 0 30px;
+    padding: 0 8rem;
   }
 }
 @media (max-width: 1200px) {
   .container-xxl {
-    padding: 0 0px;
+    padding: 0 0;
   }
   .container-xl {
-    padding: 0px;
+    padding: 0;
   }
   .container-ld {
-    padding: 0 20px;
+    padding: 0 6rem;
   }
   .container-md {
-    padding: 0 20px;
+    padding: 0 6rem;
   }
   .container-sd {
-    padding: 0 20px;
+    padding: 0 6rem;
   }
 }
 @media (max-width: 992px) {
   .container-ld {
-    padding: 0px;
+    padding: 0;
   }
   .container-md {
-    padding: 0 20px;
+    padding: 0 6rem;
   }
   .container-sd {
-    padding: 0 20px;
+    padding: 0 6rem;
   }
 }
 @media (max-width: 768px) {
   .container-md {
-    padding: 0 0px;
+    padding: 0 0;
   }
   .container-sd {
-    padding: 0 10px;
+    padding: 0 4rem;
   }
 }
 @media (max-width: 576px) {
   .container-sd {
-    padding: 0 0px;
+    padding: 0 0;
   }
 }
 .row {
