@@ -1,0 +1,30 @@
+$color-cadet-gray: #8fa9c1;
+$color-indigo-dye: #274a71;
+
+.nav {
+	display: flex;
+	font-weight: bold;
+	font-size: 16px;
+	gap: 2rem;
+
+	.nav-link {
+		transition: color 1s, background-color 1s;
+
+		&:hover {
+			color: $color-cadet-gray;
+		}
+	}
+
+	.nav-border {
+		border: 1px solid;
+		padding: 6px 10px;
+	}
+}
+
+.active {
+	pointer-events: visible;
+}
+
+.disabled {
+	pointer-events: none;
+}

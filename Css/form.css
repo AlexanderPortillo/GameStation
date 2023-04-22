@@ -1,0 +1,15 @@
+label {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  display: flex;
+  flex-direction: column;
+}
+
+.textarea {
+  resize: none;
+}
+
+/*# sourceMappingURL=form.css.map */
