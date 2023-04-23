@@ -163,10 +163,6 @@
 	display: none;
 }
 
-.v-hidden {
-	visibility: hidden;
-}
-
 .visible {
 	visibility: visible;
 }
@@ -181,7 +177,7 @@
 	}
 }
 
-@for $i from 1 through 20 {
+@for $i from 1 through 60 {
 	.gap-#{$i} {
 		gap: $i * 1px;
 	}
@@ -190,5 +186,30 @@
 @for $i from 1 through 100 {
 	.height-#{$i} {
 		height: $i * 1vh;
+	}
+}
+
+.text {
+	width: 75%;
+	height: 450px;
+	position: absolute;
+	background-color: rgba(141, 145, 148, 0.349);
+	// top: -19%;
+	top: 14%;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	opacity: 0;
+	margin: auto;
+	text-align: center;
+	color: black;
+	transition: opacity 2s;
+	background-image: url(../Img/Portada-Elden-Ring.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	&:hover {
+		opacity: 1;
 	}
 }
