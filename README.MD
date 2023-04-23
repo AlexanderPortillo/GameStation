@@ -115,42 +115,42 @@ GameStation/
 
 ## Documentación
 
-| Clases                        | Etiquetas que representa la clase   | unidad | Descripción |
-| ----------------------------- | ----------------------------------- | ------ | ----------- |
-| `alert`                       | Sin representacion                  | -      |             |
-| `alert-warning`               | Sin representacion                  | -      |             |
-| `alert-succes`                | Sin representacion                  | -      |             |
-| `alert-succes`                | Sin representacion                  | -      |             |
-| `alert-link`                  | Sin representacion                  | -      |             |
-| `alert-normal`                | Sin representacion                  | -      |             |
-| `badges`                      | Sin representacion                  | -      |             |
-| `badges-indigo`               | Sin representacion                  | -      |             |
-| `badges-olive`                | Sin representacion                  | -      |             |
-| `badges-paynes`               | Sin representacion                  | -      |             |
-| `badges-red`                  | Sin representacion                  | -      |             |
-| `circle-1`                    | border-radius                       | px     |             |
-| `circle-t-l-1`                | border-top-left-radius              | px     |             |
-| `circle-t-r-1`                | border-top-right-radius             | px     |             |
-| `circle-b-l-1`                | border-bottom-left-radius           | px     |             |
-| `circle-b-r-1`                | border-bottom-right-radius          | px     |             |
-| `box-s-cg-1`                  | box-shadow                          | px     |             |
-| `box-s-cg-h-1`                | box-shadow                          | px     |             |
-| `box-s-id-1`                  | box-shadow                          | px     |             |
-| `box-s-id-h-1`                | box-shadow                          | px     |             |
-| `box-s-pb-1`                  | box-shadow                          | px     |             |
-| `box-s-pb-h-1`                | box-shadow                          | px     |             |
-| `btn`                         | Sin representacion                  | -      |             |
-| `btn-gold`                    | Sin representacion                  | -      |             |
-| `btn-prusian`                 | Sin representacion                  | -      |             |
-| `btn-kelly`                   | Sin representacion                  | -      |             |
-| `btn-blue`                    | Sin representacion                  | -      |             |
-| `btn-h`                       | Sin representacion                  | -      |             |
-| `btn-h-x`                     | Sin representacion                  | -      |             |
-| `card`                        | Sin representacion                  | -      |             |
-| `card-img`                    | Sin representacion                  | -      |             |
-| `card-title`                  | Sin representacion                  | -      |             |
-| `card-text`                   | Sin representacion                  | -      |             |
-| `card-row`                    | Sin representacion                  | -      |             |
+| Clases                        | Etiquetas que representa la clase   | unidad | Descripción                        |
+| ----------------------------- | ----------------------------------- | ------ | ---------------------------------- |
+| `alert`                       | Sin representacion                  | -      | Alerta simple                      |
+| `alert-warning`               | Sin representacion                  | -      | Alerta de advertencia              |
+| `alert-succes`                | Sin representacion                  | -      | Alerta de éxito                    |
+| `alert-succes`                | Sin representacion                  | -      | Alerta de éxito                    |
+| `alert-link`                  | Sin representacion                  | -      | Alerta de enlace                   |
+| `alert-normal`                | Sin representacion                  | -      | Alerta simple                      |
+| `badges`                      | Sin representacion                  | -      | Insignia simple                    |
+| `badges-indigo`               | Sin representacion                  | -      | Insignia simple color indigo       |
+| `badges-olive`                | Sin representacion                  | -      | Insignia simple color aceituna     |
+| `badges-paynes`               | Sin representacion                  | -      | Insignia simple color peynes       |
+| `badges-red`                  | Sin representacion                  | -      | Insigna simple color rojo          |
+| `circle-1`                    | border-radius                       | px     | Borde redondo de 4 elementos       |
+| `circle-t-l-1`                | border-top-left-radius              | px     | Borde redondo arriba-izquierda     |
+| `circle-t-r-1`                | border-top-right-radius             | px     | Borde redondo arriba-derecha       |
+| `circle-b-l-1`                | border-bottom-left-radius           | px     | Borde redondo abajo-izquierda      |
+| `circle-b-r-1`                | border-bottom-right-radius          | px     | Borde redondo abajo-derecha        |
+| `box-s-cg-1`                  | box-shadow                          | px     |                                    |
+| `box-s-cg-h-1`                | box-shadow                          | px     |                                    |
+| `box-s-id-1`                  | box-shadow                          | px     |                                    |
+| `box-s-id-h-1`                | box-shadow                          | px     |                                    |
+| `box-s-pb-1`                  | box-shadow                          | px     |                                    |
+| `box-s-pb-h-1`                | box-shadow                          | px     |                                    |
+| `btn`                         | Sin representacion                  | -      | Boton simple                       |
+| `btn-gold`                    | Sin representacion                  | -      | Boton simple color paneys-gris     |
+| `btn-prusian`                 | Sin representacion                  | -      | Boton simple color prusiano-azul   |
+| `btn-kelly`                   | Sin representacion                  | -      | Boton simple color kelly- Verde    |
+| `btn-blue`                    | Sin representacion                  | -      | Boton simple color azul            |
+| `btn-h`                       | Sin representacion                  | -      | Boton de transicion de fondo       |
+| `btn-h-x`                     | Sin representacion                  | -      | Boton de transicion color de fuente|
+| `card`                        | Sin representacion                  | -      | Tarjeta simple completa            |
+| `card-img`                    | Sin representacion                  | -      | Tarjeta que almacena imagen        |
+| `card-title`                  | Sin representacion                  | -      | Tarjeta que almacena titulo        |
+| `card-text`                   | Sin representacion                  | -      | Tarjeta que alacena texto          |
+| `card-row`                    | Sin representacion                  | -      | Tarjeta orienntado a fila          |
 | `card-title`                  | color                               | -      |             |
 | `color-red`                   | color                               | -      |             |
 | `color-selective-yellow`      | color                               | -      |             |
