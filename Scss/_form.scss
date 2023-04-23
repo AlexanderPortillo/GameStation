@@ -7,24 +7,32 @@ $color-cadet-gray: #8fa9c1;
 $color-chamoisee: #a3735d;
 $color-beaer: #b48f7c;
 
-// .form{
-//     display: flex;
-//     margin: 20px;
-//     border: 1px solid $color-red;
-//     width: 20px;
-//     height: 50px;
-// }
+.form {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
 
-label {
-    display: flex;
-    flex-direction: column;
-}
+	label {
+		font-size: 20px;
+		color: $color-cadet-gray;
+	}
 
-input {
-    display: flex;
-    flex-direction: column;
-}
+	input {
+		padding: 10px;
+		border-radius: 6px;
+		font-size: 16px;
+		outline: none;
+	}
 
-.textarea {
-    resize: none;
+	textarea {
+		resize: none;
+	}
+
+	.checkbox {
+		label {
+			display: flex;
+			flex-direction: row;
+			gap: 4px;
+		}
+	}
 }

@@ -442,18 +442,28 @@ hr {
   color: black;
 }
 
-label {
+.form {
   display: flex;
   flex-direction: column;
+  gap: 4px;
 }
-
-input {
-  display: flex;
-  flex-direction: column;
+.form label {
+  font-size: 20px;
+  color: #8fa9c1;
 }
-
-.textarea {
+.form input {
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+}
+.form textarea {
   resize: none;
+}
+.form .checkbox label {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
 }
 
 .card, .card-row {
