@@ -22,6 +22,26 @@
 
 - Desarrollar una librería tipo Bootstrap.
 
+```Html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link rel="stylesheet" href="./Css/style.css">
+    <title>GameStation</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+```
+
 ## Descripción del proyecto
 
 - La página estará centrada en mostrar información acerca de juegos en actualidad y próximos a salir.
@@ -286,22 +306,28 @@ GameStation/
 | `row`                         | Sin representacion                  | -     |             |
 | `row-1`                       | grid-template-rows                  | fr    |             |
 | `col-1`                       | grid-template-columns               | fr    |             |
-| `span-1`                      | grid-column: span                   | -     |             |
+| `span-c-1`                    | grid-column: span                   | -     |             |
+| `span-r-1`                    | grid-row: span                      | -     |             |
 | `xxl-row-1`                   | grid-template-rows                  | fr    |             |
 | `xxl-col-1`                   | grid-template-columns               | fr    |             |
-| `xxl-span-1`                  | grid-column: span                   | -     |             |
+| `xxl-span-c-1`                | grid-column: span                   | -     |             |
+| `xxl-span-r-1`                | grid-row: span                      | -     |             |
 | `xl-row-1`                    | grid-template-rows                  | fr    |             |
 | `xl-col-1`                    | grid-template-columns               | fr    |             |
-| `xl-span-1`                   | grid-column: span                   | -     |             |
+| `xl-span-c-1`                 | grid-column: span                   | -     |             |
+| `xl-span-r-1`                 | grid-row: span                      | -     |             |
 | `ld-row-1`                    | grid-template-rows                  | fr    |             |
 | `ld-col-1`                    | grid-template-columns               | fr    |             |
-| `ld-span-1`                   | grid-column: span                   | -     |             |
+| `ld-span-c-1`                 | grid-column: span                   | -     |             |
+| `ld-span-r-1`                 | grid-row: span                      | -     |             |
 | `md-row-1`                    | grid-template-rows                  | fr    |             |
 | `md-col-1`                    | grid-template-columns               | fr    |             |
-| `md-span-1`                   | grid-column: span                   | -     |             |
+| `md-span-c-1`                 | grid-column: span                   | -     |             |
+| `ld-span-r-1`                 | grid-row: span                      | -     |             |
 | `sd-row-1`                    | grid-template-rows                  | fr    |             |
 | `sd-col-1`                    | grid-template-columns               | fr    |             |
-| `sd-span-1`                   | grid-column: span                   | -     |             |
+| `sd-span-c-1`                 | grid-column: span                   | -     |             |
+| `ld-span-r-1`                 | grid-row: span                      | -     |             |
 
 ## Ejemplos Implementación
 
@@ -570,8 +596,8 @@ GameStation/
 ```Html
 <div class="text-center m-t-10">
     <div class="row col-5 ld-col-1 gap-10">
-        <div class="p-10 span-3 ld-span-1 col-style">custom column padding</div>
-        <div class="p-10 span-2 ld-span-1 col-style">custom column padding</div>
+        <div class="p-10 span-c-3 ld-span-c-1 col-style">custom column padding</div>
+        <div class="p-10 span-c-2 ld-span-c-1 col-style">custom column padding</div>
     </div>
 </div>
 
@@ -582,9 +608,9 @@ GameStation/
 ```Html
 <div class="text-center m-t-10">
     <div class="row col-5 gap-10">
-        <div class="p-10 span-1 col-style">custom column padding</div>
-        <div class="p-10 span-3 col-style">custom column padding</div>
-        <div class="p-10 span-1 col-style">custom column padding</div>
+        <div class="p-10 span-c-1 col-style">custom column padding</div>
+        <div class="p-10 span-c-3 col-style">custom column padding</div>
+        <div class="p-10 span-c-1 col-style">custom column padding</div>
     </div>
 </div>
 ```
@@ -671,6 +697,21 @@ GameStation/
 </div>
 ```
 
+![](./Design/column7.png)
+
+```Html
+<div class="row">
+    <div class="col-3 gap-10">
+        <div class="p-10 col-style span-c-2">custom column padding</div>
+        <div class="p-10 col-style span-c-1">custom column padding</div>
+        <div class="p-10 col-style span-r-2">custom column padding</div>
+        <div class="p-10 col-style">custom column padding</div>
+        <div class="p-10 col-style span-r-2">custom column padding</div>
+        <div class="p-10 col-style">custom column padding</div>
+    </div>
+</div>
+```
+
 <h1 align="center">Containers</h1>
 
 ![](./Design/container1.png)
@@ -731,7 +772,6 @@ GameStation/
 ![](./Design/container6.png)
 
 ```Html
-
 <div class="container-xxl">
     <div class="container text-center bg-kelly-green">
         <h1>xx-l</h1>

@@ -30,8 +30,14 @@ $color-text-col: #adb5a3;
 }
 
 @for $i from 1 through 12 {
-	.span-#{$i} {
+	.span-c-#{$i} {
 		grid-column: span $i * 1;
+	}
+}
+
+@for $i from 1 through 12 {
+	.span-r-#{$i} {
+		grid-row: span $i * 1;
 	}
 }
 
@@ -57,8 +63,14 @@ $S-d: 576px;
 	}
 
 	@for $i from 1 through 12 {
-		.xxl-span-#{$i} {
+		.xxl-span-c-#{$i} {
 			grid-column: span $i * 1;
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xxl-span-r-#{$i} {
+			grid-row: span $i * 1;
 		}
 	}
 }
@@ -78,8 +90,14 @@ $S-d: 576px;
 	}
 
 	@for $i from 1 through 12 {
-		.xl-span-#{$i} {
+		.xl-span-c-#{$i} {
 			grid-column: span $i * 1;
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.xl-span-r-#{$i} {
+			grid-row: span $i * 1;
 		}
 	}
 }
@@ -99,8 +117,14 @@ $S-d: 576px;
 	}
 
 	@for $i from 1 through 12 {
-		.ld-span-#{$i} {
+		.ld-span-c-#{$i} {
 			grid-column: span $i * 1;
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.ld-span-r-#{$i} {
+			grid-row: span $i * 1;
 		}
 	}
 }
@@ -120,8 +144,14 @@ $S-d: 576px;
 	}
 
 	@for $i from 1 through 12 {
-		.md-span-#{$i} {
+		.md-span-c-#{$i} {
 			grid-column: span $i * 1;
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.md-span-r-#{$i} {
+			grid-row: span $i * 1;
 		}
 	}
 }
@@ -141,8 +171,15 @@ $S-d: 576px;
 	}
 
 	@for $i from 1 through 12 {
-		.sd-span-#{$i} {
+		.sd-span-c-#{$i} {
 			grid-column: span $i * 1;
+			grid-row: span $i * 1;
+		}
+	}
+
+	@for $i from 1 through 12 {
+		.sd-span-r-#{$i} {
+			grid-row: span $i * 1;
 		}
 	}
 }
