@@ -32,6 +32,38 @@ $color-indigo-dye: #274a71;
 		border: 1px solid;
 		padding: 6px 10px;
 	}
+
+	$M-d: 768px;
+
+	// ! Large devices (desktops, 768px and up)
+	@media (max-width: $M-d) {
+		nav {
+			.d-block-2 {
+				display: block;
+			}
+
+			.d-none-2 {
+				display: none;
+			}
+		}
+	}
+}
+
+// ! Large devices (desktops, 992px and up)
+$L-d: 992px;
+@media (max-width: $L-d) {
+	.nav-h {
+		display: flex;
+		flex-direction: column-reverse;
+		height: 40px;
+		overflow: hidden;
+		gap: 16px;
+		transition: height 2s;
+
+		&:hover {
+			height: 200px;
+		}
+	}
 }
 
 .active {

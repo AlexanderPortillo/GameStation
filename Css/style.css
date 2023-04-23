@@ -314,7 +314,28 @@ hr {
   border: 1px solid;
   padding: 6px 10px;
 }
+@media (max-width: 768px) {
+  .nav nav .d-block-2 {
+    display: block;
+  }
+  .nav nav .d-none-2 {
+    display: none;
+  }
+}
 
+@media (max-width: 992px) {
+  .nav-h {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 40px;
+    overflow: hidden;
+    gap: 16px;
+    transition: height 2s;
+  }
+  .nav-h:hover {
+    height: 200px;
+  }
+}
 .active {
   pointer-events: visible;
 }
@@ -19541,7 +19562,7 @@ input {
   height: 450px;
   position: absolute;
   background-color: rgba(141, 145, 148, 0.349);
-  top: -19%;
+  top: 14%;
   left: 0;
   bottom: 0;
   right: 0;
@@ -19590,10 +19611,10 @@ input {
 }
 @media (max-width: 1200px) {
   .container-xxl {
-    padding: 0 0;
+    padding: 0 0.5rem;
   }
   .container-xl {
-    padding: 0;
+    padding: 0.5rem;
   }
   .container-ld {
     padding: 0 6rem;
@@ -19607,7 +19628,7 @@ input {
 }
 @media (max-width: 992px) {
   .container-ld {
-    padding: 0;
+    padding: 0.5rem;
   }
   .container-md {
     padding: 0 6rem;
@@ -19618,7 +19639,7 @@ input {
 }
 @media (max-width: 768px) {
   .container-md {
-    padding: 0 0;
+    padding: 0 0.5rem;
   }
   .container-sd {
     padding: 0 4rem;
@@ -19626,7 +19647,7 @@ input {
 }
 @media (max-width: 576px) {
   .container-sd {
-    padding: 0 0;
+    padding: 0 0.5rem;
   }
 }
 .col-style {
