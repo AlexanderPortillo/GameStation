@@ -810,6 +810,115 @@ GameStation/
 </div>
 ```
 
+<h1 align="center">Form</h1>
+
+![](./Design/navbar1.png)
+
+```Html
+<form action="" class="bg-prusian-blue p-10 m-20 col bg-flame circle-5 b-1">
+    <div class="m-1" style="width: 300px;">
+        <label for="email">Correo Electronico</label>
+        <input type="email" name="" id="name" placeholder="noobmaster69@example.com" class="m-t-2 m-b-10">
+
+        <label for="textarea">Mensaje</label>
+        <textarea name="" id="" cols="30" rows="5" class="textarea m-t-2 m-b-10"></textarea>
+        <button type="submit" class="m-4">Enviar</button>
+    </div>
+</form>
+```
+
+![](./Design/navbar1.png)
+
+```Html
+<form action="" class="row bg-prusian-blue p-10 m-20 bg-flame circle-5 b-1">
+    <div class="col-2 gap-10">
+        <label for="email" class="d-flex">Correo Electronico</label>
+        <input type="text">
+
+        <label for="password">Contraseña</label>
+        <input type="password" placeholder="Contraseña">
+
+        <button class="m-4 height-5" style="width: 100px;" type="submit">Ingresar</button>
+    </div>
+</form>
+```
+
+![](./Design/navbar1.png)
+
+```Html
+<div class="form b-1 p-10 circle-10" style="width: 300px;">
+    <label for="email">Email Address</label>
+    <input type="email" name="" id="email" placeholder="Email">
+
+    <label for="password">password</label>
+    <input type="password" name="" id="password" placeholder="password">
+
+    <div class="checkbox">
+        <label for="checkbox">
+            <input type="checkbox" name="" id="checkbox">Check me ou
+        </label>
+    </div>
+
+    <a href="#" target="_blank" class="btn btn-kelly d-center font-size-px-20 gap-4"
+        style="width: 100px; height: 40px;">
+        Submit
+    </a>
+</div>
+```
+
+![](./Design/navbar1.png)
+
+```Html
+<div class="form b-1 p-10 circle-10" style="width: 500px;">
+    <label for="email">Email Address</label>
+    <input type="email" name="" id="email" placeholder="name@example.com">
+
+    <label for="textarea">Example textarea</label>
+    <textarea name="" id="textarea" cols="30" rows="10"></textarea>
+</div>
+```
+
+![](./Design/navbar1.png)
+
+```Html
+<div class="form b-1 p-10 circle-10" style="width: 300px;">
+    <label for="name">Fist name</label>
+    <input type="text" name="" id="name" placeholder="Name">
+
+    <label for="name">Last Name</label>
+    <input type="text" name="" id="name" placeholder="Name">
+
+    <label for="email">Email Address</label>
+    <input type="email" name="" id="email" placeholder="Email">
+
+    <label for="password">password</label>
+    <input type="password" name="" id="password" placeholder="password">
+
+    <div class="checkbox">
+        <label for="checkbox">
+            <input type="checkbox" name="" id="checkbox">Check me ou
+        </label>
+    </div>
+
+    <a href="#" target="_blank" class="btn btn-kelly d-center font-size-px-20 gap-4"
+        style="width: 100px; height: 40px;">
+        Submit
+    </a>
+</div>
+```
+
+![](./Design/navbar1.png)
+
+```Html
+<div class="form b-1 p-10 circle-10 disabled" style="width: 500px;">
+    <label for="email">Email Address</label>
+    <input type="email" name="" id="email" placeholder="name@example.com">
+
+    <label for="textarea">Example textarea</label>
+    <textarea name="" id="textarea" cols="30" rows="10"></textarea>
+</div>
+```
+
 <h1 align="center">Navbars</h1>
 
 ![](./Design/navbar1.png)
