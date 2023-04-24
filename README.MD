@@ -1,4 +1,4 @@
-<h1 align="center">DOCUMENTACION - GAME STATION</h1>
+<h1 align="center">DOCUMENTACIÓN - GAMESTATION</h1>
 
 ## Tabla de contenido
 
@@ -21,9 +21,9 @@
 
 ## Indicaciones
 
-Si desea utilizar nuestra libreria es necesario conocer que procesos se deben de segui, para poder hacer uso correcto de la libreria.
+Si desea utilizar nuestra libreria es necesario conocer que procesos se deben de seguir, para poder hacer uso correcto de la libreria.
 
-- Primero necesitamos descargar la libreria, [Pulse para iniciar descarga](https://github.com/Jesse-Miranda), luego de haberla descargado es necesario desconprimir el achivo que se genera, veras una carpeta a la hora de descomprimir y a la hora de entrar en esta misma habran otras carpetas donde se encuentran distintos elementos de la libreria por lo cual te dare una lista de carpetas y elementos que puedes eliminar sin que se afecte la libreria, primero puedes empezar eliminando la carpeta HTML si asi lo desea, esta contiene diferentes elementos, como por ejemplo, alerts, badges, buttons, cards, container entre otros elementos, la siguiente carpeta que puedes eliminar es la de de Img ya que en esta solo se encuentran unas imagenes utilizadas unicamente para un diseño en especifico y la ultima carpeta que puedes eliminar es la que se llama Design ya que en esta solo se encuentran capturas de distintos elementos creados.
+- Primero necesitamos descargar la libreria, [Pulse para iniciar descarga](https://github.com/AlexanderPortillo/GameStation/archive/refs/heads/main.zip), luego de haberla descargado es necesario desconprimir el achivo que se genera, veras una carpeta a la hora de descomprimir y a la hora de entrar en esta misma habran otras carpetas donde se encuentran distintos elementos de la libreria por lo cual te dare una lista de carpetas y elementos que puedes eliminar sin que se afecte la libreria, primero puedes empezar eliminando la carpeta HTML si asi lo desea, esta contiene diferentes elementos, como por ejemplo, alerts, badges, buttons, cards, container entre otros elementos, la siguiente carpeta que puedes eliminar es la de de Img ya que en esta solo se encuentran unas imagenes utilizadas unicamente para un diseño en especifico y la ultima carpeta que puedes eliminar es la que se llama Design ya que en esta solo se encuentran capturas de distintos elementos creados.
 
 - Lista de carpetas que no se deben borrar o modificarr, la primera seria la carpeta que se llama Scss esta misma no se debe de modificar ni de eliminar ya que ahi se encuentran la mayoria de elementos, si en un futuro desea agregar un elemnto nuevo y esta carpeta no se encuentra sera imposible agregar algo nuevo, otra carpeta que no se debe de tocar es la de Css, ya que aqui se encuentra la compilacion de los elementos creados en la carpeta Scss, ojo el unico archivo que no se puede eliminar de esta carpeta es el style.css y el style.css.map ya que es esta estan todos los elementos, si usted desea eliminar los otros archivos que se encuentran en esta carpeta, no hay problema alguno en hacerlo.
 
@@ -82,8 +82,12 @@ GameStation/
 │   ├── badges.css.map
 │   ├── border-radius.css
 │   ├── border-radius.css.map
+│   ├── box-shadow.css
+│   ├── box-shadow.css.map
 │   ├── btn.css
 │   ├── btn.css.map
+│   ├── cards.css
+│   ├── cards.css.map
 │   ├── colors.css
 │   ├── colors.css.map
 │   ├── containers.css
@@ -98,6 +102,8 @@ GameStation/
 │   ├── margin-padding-border.css.map
 │   ├── navbars.css
 │   ├── navbars.css.map
+│   ├── reset.css
+│   ├── reset.css.map
 │   ├── style.css
 │   └── style.css.map
 └── Html/
@@ -115,226 +121,225 @@ GameStation/
 
 ## Documentación
 
-| Clases                        | Etiquetas que representa la clase   | unidad | Descripción |
-| ----------------------------- | ----------------------------------- | ------ | ----------- |
-| `alert`                       | Sin representacion                  | -      |             |
-| `alert-warning`               | Sin representacion                  | -      |             |
-| `alert-succes`                | Sin representacion                  | -      |             |
-| `alert-succes`                | Sin representacion                  | -      |             |
-| `alert-link`                  | Sin representacion                  | -      |             |
-| `alert-normal`                | Sin representacion                  | -      |             |
-| `badges`                      | Sin representacion                  | -      |             |
-| `badges-indigo`               | Sin representacion                  | -      |             |
-| `badges-olive`                | Sin representacion                  | -      |             |
-| `badges-paynes`               | Sin representacion                  | -      |             |
-| `badges-red`                  | Sin representacion                  | -      |             |
-| `circle-1`                    | border-radius                       | px     |             |
-| `circle-t-l-1`                | border-top-left-radius              | px     |             |
-| `circle-t-r-1`                | border-top-right-radius             | px     |             |
-| `circle-b-l-1`                | border-bottom-left-radius           | px     |             |
-| `circle-b-r-1`                | border-bottom-right-radius          | px     |             |
-| `box-s-cg-1`                  | box-shadow                          | px     |             |
-| `box-s-cg-h-1`                | box-shadow                          | px     |             |
-| `box-s-id-1`                  | box-shadow                          | px     |             |
-| `box-s-id-h-1`                | box-shadow                          | px     |             |
-| `box-s-pb-1`                  | box-shadow                          | px     |             |
-| `box-s-pb-h-1`                | box-shadow                          | px     |             |
-| `btn`                         | Sin representacion                  | -      |             |
-| `btn-gold`                    | Sin representacion                  | -      |             |
-| `btn-prusian`                 | Sin representacion                  | -      |             |
-| `btn-kelly`                   | Sin representacion                  | -      |             |
-| `btn-blue`                    | Sin representacion                  | -      |             |
-| `btn-h`                       | Sin representacion                  | -      |             |
-| `btn-h-x`                     | Sin representacion                  | -      |             |
-| `card`                        | Sin representacion                  | -      |             |
-| `card-img`                    | Sin representacion                  | -      |             |
-| `card-title`                  | Sin representacion                  | -      |             |
-| `card-text`                   | Sin representacion                  | -      |             |
-| `card-row`                    | Sin representacion                  | -      |             |
-| `card-title`                  | color                               | -      |             |
-| `color-red`                   | color                               | -      |             |
-| `color-selective-yellow`      | color                               | -      |             |
-| `color-olive`                 | color                               | -      |             |
-| `color-forrest-green`         | color                               | -      |             |
-| `color-dark-pastel-green`     | color                               | -      |             |
-| `color-old-gold`              | color                               | -      |             |
-| `color-white`                 | color                               | -      |             |
-| `color-coquelicot`            | color                               | -      |             |
-| `color-peach`                 | color                               | -      |             |
-| `color-sandy-brown`           | color                               | -      |             |
-| `color-black`                 | color                               | -      |             |
-| `color-bistre`                | color                               | -      |             |
-| `color-kelly-green`           | color                               | -      |             |
-| `color-drab-dark-brown`       | color                               | -      |             |
-| `color-hunter-green`          | color                               | -      |             |
-| `color-flame`                 | color                               | -      |             |
-| `color-prusian-blue`          | color                               | -      |             |
-| `color-indigo-dye`            | color                               | -      |             |
-| `color-cadet-gray`            | color                               | -      |             |
-| `color-engineering-orange`    | color                               | -      |             |
-| `color-beaer`                 | color                               | -      |             |
-| `color-chamoisee`             | color                               | -      |             |
-| `color-satin-sheen-gold`      | color                               | -      |             |
-| `color-paynes-gray`           | color                               | -      |             |
-| `color-dim-gray`              | color                               | -      |             |
-| `bg-red`                      | background-color                    | -      |             |
-| `bg-selective-yellow`         | background-color                    | -      |             |
-| `bg-olive`                    | background-color                    | -      |             |
-| `bg-forrest-green`            | background-color                    | -      |             |
-| `bg-dark-pastel-green`        | background-color                    | -      |             |
-| `bg-old-gold`                 | background-color                    | -      |             |
-| `bg-white`                    | background-color                    | -      |             |
-| `bg-coquelicot`               | background-color                    | -      |             |
-| `bg-peach`                    | background-color                    | -      |             |
-| `bg-sandy-brown`              | background-color                    | -      |             |
-| `bg-black`                    | background-color                    | -      |             |
-| `bg-bistre`                   | background-color                    | -      |             |
-| `bg-kelly-green`              | background-color                    | -      |             |
-| `bg-drab-dark-brown`          | background-color                    | -      |             |
-| `bg-hunter-green`             | background-color                    | -      |             |
-| `bg-flame`                    | background-color                    | -      |             |
-| `bg-prusian-blue`             | background-color                    | -      |             |
-| `bg-indigo-dye`               | background-color                    | -      |             |
-| `bg-cadet-gray`               | background-color                    | -      |             |
-| `bg-engineering-orange`       | background-color                    | -      |             |
-| `bg-beaer`                    | background-color                    | -      |             |
-| `bg-chamoisee`                | background-color                    | -      |             |
-| `bg-satin-sheen-gold`         | background-color                    | -      |             |
-| `bg-paynes-gray`              | background-color                    | -      |             |
-| `bg-dim-gray`                 | background-color                    | -      |             |
-| `container`                   | Sin representacion                  | -      |             |
-| `container-xxl`               | Sin representacion                  | -      |             |
-| `container-xl`                | Sin representacion                  | -      |             |
-| `container-ld`                | Sin representacion                  | -      |             |
-| `container-md`                | Sin representacion                  | -      |             |
-| `container-sd`                | Sin representacion                  | -      |             |
-| `center-content`              | Sin representacion                  | -      |             |
-| `d-center`                    | Sin representacion                  | -      |             |
-| `d-flex`                      | display: flex                       | -      |
-| `d-direction-row`             | flex-direction: row                 | -      |             |
-| `d-direction-row-reverse`     | flex-direction: row-reverse         | -      |             |
-| `d-direction-col`             | flex-direction: column              | -      |             |
-| `d-direction-col-reverse`     | flex-direction: row                 | -      |             |
-| `d-flex-nowrap`               | flex-wrap: nowrap                   | -      |             |
-| `d-flex-wrap `                | flex-wrap: wrap                     | -      |             |
-| `d-flex-wrap-reverse`         | flex-wrap: wrap-reverse             | -      |             |
-| `d-align-items-start `        | align-items: flex-start             | -      |             |
-| `d-align-items-end `          | align-items: flex-end               | -      |             |
-| `d-align-items-center`        | align-items: center                 | -      |             |
-| `d-align-items-baseline `     | align-items: baseline               | -      |             |
-| `d-align-items-stretch`       | align-items: stretch                | -      |             |
-| `d-justify-content-start`     | justify-content: flex-start         | -      |             |
-| `d-justify-content-end`       | justify-content: flex-end           | -      |             |
-| ` d-justify-content-center`   | justify-content: center             | -      |             |
-| `d-justify-content-space-ar`  | justify-content: space-around       | -      |             |
-| `d-justify-content-space-bet` | justify-content: space-between      | -      |             |
-| `d-justify-content-space-ev`  | justify-content: space-evenly       | -      |             |
-| `d-align-content-start`       | align-content: flex-start           | -      |             |
-| `d-align-content-end`         | align-content: flex-end             | -      |             |
-| `d-align-content-center`      | align-content: center               | -      |             |
-| `d-align-content-space-ar`    | align-content: space-around         | -      |             |
-| `d-align-content-space-bet`   | align-content: space-between        | -      |             |
-| `d-align-content-space-ev`    | align-content: space-evenly         | -      |             |
-| `d-align-content-stretch`     | align-content: stretch              | -      |             |
-| `d-align-self-auto`           | align-self: auto                    | -      |             |
-| `d-align-self-start `         | align-self: start                   | -      |             |
-| `d-align-self-end`            | align-self: end                     | -      |             |
-| `d-align-self-center`         | align-self: center                  | -      |             |
-| `d-align-self-baseline`       | align-self: baseline                | -      |             |
-| `d-align-self-stretch`        | align-self: stretch                 | -      |             |
-| `float-none`                  | float: none                         | -      |             |
-| `float-left`                  | float: left                         | -      |             |
-| `float-right`                 | float: right                        | -      |             |
-| `d-block`                     | display: block                      | -      |             |
-| `d-none`                      | display: none                       | -      |             |
-| `visible `                    | visibility: visible                 | -      |             |
-| `invisible`                   | visibility: hidden                  | -      |             |
-| `order-1`                     | order                               | -      |             |
-| `gap-1`                       | gap                                 | px     |             |
-| `height-1`                    | height                              | vh     |             |
-| `font-size-px-1`              | font-size                           | px     |             |
-| `font-size-rem-1`             | font-size                           | rem    |             |
-| `font-w-100`                  | font-weight: 100                    | -      |             |
-| `font-w-200`                  | font-weight: 200                    | -      |             |
-| `font-w-300`                  | font-weight: 300                    | -      |             |
-| `font-w-400`                  | font-weight: 400                    | -      |             |
-| `font-w-500`                  | font-weight: 500                    | -      |             |
-| `font-w-600`                  | font-weight: 600                    | -      |             |
-| `font-w-700`                  | font-weight: 700                    | -      |             |
-| `font-w-800`                  | font-weight: 800                    | -      |             |
-| `font-w-900`                  | font-weight: 900                    | -      |             |
-| `font-w-bold`                 | font-weight: bold                   | -      |             |
-| `font-style-italic`           | font-style: italic                  | -      |             |
-| `font-style-oblique`          | font-style: oblique                 | -      |             |
-| `text-center`                 | text-align: center                  | -      |             |
-| `text-justify`                | text-align: justify                 | -      |             |
-| `text-justify-end`            | text-align: end                     | -      |             |
-| `text-justify-left`           | text-align: left                    | -      |             |
-| `text-justify-right`          | text-align: right                   | -      |             |
-| `text-justify-start`          | text-align: start                   | -      |             |
-| `pointer`                     | Sin representacion                  | -      |             |
-| ``                            |                                     |        |             |
-| ``                            |                                     |        |             |
-| ``                            |                                     |        |             |
-| ``                            |                                     |        |             |
-| `m-1`                         | margin                              | px     |             |
-| `m-t-1`                       | margin-top                          | px     |             |
-| `m-b-1`                       | margin-bottom                       | px     |             |
-| `m-l-1`                       | margin-left                         | px     |             |
-| `m-r-1`                       | margin-right                        | px     |             |
-| `m-t-b-1`                     | margin-top, margin-bottom           | px     |             |
-| `m-l-r-1`                     | margin-left, margin-right           | px     |             |
-| `p-1`                         | padding                             | px     |             |
-| `p-t-1`                       | padding-top                         | px     |             |
-| `p-b-1`                       | padding-bottom                      | px     |             |
-| `p-l-1`                       | padding-left                        | px     |             |
-| `p-r-1`                       | padding-top                         | px     |             |
-| `p-t-b-1`                     | padding-top, padding-bottom         | px     |             |
-| `p-l-r-1`                     | padding-left, padding-right         | px     |             |
-| `b-1`                         | border                              | px     |             |
-| `b-t-1`                       | border-top                          | px     |             |
-| `b-b-1`                       | border-bottom                       | px     |             |
-| `b-l-1`                       | border-left                         | px     |             |
-| `b-r-1`                       | border-right                        | px     |             |
-| `b-t-b-1`                     | border-top, border-bottom           | px     |             |
-| `b-l-r-1`                     | border-left, border-right           | px     |             |
-| `nav`                         | Sin representacion                  | -      |             |
-| `nav-item`                    | Sin representacion                  | -      |             |
-| `nav-lik`                     | Sin representacion                  | -      |             |
-| `nav-border`                  | Sin representacion                  | -      |             |
-| `active`                      | pointer-events: visible             | -      |             |
-| `disabled`                    | pointer-events: none                | -      |             |
-| `text-d-under`                | text-decoration: underline          | -      |             |
-| `text-d-over`                 | text-decoration: overline           | -      |             |
-| `text-d-line`                 | text-decoration: line-through       | -      |             |
-| `text-d-blink`                | text-decoration: blink              | -      |             |
-| `text-d-none`                 | text-decoration: none               | -      |             |
-| `text-d-underover`            | text-decoration: underline overline | -      |             |
-| `row`                         | Sin representacion                  | -      |             |
-| `row-1`                       | grid-template-rows                  | fr     |             |
-| `col-1`                       | grid-template-columns               | fr     |             |
-| `span-c-1`                    | grid-column: span                   | -      |             |
-| `span-r-1`                    | grid-row: span                      | -      |             |
-| `xxl-row-1`                   | grid-template-rows                  | fr     |             |
-| `xxl-col-1`                   | grid-template-columns               | fr     |             |
-| `xxl-span-c-1`                | grid-column: span                   | -      |             |
-| `xxl-span-r-1`                | grid-row: span                      | -      |             |
-| `xl-row-1`                    | grid-template-rows                  | fr     |             |
-| `xl-col-1`                    | grid-template-columns               | fr     |             |
-| `xl-span-c-1`                 | grid-column: span                   | -      |             |
-| `xl-span-r-1`                 | grid-row: span                      | -      |             |
-| `ld-row-1`                    | grid-template-rows                  | fr     |             |
-| `ld-col-1`                    | grid-template-columns               | fr     |             |
-| `ld-span-c-1`                 | grid-column: span                   | -      |             |
-| `ld-span-r-1`                 | grid-row: span                      | -      |             |
-| `md-row-1`                    | grid-template-rows                  | fr     |             |
-| `md-col-1`                    | grid-template-columns               | fr     |             |
-| `md-span-c-1`                 | grid-column: span                   | -      |             |
-| `ld-span-r-1`                 | grid-row: span                      | -      |             |
-| `sd-row-1`                    | grid-template-rows                  | fr     |             |
-| `sd-col-1`                    | grid-template-columns               | fr     |             |
-| `sd-span-c-1`                 | grid-column: span                   | -      |             |
-| `ld-span-r-1`                 | grid-row: span                      | -      |             |
+| Clases                        | Etiquetas que representa la clase   | unidad | Descripción                                         |
+| ----------------------------- | ----------------------------------- | ------ | --------------------------------------------------- |
+| `alert`                       | Sin representacion                  | -      | Alerta simple                                       |
+| `alert-warning`               | Sin representacion                  | -      | Alerta de advertencia                               |
+| `alert-succes`                | Sin representacion                  | -      | Alerta de éxito                                     |
+| `alert-succes`                | Sin representacion                  | -      | Alerta de éxito                                     |
+| `alert-link`                  | Sin representacion                  | -      | Alerta de enlace                                    |
+| `alert-normal`                | Sin representacion                  | -      | Alerta simple                                       |
+| `badges`                      | Sin representacion                  | -      | Insignia simple                                     |
+| `badges-indigo`               | Sin representacion                  | -      | Insignia simple color indigo                        |
+| `badges-olive`                | Sin representacion                  | -      | Insignia simple color aceituna                      |
+| `badges-paynes`               | Sin representacion                  | -      | Insignia simple color peyne                         |
+| `badges-red`                  | Sin representacion                  | -      | Insigna simple color rojo                           |
+| `circle-1`                    | border-radius                       | px     | Borde redondo de los 4 lados                        |
+| `circle-t-l-1`                | border-top-left-radius              | px     | Borde redondo arriba-izquierda                      |
+| `circle-t-r-1`                | border-top-right-radius             | px     | Borde redondo arriba-derecha                        |
+| `circle-b-l-1`                | border-bottom-left-radius           | px     | Borde redondo abajo-izquierda                       |
+| `circle-b-r-1`                | border-bottom-right-radius          | px     | Borde redondo abajo-derecha                         |
+| `box-s-cg-1`                  | box-shadow                          | px     | Sombreado color gris cadete                         |
+| `box-s-cg-h-1`                | box-shadow                          | px     | Sombreado con transicion gris cadete                |
+| `box-s-id-1`                  | box-shadow                          | px     | Sombreado color tinte índigo                        |
+| `box-s-id-h-1`                | box-shadow                          | px     | Sombreado con transicion tinte índigo               |
+| `box-s-pb-1`                  | box-shadow                          | px     | Sombreado color azul prusiano                       |
+| `box-s-pb-h-1`                | box-shadow                          | px     | Sombreado color transicion azul prusiano            |
+| `btn`                         | Sin representacion                  | -      | Boton simple                                        |
+| `btn-gold`                    | Sin representacion                  | -      | Boton simple color paney gris                       |
+| `btn-prusian`                 | Sin representacion                  | -      | Boton simple color azul prusiano                    |
+| `btn-kelly`                   | Sin representacion                  | -      | Boton simple color kelly Verde                      |
+| `btn-blue`                    | Sin representacion                  | -      | Boton simple color azul                             |
+| `btn-h`                       | Sin representacion                  | -      | Boton de transicion de fondo                        |
+| `btn-h-x`                     | Sin representacion                  | -      | Boton de transicion color de fuente                 |
+| `card`                        | Sin representacion                  | -      | Tarjeta simple completa                             |
+| `card-img`                    | Sin representacion                  | -      | Tarjeta que almacena imagen                         |
+| `card-title`                  | Sin representacion                  | -      | Tarjeta que almacena titulo                         |
+| `card-text`                   | Sin representacion                  | -      | Tarjeta que alacena texto                           |
+| `card-row`                    | Sin representacion                  | -      | Tarjeta orientado a fila                            |
+| `color-red`                   | color                               | -      | Color de texto rojo                                 | 
+| `color-selective-yellow`      | color                               | -      | Color de texto selectivo amarillo                   |
+| `color-olive`                 | color                               | -      | Color de texto aceituna                             |
+| `color-forrest-green`         | color                               | -      | Color de texto verde bosque                         |
+| `color-dark-pastel-green`     | color                               | -      | Color de texto verde pastel oscuro                  |
+| `color-old-gold`              | color                               | -      | Color de texto oro viejo                            |
+| `color-white`                 | color                               | -      | Color de texto blanco                               |
+| `color-coquelicot`            | color                               | -      | Color de texto coquelicot                           |
+| `color-peach`                 | color                               | -      | Color de texto durazno                              |
+| `color-sandy-brown`           | color                               | -      | Color de texto marron arena                         |
+| `color-black`                 | color                               | -      | Color de texto negro                                |
+| `color-bistre`                | color                               | -      | Color de texto bistro                               |
+| `color-kelly-green`           | color                               | -      | Color de texto kelly Verde                          |
+| `color-drab-dark-brown`       | color                               | -      | Color de texto monótono-marrón oscuro               |
+| `color-hunter-green`          | color                               | -      | Color de texto verde cazador                        |
+| `color-flame`                 | color                               | -      | Color de texto fuego                                |
+| `color-prusian-blue`          | color                               | -      | Color de texto azul prusiano                        |
+| `color-indigo-dye`            | color                               | -      | Color de texto tinte indigo                         |
+| `color-cadet-gray`            | color                               | -      | Color de texto gris cadete                          |
+| `color-engineering-orange`    | color                               | -      | Color de texto ingenieria naranja                   |
+| `color-beaer`                 | color                               | -      | Color de texto oso                                  |
+| `color-chamoisee`             | color                               | -      | Color de texto gamuza                               |
+| `color-satin-sheen-gold`      | color                               | -      | Color de texto oro brillo satinado                  |
+| `color-paynes-gray`           | color                               | -      | Color de texto payne gris                           |
+| `color-dim-gray`              | color                               | -      | Color de texto gris tenue                           |
+| `bg-red`                      | background-color                    | -      | Fondo color rojo                                    | 
+| `bg-selective-yellow`         | background-color                    | -      | Fondo color selectivo amarillo                      |
+| `bg-olive`                    | background-color                    | -      | Fondo color aceituna                                |
+| `bg-forrest-green`            | background-color                    | -      | Fondo color verde bosque                            |
+| `bg-dark-pastel-green`        | background-color                    | -      | Fondo color verde pastel oscuro                     |
+| `bg-old-gold`                 | background-color                    | -      | Fondo color oro viejo                               |
+| `bg-white`                    | background-color                    | -      | Fondo color blanco                                  |
+| `bg-coquelicot`               | background-color                    | -      | Fondo color coquelicot                              |
+| `bg-peach`                    | background-color                    | -      | Fondo color durazno                                 |
+| `bg-sandy-brown`              | background-color                    | -      | Fondo color marrón arena                            |
+| `bg-black`                    | background-color                    | -      | Fondo color negro                                   |
+| `bg-bistre`                   | background-color                    | -      | Fondo color bistro                                  |
+| `bg-kelly-green`              | background-color                    | -      | Fondo color kelly verde                             |
+| `bg-drab-dark-brown`          | background-color                    | -      | Fondo color monótono marrón oscuro                  |
+| `bg-hunter-green`             | background-color                    | -      | Fondo color verde cazador                           |
+| `bg-flame`                    | background-color                    | -      | Fondo color fuego                                   |
+| `bg-prusian-blue`             | background-color                    | -      | Fondo color azul prusiano                           |
+| `bg-indigo-dye`               | background-color                    | -      | Fondo color tinte índigo                            |
+| `bg-cadet-gray`               | background-color                    | -      | Fondo color gris cadete                             |
+| `bg-engineering-orange`       | background-color                    | -      | Fondo color ingeniería naranja                      |
+| `bg-beaer`                    | background-color                    | -      | Fondo color oso                                     |
+| `bg-chamoisee`                | background-color                    | -      | Fondo color gamuza                                  |
+| `bg-satin-sheen-gold`         | background-color                    | -      | Fondo color oro brillo satinado                     |
+| `bg-paynes-gray`              | background-color                    | -      | Fondo color payne gris                              |
+| `bg-dim-gray`                 | background-color                    | -      | Fondo color gris tenue                              |
+| `container`                   | Sin representacion                  | -      | Contenedor simple receptivo                         |
+| `container-xxl`               | Sin representacion                  | -      | Contenedor para dispositivo grande 1400px           |
+| `container-xl`                | Sin representacion                  | -      | Contenedor para dispositivo grande 1200px           |
+| `container-ld`                | Sin representacion                  | -      | Contenedor para dispositivo grande 992px            |
+| `container-md`                | Sin representacion                  | -      | Contenedor para dispositivo mediano 768px           |
+| `container-sd`                | Sin representacion                  | -      | Contenedor para dispositivo pequeño 576px           |
+| `center-content`              | Sin representacion                  | -      | Centra contenido en toda la pantalla                |
+| `d-center`                    | Sin representacion                  | -      | Contenedor que centra contenido                     |
+| `d-flex`                      | display: flex                       | -      | Referencia a un display flex                        |
+| `d-direction-row`             | flex-direction: row                 | -      | Direccion de la fila normal                         |
+| `d-direction-row-reverse`     | flex-direction: row-reverse         | -      | Direccion de la fila en reversa                     |
+| `d-direction-col`             | flex-direction: column              | -      | Direccion de columna normal                         |
+| `d-direction-col-reverse`     | flex-direction: row                 | -      | Direccion en reversa de la columna                  |
+| `d-flex-nowrap`               | flex-wrap: nowrap                   | -      | Elementos distribuidos en una sola línea            |
+| `d-flex-wrap `                | flex-wrap: wrap                     | -      | Elementos colocados en varias líneas                |
+| `d-flex-wrap-reverse`         | flex-wrap: wrap-reverse             | -      | Elementos colocados en lineas en reversa            | 
+| `d-align-items-start `        | align-items: flex-start             | -      | Los Elementos se nivelan con el borde de inicio     |
+| `d-align-items-end `          | align-items: flex-end               | -      | Los elementos se nivelan con el borde del extremo   |
+| `d-align-items-center`        | align-items: center                 | -      | Los elementos se centran en el eje transversal      |
+| `d-align-items-baseline `     | align-items: baseline               | -      | Todos los elementos flexibles se alinean            |
+| `d-align-items-stretch`       | align-items: stretch                | -      | Los elementos flexibles se estiran                  |
+| `d-justify-content-start`     | justify-content: flex-start         | -      | Alineo hacia el borde inicial del contenedor        |
+| `d-justify-content-end`       | justify-content: flex-end           | -      | Alineo hacia el borde final del contenedor          |
+| `d-justify-content-center`    | justify-content: center             | -      | Alineo hacia el centro del contedor                 |
+| `d-justify-content-space-ar`  | justify-content: space-around       | -      | Elementos con espacio antes,entre y después de ellos|
+| `d-justify-content-space-bet` | justify-content: space-between      | -      | Los artículos tendrán espacio entre ellos           |
+| `d-justify-content-space-ev`  | justify-content: space-evenly       | -      | Elementos distribuidos dentro del contenedor        |
+| `d-align-content-start`       | align-content: flex-start           | -      | Líneas llenas hasta el inicio del contenedor        |
+| `d-align-content-end`         | align-content: flex-end             | -      | Líneas empacadas hasta el final del contenedor      |
+| `d-align-content-center`      | align-content: center               | -      | Líneas empacadas al centro del contenedor           |
+| `d-align-content-space-ar`    | align-content: space-around         | -      | Líneas distribuidas con igual espacio entre ellas   |
+| `d-align-content-space-bet`   | align-content: space-between        | -      | Líneas distribuidas uniformemente                   | 
+| `d-align-content-space-ev`    | align-content: space-evenly         | -      | Elementos distribuidos dentro del contenedor        |
+| `d-align-content-stretch`     | align-content: stretch              | -      | Las líneas se estiran y ocupan el espacio restante  |
+| `d-align-self-auto`           | align-self: auto                    | -      | Establece el valor definido en contenedor flexible  |
+| `d-align-self-start `         | align-self: start                   | -      | Elementos alineado al inicio del eje transversal    |
+| `d-align-self-end`            | align-self: end                     | -      | Elementos alineado al final del eje transversal     |
+| `d-align-self-center`         | align-self: center                  | -      | Centra las alineaciones de uno de los elementos     |
+| `d-align-self-baseline`       | align-self: baseline                | -      | Elemento se coloca en línea de base del contenedor  |
+| `d-align-self-stretch`        | align-self: stretch                 | -      | El elemento se coloca para adaptarse al contenedor  |
+| `float-none`                  | float: none                         | -      | Elemento que no es flotante                         |
+| `float-left`                  | float: left                         | -      | Elemento flotante a la izquierda                    |
+| `float-right`                 | float: right                        | -      | Elemento flotante a la derecha                      |
+| `d-block`                     | display: block                      | -      | Genera un elemento de bloque                        |
+| `d-none`                      | display: none                       | -      | Desactiva visualizacion de un elemento              |
+| `visible `                    | visibility: visible                 | -      | Valor inicial visible                               |
+| `invisible`                   | visibility: hidden                  | -      | Vacia el espacio de un elemento                     |
+| `order-1`                     | order                               | -      | Ordena elementos en un contenedor                   |
+| `gap-1`                       | gap                                 | px     | Espacio entre filas y columnas                      |
+| `height-1`                    | height                              | vh     | Especifica la altura de un elemento                 |
+| `font-size-px-1`              | font-size                           | px     | Especifica dimensión de la letra en px              |
+| `font-size-rem-1`             | font-size                           | rem    | Especifica dimensión de la letra en rem             |
+| `font-w-100`                  | font-weight: 100                    | -      | Especifica el grueso de la letra                    |
+| `font-w-200`                  | font-weight: 200                    | -      | Especifica el grueso de la letra                    |
+| `font-w-300`                  | font-weight: 300                    | -      | Especifica el grueso de la letra                    |
+| `font-w-400`                  | font-weight: 400                    | -      | Especifica el grueso de la letra                    |
+| `font-w-500`                  | font-weight: 500                    | -      | Especifica el grueso de la letra                    |
+| `font-w-600`                  | font-weight: 600                    | -      | Especifica el grueso de la letra                    |
+| `font-w-700`                  | font-weight: 700                    | -      | Especifica el grueso de la letra                    |
+| `font-w-800`                  | font-weight: 800                    | -      | Especifica el grueso de la letra                    |
+| `font-w-900`                  | font-weight: 900                    | -      | Especifica el grueso de la letra                    |
+| `font-w-bold`                 | font-weight: bold                   | -      | Especifica el grueso en negrita = 700               |
+| `font-style-italic`           | font-style: italic                  | -      | Coloca la tipográfica italic (cursiva)              |
+| `font-style-oblique`          | font-style: oblique                 | -      | Coloca la tipográfica oblique                       |
+| `text-center`                 | text-align: center                  | -      | Establece el contenido en el centro                 |
+| `text-justify`                | text-align: justify                 | -      | Establece la alineacion justificada                 |
+| `text-justify-end`            | text-align: end                     | -      | right = izquierda-derecha left = derecha-izquierda  |
+| `text-justify-left`           | text-align: left                    | -      | Establece el contenido a la izquierda               |
+| `text-justify-right`          | text-align: right                   | -      | Establece el contenido a la derecha                 |
+| `text-justify-start`          | text-align: start                   | -      | left = izquierda-derecha right = derecha-izquierda  |
+| `pointer`                     | Sin representacion                  | -      | Especifica el tipo de cursor que se mostrara        |
+| ``                            |                                     |        |                                                     |
+| ``                            |                                     |        |                                                     |
+| ``                            |                                     |        |                                                     |
+| ``                            |                                     |        |                                                     |
+| `m-1`                         | margin                              | px     | Especifica el tamaño de margen de los 4 lados       |
+| `m-t-1`                       | margin-top                          | px     | Especifica el tamaño de margen de arriba            |
+| `m-b-1`                       | margin-bottom                       | px     | Especifica el tamaño del margen de abajo            |
+| `m-l-1`                       | margin-left                         | px     | Especifica el tamaño del margen izquierdo           |
+| `m-r-1`                       | margin-right                        | px     | Especifica el tamaño del margen derecho             |
+| `m-t-b-1`                     | margin-top, margin-bottom           | px     | Especifica el tamaño del margen de arriba-abajo     |
+| `m-l-r-1`                     | margin-left, margin-right           | px     | Especifica el tamaño del margen de izquierda-derecha|
+| `p-1`                         | padding                             | px     | Especifica el tamaño del padding de los 4 lados     |
+| `p-t-1`                       | padding-top                         | px     | Especifica el tamaño del padding de arriba          |
+| `p-b-1`                       | padding-bottom                      | px     | Especifica el tamaño del padding de abajo           |
+| `p-l-1`                       | padding-left                        | px     | Especifica el tamaño del padding de la izquierda    |
+| `p-r-1`                       | padding-top                         | px     | Especifica el tamaño del padding de la derecha      |
+| `p-t-b-1`                     | padding-top, padding-bottom         | px     | Especifica el tamaño del padding arriba-abajo       |
+| `p-l-r-1`                     | padding-left, padding-right         | px     | Especifica el tamaño del padding izquierda-derecha  |
+| `b-1`                         | border                              | px     | Especifica el tamaño del borde de los 4 lados       |
+| `b-t-1`                       | border-top                          | px     | Especifica el tamaño del borde de arriba            |
+| `b-b-1`                       | border-bottom                       | px     | Especifica el tamaño del borde de abajo             |
+| `b-l-1`                       | border-left                         | px     | Especifica el tamaño del borde de la izquierda      |
+| `b-r-1`                       | border-right                        | px     | Especifica el tamaño del borde de la derecha        |
+| `b-t-b-1`                     | border-top, border-bottom           | px     | Especifica el tamaño del borde arriba-abajo         |
+| `b-l-r-1`                     | border-left, border-right           | px     | Especifica el tamaño del borde izquierda-derecha    |
+| `nav`                         | Sin representacion                  | -      | Especifica un Nav simple                            |
+| `nav-item`                    | Sin representacion                  | -      | Especifica un Nav flexible                          |
+| `nav-lik`                     | Sin representacion                  | -      | Establece una transicion de color                   |
+| `nav-border`                  | Sin representacion                  | -      | Coloca un borde y padding definido en Nav           |
+| `active`                      | pointer-events: visible             | -      | Evento de puntero que se establece en visible       |
+| `disabled`                    | pointer-events: none                | -      | El elemento nunca es el destino del puntero         |
+| `text-d-under`                | text-decoration: underline          | -      | Establece el formato de texto a subrayado           |
+| `text-d-over`                 | text-decoration: overline           | -      | Establece el formato de texto en suprarrayado       |
+| `text-d-line`                 | text-decoration: line-through       | -      | Establece el formato de texto en tachado            |
+| `text-d-blink`                | text-decoration: blink              | -      | Establece el formato de texto en parpadeo           |
+| `text-d-none`                 | text-decoration: none               | -      | Establece el formato de texto sin decoracion        |
+| `text-d-underover`            | text-decoration: underline overline | -      | Establece el formato text-d-under text-d-over       |
+| `row`                         | Sin representacion                  | -      | Establece un elemento como grid                     |
+| `row-1`                       | grid-template-rows                  | fr     | Define las filas y el tamaño de las mismas          |
+| `col-1`                       | grid-template-columns               | fr     | Define las columnas y el tamaño de las mismas       |
+| `span-c-1`                    | grid-column: span                   | -      | Especifica el tamaño y la ubicación de la columna   |
+| `span-r-1`                    | grid-row: span                      | -      | Especifica el tamaño y la ubicación de la fila      |
+| `xxl-row-1`                   | grid-template-rows                  | fr     | Define filas y tamaño en dispositivo de (1400px)    |
+| `xxl-col-1`                   | grid-template-columns               | fr     | Define columnas y tamaño en dispositivo (1400px)    |
+| `xxl-span-c-1`                | grid-column: span                   | -      | Especifica columnas de dispositivo de (1400px)      |
+| `xxl-span-r-1`                | grid-row: span                      | -      | Especifica filas de dispositivo de (1400px)         |
+| `xl-row-1`                    | grid-template-rows                  | fr     | Define filas y tamaño en dispositivo de (1200px)    |
+| `xl-col-1`                    | grid-template-columns               | fr     | Define columnas y tamaño en dispositivo (1200px)    |
+| `xl-span-c-1`                 | grid-column: span                   | -      | Especifica columnas de dispositivo de (1200px)      |
+| `xl-span-r-1`                 | grid-row: span                      | -      | Especifica filas de dispositivo de (1200px)         |
+| `ld-row-1`                    | grid-template-rows                  | fr     | Define filas y tamaño en dispositivo de (992px)     |
+| `ld-col-1`                    | grid-template-columns               | fr     | Define columnas y tamaño en dispositivo (992px)     |
+| `ld-span-c-1`                 | grid-column: span                   | -      | Especifica columnas de dispositivo de (992px)       |
+| `ld-span-r-1`                 | grid-row: span                      | -      | Especifica filas de dispositivo de (992px)          |
+| `md-row-1`                    | grid-template-rows                  | fr     | Define filas y tamaño en dispositivo de (768px)     |
+| `md-col-1`                    | grid-template-columns               | fr     | Define columnas y tamaño en dispositivo (768px)     |
+| `md-span-c-1`                 | grid-column: span                   | -      | Especifica columnas de dispositivo de (768px)       |
+| `ld-span-r-1`                 | grid-row: span                      | -      | Especifica filas de dispositivo de (768px)          |
+| `sd-row-1`                    | grid-template-rows                  | fr     | Define filas y tamaño en dispositivo de (576px)     |
+| `sd-col-1`                    | grid-template-columns               | fr     | Define columnas y tamaño en dispositivo (576px)     |
+| `sd-span-c-1`                 | grid-column: span                   | -      | Especifica columnas de dispositivo de (576px)       |
+| `ld-span-r-1`                 | grid-row: span                      | -      | Especifica filas de dispositivo de (576px)          |
 
 ## Elementos creados con la libreria
 
@@ -812,7 +817,7 @@ GameStation/
 
 <h1 align="center">Form</h1>
 
-![](./Design/navbar1.png)
+![](./Design/form1.png)
 
 ```Html
 <form action="" class="bg-prusian-blue p-10 m-20 col bg-flame circle-5 b-1">
@@ -827,7 +832,7 @@ GameStation/
 </form>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form2.png)
 
 ```Html
 <form action="" class="row bg-prusian-blue p-10 m-20 bg-flame circle-5 b-1">
@@ -843,7 +848,7 @@ GameStation/
 </form>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form3.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10" style="width: 300px;">
@@ -866,7 +871,7 @@ GameStation/
 </div>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form4.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10" style="width: 500px;">
@@ -878,7 +883,7 @@ GameStation/
 </div>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form5.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10" style="width: 300px;">
@@ -907,7 +912,7 @@ GameStation/
 </div>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form6.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10 disabled" style="width: 500px;">
