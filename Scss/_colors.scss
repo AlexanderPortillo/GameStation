@@ -232,3 +232,7 @@ $color-dim-gray: #756b63;
 .bg-dim-gray {
 	background-color: $color-dim-gray;
 }
+
+.blur{
+	backdrop-filter: blur(10px);
+}

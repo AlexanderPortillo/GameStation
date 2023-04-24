@@ -209,6 +209,10 @@ hr {
   background-color: #756b63;
 }
 
+.blur {
+  backdrop-filter: blur(10px);
+}
+
 .alert, .alert-normal, .alert-link, .alert-succes, .alert-warning {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   padding: 10px;
