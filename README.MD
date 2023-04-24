@@ -217,30 +217,30 @@ GameStation/
 | `d-flex-nowrap`               | flex-wrap: nowrap                   | -      | Elementos distribuidos en una sola línea            |
 | `d-flex-wrap `                | flex-wrap: wrap                     | -      | Elementos colocados en varias líneas                |
 | `d-flex-wrap-reverse`         | flex-wrap: wrap-reverse             | -      | Elementos colocados en lineas en reversa            | 
-| `d-align-items-start `        | align-items: flex-start             | -      |                                                     |
-| `d-align-items-end `          | align-items: flex-end               | -      |                                                     |
-| `d-align-items-center`        | align-items: center                 | -      |                                                     |
-| `d-align-items-baseline `     | align-items: baseline               | -      |                                                     |
-| `d-align-items-stretch`       | align-items: stretch                | -      |                                                     |
-| `d-justify-content-start`     | justify-content: flex-start         | -      |                                                     |
-| `d-justify-content-end`       | justify-content: flex-end           | -      |                                                     |
-| ` d-justify-content-center`   | justify-content: center             | -      |                                                     |
-| `d-justify-content-space-ar`  | justify-content: space-around       | -      |                                                     |
-| `d-justify-content-space-bet` | justify-content: space-between      | -      |                                                     |
-| `d-justify-content-space-ev`  | justify-content: space-evenly       | -      |                                                     |
-| `d-align-content-start`       | align-content: flex-start           | -      |                                                     |
-| `d-align-content-end`         | align-content: flex-end             | -      |                                                     |
-| `d-align-content-center`      | align-content: center               | -      |                                                     |
-| `d-align-content-space-ar`    | align-content: space-around         | -      |                                                     |
-| `d-align-content-space-bet`   | align-content: space-between        | -      |                                                     |
-| `d-align-content-space-ev`    | align-content: space-evenly         | -      |                                                     |
-| `d-align-content-stretch`     | align-content: stretch              | -      |                                                     |
-| `d-align-self-auto`           | align-self: auto                    | -      |                                                     |
-| `d-align-self-start `         | align-self: start                   | -      |                                                     |
-| `d-align-self-end`            | align-self: end                     | -      |                                                     |
-| `d-align-self-center`         | align-self: center                  | -      |                                                     |
-| `d-align-self-baseline`       | align-self: baseline                | -      |                                                     |
-| `d-align-self-stretch`        | align-self: stretch                 | -      |                                                     |
+| `d-align-items-start `        | align-items: flex-start             | -      | Los Elementos se nivelan con el borde de inicio     |
+| `d-align-items-end `          | align-items: flex-end               | -      | Los elementos se nivelan con el borde del extremo   |
+| `d-align-items-center`        | align-items: center                 | -      | Los elementos se centran en el eje transversal      |
+| `d-align-items-baseline `     | align-items: baseline               | -      | Todos los elementos flexibles se alinean            |
+| `d-align-items-stretch`       | align-items: stretch                | -      | Los elementos flexibles se estiran                  |
+| `d-justify-content-start`     | justify-content: flex-start         | -      | Alineo hacia el borde inicial del contenedor        |
+| `d-justify-content-end`       | justify-content: flex-end           | -      | Alineo hacia el borde final del contenedor          |
+| `d-justify-content-center`    | justify-content: center             | -      | Alineo hacia el centro del contedor                 |
+| `d-justify-content-space-ar`  | justify-content: space-around       | -      | Elementos con espacio antes,entre y después de ellos|
+| `d-justify-content-space-bet` | justify-content: space-between      | -      | Los artículos tendrán espacio entre ellos           |
+| `d-justify-content-space-ev`  | justify-content: space-evenly       | -      | Elementos distribuidos dentro del contenedor        |
+| `d-align-content-start`       | align-content: flex-start           | -      | Líneas llenas hasta el inicio del contenedor        |
+| `d-align-content-end`         | align-content: flex-end             | -      | Líneas empacadas hasta el final del contenedor      |
+| `d-align-content-center`      | align-content: center               | -      | Líneas empacadas al centro del contenedor           |
+| `d-align-content-space-ar`    | align-content: space-around         | -      | Líneas distribuidas con igual espacio entre ellas   |
+| `d-align-content-space-bet`   | align-content: space-between        | -      | Líneas distribuidas uniformemente                   | 
+| `d-align-content-space-ev`    | align-content: space-evenly         | -      | Elementos distribuidos dentro del contenedor        |
+| `d-align-content-stretch`     | align-content: stretch              | -      | Las líneas se estiran y ocupan el espacio restante  |
+| `d-align-self-auto`           | align-self: auto                    | -      | Establece el valor definido en contenedor flexible  |
+| `d-align-self-start `         | align-self: start                   | -      | Elementos alineado al inicio del eje transversal    |
+| `d-align-self-end`            | align-self: end                     | -      | Elementos alineado al final del eje transversal     |
+| `d-align-self-center`         | align-self: center                  | -      | Centra las alineaciones de uno de los elementos     |
+| `d-align-self-baseline`       | align-self: baseline                | -      | Elemento se coloca en línea de base del contenedor  |
+| `d-align-self-stretch`        | align-self: stretch                 | -      | El elemento se coloca para adaptarse al contenedor  |
 | `float-none`                  | float: none                         | -      | Elemento que no es flotante                         |
 | `float-left`                  | float: left                         | -      | Elemento flotante a la izquierda                    |
 | `float-right`                 | float: right                        | -      | Elemento flotante a la derecha                      |
