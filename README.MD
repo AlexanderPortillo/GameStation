@@ -117,10 +117,6 @@ GameStation/
     └── row-col.html
 ```
 
-```Html
-Codigo que queres poner
-```
-
 </details>
 
 ## Documentación
