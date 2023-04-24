@@ -1,4 +1,4 @@
-<h1 align="center">DOCUMENTACION - GAME STATION</h1>
+<h1 align="center">DOCUMENTACIÓN - GAMESTATION</h1>
 
 ## Tabla de contenido
 
@@ -21,9 +21,9 @@
 
 ## Indicaciones
 
-Si desea utilizar nuestra libreria es necesario conocer que procesos se deben de segui, para poder hacer uso correcto de la libreria.
+Si desea utilizar nuestra libreria es necesario conocer que procesos se deben de seguir, para poder hacer uso correcto de la libreria.
 
-- Primero necesitamos descargar la libreria, [Pulse para iniciar descarga](https://github.com/Jesse-Miranda), luego de haberla descargado es necesario desconprimir el achivo que se genera, veras una carpeta a la hora de descomprimir y a la hora de entrar en esta misma habran otras carpetas donde se encuentran distintos elementos de la libreria por lo cual te dare una lista de carpetas y elementos que puedes eliminar sin que se afecte la libreria, primero puedes empezar eliminando la carpeta HTML si asi lo desea, esta contiene diferentes elementos, como por ejemplo, alerts, badges, buttons, cards, container entre otros elementos, la siguiente carpeta que puedes eliminar es la de de Img ya que en esta solo se encuentran unas imagenes utilizadas unicamente para un diseño en especifico y la ultima carpeta que puedes eliminar es la que se llama Design ya que en esta solo se encuentran capturas de distintos elementos creados.
+- Primero necesitamos descargar la libreria, [Pulse para iniciar descarga](https://github.com/AlexanderPortillo/GameStation/archive/refs/heads/main.zip), luego de haberla descargado es necesario desconprimir el achivo que se genera, veras una carpeta a la hora de descomprimir y a la hora de entrar en esta misma habran otras carpetas donde se encuentran distintos elementos de la libreria por lo cual te dare una lista de carpetas y elementos que puedes eliminar sin que se afecte la libreria, primero puedes empezar eliminando la carpeta HTML si asi lo desea, esta contiene diferentes elementos, como por ejemplo, alerts, badges, buttons, cards, container entre otros elementos, la siguiente carpeta que puedes eliminar es la de de Img ya que en esta solo se encuentran unas imagenes utilizadas unicamente para un diseño en especifico y la ultima carpeta que puedes eliminar es la que se llama Design ya que en esta solo se encuentran capturas de distintos elementos creados.
 
 - Lista de carpetas que no se deben borrar o modificarr, la primera seria la carpeta que se llama Scss esta misma no se debe de modificar ni de eliminar ya que ahi se encuentran la mayoria de elementos, si en un futuro desea agregar un elemnto nuevo y esta carpeta no se encuentra sera imposible agregar algo nuevo, otra carpeta que no se debe de tocar es la de Css, ya que aqui se encuentra la compilacion de los elementos creados en la carpeta Scss, ojo el unico archivo que no se puede eliminar de esta carpeta es el style.css y el style.css.map ya que es esta estan todos los elementos, si usted desea eliminar los otros archivos que se encuentran en esta carpeta, no hay problema alguno en hacerlo.
 
@@ -82,8 +82,12 @@ GameStation/
 │   ├── badges.css.map
 │   ├── border-radius.css
 │   ├── border-radius.css.map
+│   ├── box-shadow.css
+│   ├── box-shadow.css.map
 │   ├── btn.css
 │   ├── btn.css.map
+│   ├── cards.css
+│   ├── cards.css.map
 │   ├── colors.css
 │   ├── colors.css.map
 │   ├── containers.css
@@ -98,6 +102,8 @@ GameStation/
 │   ├── margin-padding-border.css.map
 │   ├── navbars.css
 │   ├── navbars.css.map
+│   ├── reset.css
+│   ├── reset.css.map
 │   ├── style.css
 │   └── style.css.map
 └── Html/
@@ -109,6 +115,10 @@ GameStation/
     ├── form.html
     ├── navbar.html
     └── row-col.html
+```
+
+```Html
+Codigo que queres poner
 ```
 
 </details>
@@ -812,7 +822,7 @@ GameStation/
 
 <h1 align="center">Form</h1>
 
-![](./Design/navbar1.png)
+![](./Design/form1.png)
 
 ```Html
 <form action="" class="bg-prusian-blue p-10 m-20 col bg-flame circle-5 b-1">
@@ -827,7 +837,7 @@ GameStation/
 </form>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form2.png)
 
 ```Html
 <form action="" class="row bg-prusian-blue p-10 m-20 bg-flame circle-5 b-1">
@@ -843,7 +853,7 @@ GameStation/
 </form>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form3.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10" style="width: 300px;">
@@ -866,7 +876,7 @@ GameStation/
 </div>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form4.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10" style="width: 500px;">
@@ -878,7 +888,7 @@ GameStation/
 </div>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form5.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10" style="width: 300px;">
@@ -907,7 +917,7 @@ GameStation/
 </div>
 ```
 
-![](./Design/navbar1.png)
+![](./Design/form6.png)
 
 ```Html
 <div class="form b-1 p-10 circle-10 disabled" style="width: 500px;">
