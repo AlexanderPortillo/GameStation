@@ -207,6 +207,7 @@ GameStation/
 | `bg-satin-sheen-gold`         | background-color                    | -      | Fondo color oro brillo satinado                     |
 | `bg-paynes-gray`              | background-color                    | -      | Fondo color payne gris                              |
 | `bg-dim-gray`                 | background-color                    | -      | Fondo color gris tenue                              |
+| `blur`                        | backdrop-filter                     | -      | Fondo de desenfoque                                 |
 | `container`                   | Sin representacion                  | -      | Contenedor simple receptivo                         |
 | `container-xxl`               | Sin representacion                  | -      | Contenedor para dispositivo grande 1400px           |
 | `container-xl`                | Sin representacion                  | -      | Contenedor para dispositivo grande 1200px           |
@@ -278,10 +279,8 @@ GameStation/
 | `text-justify-right`          | text-align: right                   | -      | Establece el contenido a la derecha                 |
 | `text-justify-start`          | text-align: start                   | -      | left = izquierda-derecha right = derecha-izquierda  |
 | `pointer`                     | Sin representacion                  | -      | Especifica el tipo de cursor que se mostrara        |
-| ``                            |                                     |        |                                                     |
-| ``                            |                                     |        |                                                     |
-| ``                            |                                     |        |                                                     |
-| ``                            |                                     |        |                                                     |
+| `form`                        | Sin representacion                  |        | Formulario simple completo                          |
+| `checkbox`                    | Sin representacion                  |        | Checkbox simple normal                              |
 | `m-1`                         | margin                              | px     | Especifica el tamaño de margen de los 4 lados       |
 | `m-t-1`                       | margin-top                          | px     | Especifica el tamaño de margen de arriba            |
 | `m-b-1`                       | margin-bottom                       | px     | Especifica el tamaño del margen de abajo            |
