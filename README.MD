@@ -4,7 +4,6 @@
 
 - [Descripción general](#Descripción-general)
   - [Indicaciones](#Indicaciones)
-  - [Como usar la libreria](#como-usar-la-libreria)
   - [Descripción del proyecto](#Descripción-del-proyecto)
   - [Nombre de la librería](#Nombre-de-librería)
   - [Versión del proyecto](#Versión-del-proyecto)
